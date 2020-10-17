@@ -1,4 +1,5 @@
 # 浅梦的学习笔记 公众号文章汇总
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shenweichen.AlgoNotes)
 ## 目录
 -  [排序&CXR预估](#排序CXR预估)  
 -  [召回匹配](#召回匹配)  
@@ -10,9 +11,25 @@
 -  [NLP&CV](#NLPCV)  
 -  [求职面试](#求职面试)
 
-- 公众号：**浅梦的学习笔记**    
-- 微信: **deepctrbot**  
- ![wechat](./code.png)
+<html>
+    <table style="margin-left: 20px; margin-right: auto;">
+        <tr>
+            <td>
+                公众号：<b>浅梦的学习笔记</b><br><br>
+                <a href="https://github.com/shenweichen">
+  <img align="center" src="./code.png" />
+</a>
+            </td>
+            <td>
+                微信：<b>deepctrbot</b><br><br>
+ <a href="https://github.com/shenweichen">
+  <img align="center" src="./deepctrbot.png" />
+</a>
+            </td>
+        </tr>
+    </table>
+</html>
+  
   
 ## 排序&CXR预估
 - [分类模型与排序模型在推荐系统中的异同分析](https://mp.weixin.qq.com/s/pM2dDVT7gLWbAxxMU011BQ)
@@ -122,6 +139,7 @@
 
 
 ## 计算广告
+- [计算广告OCPC算法实践(一) 智能出价PID控制中的偏差与响应函数设计](https://mp.weixin.qq.com/s/xD4tlVXX8w-pMk_JJF-vTA) 
 - [《计算广告》学习笔记](https://mp.weixin.qq.com/s/hUK0QN4UFonKJWWwZF-u-Q) 
 
 - [OCPC 广告算法在凤凰新媒体的实践探索](https://mp.weixin.qq.com/s/bD73FrOE9teRXMD_bIh-JQ)  
