@@ -4,13 +4,14 @@
 -  [排序&CXR预估](#排序CXR预估)  
 -  [召回匹配](#召回匹配)  
 -  [用户画像&特征工程](#用户画像特征工程)  
+-  [精彩讨论&知识沉淀](#精彩讨论知识沉淀)
 -  [推荐搜索综合](#推荐搜索综合)  
--  [计算广告](#计算广告)  
+-  [计算广告](#计算广告) 
 -  [大数据](#大数据)  
 -  [图算法](#图算法)  
 -  [NLP&CV](#NLPCV)  
 -  [求职面试](#求职面试)
--  [精彩讨论&知识沉淀](#精彩讨论知识沉淀)
+
 
 <html>
     <table style="margin-left: 20px; margin-right: auto;">
@@ -129,10 +130,37 @@
 - [用户画像必会的行为偏好计算方法
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
+## 精彩讨论&知识沉淀
+- [学习交流小组精彩内容摘要 No.21](https://mp.weixin.qq.com/s/pfw1yeed7hGK-Q6nyGQx-w) 
+
+- [学习交流小组精彩内容摘要 No.20](https://mp.weixin.qq.com/s/C4A_mmaAFnPZOky382XaSw) 
+- [学习交流小组精彩内容摘要 No.19](https://mp.weixin.qq.com/s/0UUcplCtgd7AGK5JASoKZA) 
+- [学习交流小组精彩内容摘要 No.18](https://mp.weixin.qq.com/s/kUGMR2ty_urF5j8vjGQ_DQ) 
+- [学习交流小组精彩内容摘要 No.17](https://mp.weixin.qq.com/s/AMzOcQyURtnS5axCdYx6UQ) 
+- [学习交流小组精彩内容摘要 No.16](https://mp.weixin.qq.com/s/7qsRtLs4AtmAOrBUHuxf9g)
+- [学习交流小组精彩内容摘要 No.15](https://mp.weixin.qq.com/s/0McGiE9REhaEz3QoYT7-YQ)
+- [学习交流小组精彩内容摘要 No.14](https://mp.weixin.qq.com/s/taxzzaYlRHmjW_pPC02vQA)
+- [学习交流小组精彩内容摘要 No.13](https://mp.weixin.qq.com/s/1XZMAYPHPCGjerA1iJl9Ag)
+- [学习交流小组精彩内容摘要(06.12-06.18)](https://mp.weixin.qq.com/s/minWDYM8b7Ek-Vb3FPuelw)
+- [学习交流小组精彩内容摘要(06.09-06.11)](https://mp.weixin.qq.com/s/j6O8KzYWsxW-5fWbyz-hOg)
+- [学习交流小组精彩内容摘要(06.05-06.08)](https://mp.weixin.qq.com/s/SNmiDDCJiskRlBqLXuV0kg)
+- [学习交流小组精彩内容摘要(05.31-06.04)](https://mp.weixin.qq.com/s/jvqfxonEBlrrkobHfxZ8PA)
+- [学习交流小组精彩内容摘要(05.25-05.30)](https://mp.weixin.qq.com/s/uJqY_DYEAwKI0fHA7s8pXg)
+- [学习交流小组精彩内容摘要(05.21-05.24)](https://mp.weixin.qq.com/s/_pgnB7zioxxX5A_hxV52lw)
+- [学习交流小组精彩内容摘要(05.18-05.20)](https://mp.weixin.qq.com/s/yaimSlvmG6kseqSLY6hcXQ)
+- [学习交流小组精彩内容摘要(05.14-05.17)](https://mp.weixin.qq.com/s/dpugb2_3i4M31FWYuFcd5Q)
+- [学习交流小组精彩内容摘要(05.08-05.13)](https://mp.weixin.qq.com/s/SLafxvWm5izflGJX6qe7vA)
+- [学习交流小组精彩内容摘要(01.21-02.06)
+](https://mp.weixin.qq.com/s/mvFv907DiICFV8tTB_9EYA)
+- [学习交流小组精彩内容摘要(01.13-01.20)](https://mp.weixin.qq.com/s/WjzvyUmOissSSGITS34UZQ)
+- [学习交流小组精彩内容摘要(01.04-01.12)
+](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [推荐系统评价：什么是好的推荐系统](https://mp.weixin.qq.com/s/3DCkAAsl-CO1QmYDZz454A)
+- [低频少样本长验证周期场景下的算法设计](https://mp.weixin.qq.com/s/dwptlx8UGNq8-WzEWRLspA) 
 
+- [基于行列式点过程的推荐多样性提升算法](https://mp.weixin.qq.com/s/9DZvs82Da3kbfuUvpHuIdw) 
+- [推荐系统评价：什么是好的推荐系统](https://mp.weixin.qq.com/s/3DCkAAsl-CO1QmYDZz454A)
 - [万字长文解读电商搜索——如何让你买得又快又好](https://mp.weixin.qq.com/s/1hc7G4eBSyk-b8Dv4FsYbg) 
 - [工业界推荐系统实用分析技巧](https://mp.weixin.qq.com/s/UUb7esHxhdauAdwNR8TwTQ) 
 - [KDD20 | 推荐系统论文一览](https://mp.weixin.qq.com/s/OIZm5UPv7f-I66vKBgyVEw)  
@@ -202,8 +230,10 @@
 
 
 ## NLP&CV
-- [【论文串讲】从GPT和BERT到XLNet](https://mp.weixin.qq.com/s/weargDvogar3fTqSDIM7LQ)
+- [【论文串讲】从BERT和XLNet到MPNet](https://mp.weixin.qq.com/s/Lnid-DFMI54Tw_oOi37mjA) 
 
+- [预训练模型系列-通用预训练MASS](https://mp.weixin.qq.com/s/noNrZK8DjQHy0FrSyEWuXA) 
+- [【论文串讲】从GPT和BERT到XLNet](https://mp.weixin.qq.com/s/weargDvogar3fTqSDIM7LQ)
 - [Transformer 超详细解读，一图胜千言](https://mp.weixin.qq.com/s/6RPxTdDcxJ050oAp34Ofdw)
 - [【经典精读】Transformer模型深度解读](https://mp.weixin.qq.com/s/Cs0UDQmeqwb3dn1ivawb3w)
 - [word2vec模型深度解析
@@ -232,27 +262,3 @@
 - [算法工程师当前选哪个方向好？1，CV；2，NLP；3，推荐系统？](https://mp.weixin.qq.com/s/O8HHeUL0D9-NNB8-MRPbdA)
 - [番外篇——社招如何拿到心仪公司的offer](https://mp.weixin.qq.com/s/ppx_Y9Gg6FeDyRv9gqgCVw)
 
-## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.20](https://mp.weixin.qq.com/s/C4A_mmaAFnPZOky382XaSw) 
-
-- [学习交流小组精彩内容摘要 No.19](https://mp.weixin.qq.com/s/0UUcplCtgd7AGK5JASoKZA) 
-- [学习交流小组精彩内容摘要 No.18](https://mp.weixin.qq.com/s/kUGMR2ty_urF5j8vjGQ_DQ) 
-- [学习交流小组精彩内容摘要 No.17](https://mp.weixin.qq.com/s/AMzOcQyURtnS5axCdYx6UQ) 
-- [学习交流小组精彩内容摘要 No.16](https://mp.weixin.qq.com/s/7qsRtLs4AtmAOrBUHuxf9g)
-- [学习交流小组精彩内容摘要 No.15](https://mp.weixin.qq.com/s/0McGiE9REhaEz3QoYT7-YQ)
-- [学习交流小组精彩内容摘要 No.14](https://mp.weixin.qq.com/s/taxzzaYlRHmjW_pPC02vQA)
-- [学习交流小组精彩内容摘要 No.13](https://mp.weixin.qq.com/s/1XZMAYPHPCGjerA1iJl9Ag)
-- [学习交流小组精彩内容摘要(06.12-06.18)](https://mp.weixin.qq.com/s/minWDYM8b7Ek-Vb3FPuelw)
-- [学习交流小组精彩内容摘要(06.09-06.11)](https://mp.weixin.qq.com/s/j6O8KzYWsxW-5fWbyz-hOg)
-- [学习交流小组精彩内容摘要(06.05-06.08)](https://mp.weixin.qq.com/s/SNmiDDCJiskRlBqLXuV0kg)
-- [学习交流小组精彩内容摘要(05.31-06.04)](https://mp.weixin.qq.com/s/jvqfxonEBlrrkobHfxZ8PA)
-- [学习交流小组精彩内容摘要(05.25-05.30)](https://mp.weixin.qq.com/s/uJqY_DYEAwKI0fHA7s8pXg)
-- [学习交流小组精彩内容摘要(05.21-05.24)](https://mp.weixin.qq.com/s/_pgnB7zioxxX5A_hxV52lw)
-- [学习交流小组精彩内容摘要(05.18-05.20)](https://mp.weixin.qq.com/s/yaimSlvmG6kseqSLY6hcXQ)
-- [学习交流小组精彩内容摘要(05.14-05.17)](https://mp.weixin.qq.com/s/dpugb2_3i4M31FWYuFcd5Q)
-- [学习交流小组精彩内容摘要(05.08-05.13)](https://mp.weixin.qq.com/s/SLafxvWm5izflGJX6qe7vA)
-- [学习交流小组精彩内容摘要(01.21-02.06)
-](https://mp.weixin.qq.com/s/mvFv907DiICFV8tTB_9EYA)
-- [学习交流小组精彩内容摘要(01.13-01.20)](https://mp.weixin.qq.com/s/WjzvyUmOissSSGITS34UZQ)
-- [学习交流小组精彩内容摘要(01.04-01.12)
-](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
