@@ -131,8 +131,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.21](https://mp.weixin.qq.com/s/pfw1yeed7hGK-Q6nyGQx-w) 
+- [学习交流小组精彩内容摘要 No.22](https://mp.weixin.qq.com/s/trNuT-EDSW6zqNVVEgbgzg)  
 
+- [学习交流小组精彩内容摘要 No.21](https://mp.weixin.qq.com/s/pfw1yeed7hGK-Q6nyGQx-w) 
 - [学习交流小组精彩内容摘要 No.20](https://mp.weixin.qq.com/s/C4A_mmaAFnPZOky382XaSw) 
 - [学习交流小组精彩内容摘要 No.19](https://mp.weixin.qq.com/s/0UUcplCtgd7AGK5JASoKZA) 
 - [学习交流小组精彩内容摘要 No.18](https://mp.weixin.qq.com/s/kUGMR2ty_urF5j8vjGQ_DQ) 
@@ -179,9 +180,10 @@
 
 
 ## 计算广告
+- [计算广告OCPC算法实践 (二) ocpc智能出价PID控制中不同偏差函数特性对比](https://mp.weixin.qq.com/s/TebzhaVgsH1s9cIfCzAb7Q)  
+
 - [计算广告OCPC算法实践(一) 智能出价PID控制中的偏差与响应函数设计](https://mp.weixin.qq.com/s/xD4tlVXX8w-pMk_JJF-vTA) 
 - [《计算广告》学习笔记](https://mp.weixin.qq.com/s/hUK0QN4UFonKJWWwZF-u-Q) 
-
 - [OCPC 广告算法在凤凰新媒体的实践探索](https://mp.weixin.qq.com/s/bD73FrOE9teRXMD_bIh-JQ)  
 - [计算广告发展历程——从CPC到oCPX](https://mp.weixin.qq.com/s/Sq9iAYi8mCqzFnXdar4aCg) 
 - [百度凤巢新一代广告召回系统——“莫比乌斯”](https://mp.weixin.qq.com/s/kdkz6MOrIo9ih-d1hBBNRg) 
@@ -251,8 +253,9 @@
 
 
 ## 求职面试
-- [你见过最差的算法工程师能差到什么程度？](https://mp.weixin.qq.com/s/Z9Sczo3jYW7nJolt696slw)  
+- [算法小白的学习路线（一）](https://mp.weixin.qq.com/s/tKYPTsRsSJU9w_DTYTGRDw)  
 
+- [你见过最差的算法工程师能差到什么程度？](https://mp.weixin.qq.com/s/Z9Sczo3jYW7nJolt696slw)  
 - [我的求职经验总结](https://mp.weixin.qq.com/s/tcg2_UlP-hm29Rd5tgARLg) 
 - [求职面试 | 《剑指Offer》Python题解&常考题总结
 ](https://mp.weixin.qq.com/s/PdlRCvf0dRlSgkh7cO0pEw) 
