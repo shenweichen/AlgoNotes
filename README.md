@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [DCN-M：Google提出改进版DCN，用于大规模排序系统的特征交叉学习(附代码)](https://mp.weixin.qq.com/s/0qidwbxyfTkODTw2DIiRWw)  
+- [推荐系统rerank模型梳理&论文推荐](https://mp.weixin.qq.com/s/Xc38VtbzAzyHL8Idfs4iyA) 
 
+- [DCN-M：Google提出改进版DCN，用于大规模排序系统的特征交叉学习(附代码)](https://mp.weixin.qq.com/s/0qidwbxyfTkODTw2DIiRWw)  
 - [分类模型与排序模型在推荐系统中的异同分析](https://mp.weixin.qq.com/s/pM2dDVT7gLWbAxxMU011BQ)
 - [推荐系统中的排序学习](https://mp.weixin.qq.com/s/qQGFthzM5NAwk-8Wpgg_Rg) 
 - [CIKM20 | 阿里MiNet：跨域点击率预估混合兴趣模型](https://mp.weixin.qq.com/s/jkGb_qkfmEOEs030ZRIJIw) 
@@ -131,8 +132,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.22](https://mp.weixin.qq.com/s/trNuT-EDSW6zqNVVEgbgzg)  
+- [学习交流小组精彩内容摘要 No.24](https://mp.weixin.qq.com/s/PXXnGswfCeP9yIboSQNU5Q) 
 
+- [学习交流小组精彩内容摘要 No.23](https://mp.weixin.qq.com/s/dureUyE3SyycP0L0VkPznw) 
+- [学习交流小组精彩内容摘要 No.22](https://mp.weixin.qq.com/s/trNuT-EDSW6zqNVVEgbgzg)  
 - [学习交流小组精彩内容摘要 No.21](https://mp.weixin.qq.com/s/pfw1yeed7hGK-Q6nyGQx-w) 
 - [学习交流小组精彩内容摘要 No.20](https://mp.weixin.qq.com/s/C4A_mmaAFnPZOky382XaSw) 
 - [学习交流小组精彩内容摘要 No.19](https://mp.weixin.qq.com/s/0UUcplCtgd7AGK5JASoKZA) 
@@ -158,8 +161,10 @@
 ](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [低频少样本长验证周期场景下的算法设计](https://mp.weixin.qq.com/s/dwptlx8UGNq8-WzEWRLspA) 
+- [推荐系统：石器与青铜时代](https://mp.weixin.qq.com/s/TWEMQL07n7jMJoYecUojww)
 
+- [推荐系统衡量：ABtest 框架](https://mp.weixin.qq.com/s/85BBYJRbvpV9CqgYjW9Ayg)
+- [低频少样本长验证周期场景下的算法设计](https://mp.weixin.qq.com/s/dwptlx8UGNq8-WzEWRLspA) 
 - [基于行列式点过程的推荐多样性提升算法](https://mp.weixin.qq.com/s/9DZvs82Da3kbfuUvpHuIdw) 
 - [推荐系统评价：什么是好的推荐系统](https://mp.weixin.qq.com/s/3DCkAAsl-CO1QmYDZz454A)
 - [万字长文解读电商搜索——如何让你买得又快又好](https://mp.weixin.qq.com/s/1hc7G4eBSyk-b8Dv4FsYbg) 
