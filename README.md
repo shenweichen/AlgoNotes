@@ -89,8 +89,9 @@
 
 
 ## 召回匹配
-- [Embedding 技术在民宿推荐中的应用](https://mp.weixin.qq.com/s/yCugvGJw9-6-WLZumtJ-TA) 
+- [字节跳动Deep Retrieval召回模型笔记](https://mp.weixin.qq.com/s/u8-iUcrWWVG8uWR5o-Wugg)
 
+- [Embedding 技术在民宿推荐中的应用](https://mp.weixin.qq.com/s/yCugvGJw9-6-WLZumtJ-TA) 
 - [EMBEDDING 在大厂推荐场景中的工程化实践](https://mp.weixin.qq.com/s/8Mx8CznNBlJ6adlwXbcHXQ) 
 - [KDD18 | 阿里新一代召回系统TDM读后感](https://mp.weixin.qq.com/s/TgmVBA3SBmCvM8Z2jkjdrw) 
 - [再评Airbnb的经典Embedding论文](https://mp.weixin.qq.com/s/RF3g-6ecfpetbvEfA97YrA) 
@@ -132,8 +133,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.24](https://mp.weixin.qq.com/s/PXXnGswfCeP9yIboSQNU5Q) 
+- [学习交流小组精彩内容摘要 No.25](https://mp.weixin.qq.com/s/QWnaS_Uc9KLyj8Bpwg6Uzw)
 
+- [学习交流小组精彩内容摘要 No.24](https://mp.weixin.qq.com/s/PXXnGswfCeP9yIboSQNU5Q) 
 - [学习交流小组精彩内容摘要 No.23](https://mp.weixin.qq.com/s/dureUyE3SyycP0L0VkPznw) 
 - [学习交流小组精彩内容摘要 No.22](https://mp.weixin.qq.com/s/trNuT-EDSW6zqNVVEgbgzg)  
 - [学习交流小组精彩内容摘要 No.21](https://mp.weixin.qq.com/s/pfw1yeed7hGK-Q6nyGQx-w) 
@@ -185,8 +187,9 @@
 
 
 ## 计算广告
-- [计算广告OCPC算法实践 (二) ocpc智能出价PID控制中不同偏差函数特性对比](https://mp.weixin.qq.com/s/TebzhaVgsH1s9cIfCzAb7Q)  
+- [Hulu：视频广告系统中的算法实践](https://mp.weixin.qq.com/s/CE7i-EHPt2W84C0HWNx12Q)
 
+- [计算广告OCPC算法实践 (二) ocpc智能出价PID控制中不同偏差函数特性对比](https://mp.weixin.qq.com/s/TebzhaVgsH1s9cIfCzAb7Q)  
 - [计算广告OCPC算法实践(一) 智能出价PID控制中的偏差与响应函数设计](https://mp.weixin.qq.com/s/xD4tlVXX8w-pMk_JJF-vTA) 
 - [《计算广告》学习笔记](https://mp.weixin.qq.com/s/hUK0QN4UFonKJWWwZF-u-Q) 
 - [OCPC 广告算法在凤凰新媒体的实践探索](https://mp.weixin.qq.com/s/bD73FrOE9teRXMD_bIh-JQ)  
