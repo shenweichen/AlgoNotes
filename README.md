@@ -133,9 +133,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.25](https://mp.weixin.qq.com/s/QWnaS_Uc9KLyj8Bpwg6Uzw)
+- [学习交流小组精彩内容摘要 No.26](https://mp.weixin.qq.com/s/38Z3UurANovtoaQ0epteeQ)
 
-- [学习交流小组精彩内容摘要 No.24](https://mp.weixin.qq.com/s/PXXnGswfCeP9yIboSQNU5Q) 
+- [学习交流小组精彩内容摘要 No.25](https://mp.weixin.qq.com/s/QWnaS_Uc9KLyj8Bpwg6Uzw)
+- [学习交流小组精彩内容摘要 No.24](https://mp.weixin.qq.com/s/T-JzLUiANLT1AhakF6qb2g) 
 - [学习交流小组精彩内容摘要 No.23](https://mp.weixin.qq.com/s/dureUyE3SyycP0L0VkPznw) 
 - [学习交流小组精彩内容摘要 No.22](https://mp.weixin.qq.com/s/trNuT-EDSW6zqNVVEgbgzg)  
 - [学习交流小组精彩内容摘要 No.21](https://mp.weixin.qq.com/s/pfw1yeed7hGK-Q6nyGQx-w) 
@@ -163,8 +164,9 @@
 ](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [推荐系统：石器与青铜时代](https://mp.weixin.qq.com/s/TWEMQL07n7jMJoYecUojww)
+- [AutoML 在表数据中的研究与应用](https://mp.weixin.qq.com/s/RIoBHE8fopgMVZDYRBazGg)
 
+- [推荐系统：石器与青铜时代](https://mp.weixin.qq.com/s/TWEMQL07n7jMJoYecUojww)
 - [推荐系统衡量：ABtest 框架](https://mp.weixin.qq.com/s/85BBYJRbvpV9CqgYjW9Ayg)
 - [低频少样本长验证周期场景下的算法设计](https://mp.weixin.qq.com/s/dwptlx8UGNq8-WzEWRLspA) 
 - [基于行列式点过程的推荐多样性提升算法](https://mp.weixin.qq.com/s/9DZvs82Da3kbfuUvpHuIdw) 
@@ -187,8 +189,9 @@
 
 
 ## 计算广告
-- [Hulu：视频广告系统中的算法实践](https://mp.weixin.qq.com/s/CE7i-EHPt2W84C0HWNx12Q)
+- [计算广告OCPC实践(三) ocpx效果到底怎么样？从ocpc与ocpm的区别说起](https://mp.weixin.qq.com/s/XPBc3fNXwtRnjBkPw2FrSA)
 
+- [Hulu：视频广告系统中的算法实践](https://mp.weixin.qq.com/s/CE7i-EHPt2W84C0HWNx12Q)
 - [计算广告OCPC算法实践 (二) ocpc智能出价PID控制中不同偏差函数特性对比](https://mp.weixin.qq.com/s/TebzhaVgsH1s9cIfCzAb7Q)  
 - [计算广告OCPC算法实践(一) 智能出价PID控制中的偏差与响应函数设计](https://mp.weixin.qq.com/s/xD4tlVXX8w-pMk_JJF-vTA) 
 - [《计算广告》学习笔记](https://mp.weixin.qq.com/s/hUK0QN4UFonKJWWwZF-u-Q) 
