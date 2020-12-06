@@ -133,8 +133,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.26](https://mp.weixin.qq.com/s/38Z3UurANovtoaQ0epteeQ)
+- [学习交流小组精彩内容摘要 No.27](https://mp.weixin.qq.com/s/cchaL9rYnBC2xYWH8jYUfQ) 
 
+- [学习交流小组精彩内容摘要 No.26](https://mp.weixin.qq.com/s/38Z3UurANovtoaQ0epteeQ)
 - [学习交流小组精彩内容摘要 No.25](https://mp.weixin.qq.com/s/QWnaS_Uc9KLyj8Bpwg6Uzw)
 - [学习交流小组精彩内容摘要 No.24](https://mp.weixin.qq.com/s/T-JzLUiANLT1AhakF6qb2g) 
 - [学习交流小组精彩内容摘要 No.23](https://mp.weixin.qq.com/s/dureUyE3SyycP0L0VkPznw) 
@@ -164,8 +165,9 @@
 ](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [AutoML 在表数据中的研究与应用](https://mp.weixin.qq.com/s/RIoBHE8fopgMVZDYRBazGg)
+- [浅谈 UC 国际信息流推荐](https://mp.weixin.qq.com/s/ayN6t8buVqN6GLNyWky59A) 
 
+- [AutoML 在表数据中的研究与应用](https://mp.weixin.qq.com/s/RIoBHE8fopgMVZDYRBazGg)
 - [推荐系统：石器与青铜时代](https://mp.weixin.qq.com/s/TWEMQL07n7jMJoYecUojww)
 - [推荐系统衡量：ABtest 框架](https://mp.weixin.qq.com/s/85BBYJRbvpV9CqgYjW9Ayg)
 - [低频少样本长验证周期场景下的算法设计](https://mp.weixin.qq.com/s/dwptlx8UGNq8-WzEWRLspA) 
