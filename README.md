@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [推荐系统rerank模型梳理&论文推荐](https://mp.weixin.qq.com/s/Xc38VtbzAzyHL8Idfs4iyA) 
+- [腾讯FAT | 未来感知的多样化趋势推荐框架](https://mp.weixin.qq.com/s/jvWJuC0O9eVUb-o2PUSe8w)
 
+- [推荐系统rerank模型梳理&论文推荐](https://mp.weixin.qq.com/s/Xc38VtbzAzyHL8Idfs4iyA) 
 - [DCN-M：Google提出改进版DCN，用于大规模排序系统的特征交叉学习(附代码)](https://mp.weixin.qq.com/s/0qidwbxyfTkODTw2DIiRWw)  
 - [分类模型与排序模型在推荐系统中的异同分析](https://mp.weixin.qq.com/s/pM2dDVT7gLWbAxxMU011BQ)
 - [推荐系统中的排序学习](https://mp.weixin.qq.com/s/qQGFthzM5NAwk-8Wpgg_Rg) 
@@ -133,8 +134,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.27](https://mp.weixin.qq.com/s/cchaL9rYnBC2xYWH8jYUfQ) 
+- [学习交流小组精彩内容摘要 No.28](https://mp.weixin.qq.com/s/mcB7GhlQCbh90DZRwcnoOA) 
 
+- [学习交流小组精彩内容摘要 No.27](https://mp.weixin.qq.com/s/cchaL9rYnBC2xYWH8jYUfQ) 
 - [学习交流小组精彩内容摘要 No.26](https://mp.weixin.qq.com/s/38Z3UurANovtoaQ0epteeQ)
 - [学习交流小组精彩内容摘要 No.25](https://mp.weixin.qq.com/s/QWnaS_Uc9KLyj8Bpwg6Uzw)
 - [学习交流小组精彩内容摘要 No.24](https://mp.weixin.qq.com/s/T-JzLUiANLT1AhakF6qb2g) 
@@ -191,8 +193,9 @@
 
 
 ## 计算广告
-- [计算广告OCPC实践(三) ocpx效果到底怎么样？从ocpc与ocpm的区别说起](https://mp.weixin.qq.com/s/XPBc3fNXwtRnjBkPw2FrSA)
+- [阿里妈妈：品牌广告中的 NLP 算法实践](https://mp.weixin.qq.com/s/Kt70i7s7THU0s6zzALtBfQ)
 
+- [计算广告OCPC实践(三) ocpx效果到底怎么样？从ocpc与ocpm的区别说起](https://mp.weixin.qq.com/s/XPBc3fNXwtRnjBkPw2FrSA)
 - [Hulu：视频广告系统中的算法实践](https://mp.weixin.qq.com/s/CE7i-EHPt2W84C0HWNx12Q)
 - [计算广告OCPC算法实践 (二) ocpc智能出价PID控制中不同偏差函数特性对比](https://mp.weixin.qq.com/s/TebzhaVgsH1s9cIfCzAb7Q)  
 - [计算广告OCPC算法实践(一) 智能出价PID控制中的偏差与响应函数设计](https://mp.weixin.qq.com/s/xD4tlVXX8w-pMk_JJF-vTA) 
