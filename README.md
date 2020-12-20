@@ -43,8 +43,10 @@
   
   
 ## 排序&CXR预估
-- [腾讯FAT | 未来感知的多样化趋势推荐框架](https://mp.weixin.qq.com/s/jvWJuC0O9eVUb-o2PUSe8w)
+- [序列检索系统在淘宝首页信息流重排中的实践（文末下载重排经典论文合集）](https://mp.weixin.qq.com/s/jL6Cp31DG_3H9IK5xEjPQQ)
 
+- [大幅提升训练性能，字节提出新型分布式DNN训练架构](https://mp.weixin.qq.com/s/kNX0P5BSFNbxgzMZuI51AQ) 
+- [腾讯FAT | 未来感知的多样化趋势推荐框架](https://mp.weixin.qq.com/s/jvWJuC0O9eVUb-o2PUSe8w)
 - [推荐系统rerank模型梳理&论文推荐](https://mp.weixin.qq.com/s/Xc38VtbzAzyHL8Idfs4iyA) 
 - [DCN-M：Google提出改进版DCN，用于大规模排序系统的特征交叉学习(附代码)](https://mp.weixin.qq.com/s/0qidwbxyfTkODTw2DIiRWw)  
 - [分类模型与排序模型在推荐系统中的异同分析](https://mp.weixin.qq.com/s/pM2dDVT7gLWbAxxMU011BQ)
@@ -134,8 +136,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.28](https://mp.weixin.qq.com/s/mcB7GhlQCbh90DZRwcnoOA) 
+- [学习交流小组精彩内容摘要 No.29](https://mp.weixin.qq.com/s/SBpph290DmIuQ02ZNmM7YQ) 
 
+- [学习交流小组精彩内容摘要 No.28](https://mp.weixin.qq.com/s/mcB7GhlQCbh90DZRwcnoOA) 
 - [学习交流小组精彩内容摘要 No.27](https://mp.weixin.qq.com/s/cchaL9rYnBC2xYWH8jYUfQ) 
 - [学习交流小组精彩内容摘要 No.26](https://mp.weixin.qq.com/s/38Z3UurANovtoaQ0epteeQ)
 - [学习交流小组精彩内容摘要 No.25](https://mp.weixin.qq.com/s/QWnaS_Uc9KLyj8Bpwg6Uzw)
@@ -167,8 +170,9 @@
 ](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [浅谈 UC 国际信息流推荐](https://mp.weixin.qq.com/s/ayN6t8buVqN6GLNyWky59A) 
+- [推荐系统应该如何保障推荐的多样性？](https://mp.weixin.qq.com/s/6Zs0nM2HOZFBFsC0PUy_0A)  
 
+- [浅谈 UC 国际信息流推荐](https://mp.weixin.qq.com/s/ayN6t8buVqN6GLNyWky59A) 
 - [AutoML 在表数据中的研究与应用](https://mp.weixin.qq.com/s/RIoBHE8fopgMVZDYRBazGg)
 - [推荐系统：石器与青铜时代](https://mp.weixin.qq.com/s/TWEMQL07n7jMJoYecUojww)
 - [推荐系统衡量：ABtest 框架](https://mp.weixin.qq.com/s/85BBYJRbvpV9CqgYjW9Ayg)
