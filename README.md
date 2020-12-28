@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [序列检索系统在淘宝首页信息流重排中的实践（文末下载重排经典论文合集）](https://mp.weixin.qq.com/s/jL6Cp31DG_3H9IK5xEjPQQ)
+- [UC 信息流推荐模型在多目标和模型优化方面的进展](https://mp.weixin.qq.com/s/pcykXIVYw9-hvobpcDANyA)
 
+- [序列检索系统在淘宝首页信息流重排中的实践（文末下载重排经典论文合集）](https://mp.weixin.qq.com/s/jL6Cp31DG_3H9IK5xEjPQQ)
 - [大幅提升训练性能，字节提出新型分布式DNN训练架构](https://mp.weixin.qq.com/s/kNX0P5BSFNbxgzMZuI51AQ) 
 - [腾讯FAT | 未来感知的多样化趋势推荐框架](https://mp.weixin.qq.com/s/jvWJuC0O9eVUb-o2PUSe8w)
 - [推荐系统rerank模型梳理&论文推荐](https://mp.weixin.qq.com/s/Xc38VtbzAzyHL8Idfs4iyA) 
@@ -136,8 +137,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.29](https://mp.weixin.qq.com/s/SBpph290DmIuQ02ZNmM7YQ) 
+- [学习交流小组精彩内容摘要 No.30](https://mp.weixin.qq.com/s/GhFihsReXsiEA_5S8AxAYQ)
 
+- [学习交流小组精彩内容摘要 No.29](https://mp.weixin.qq.com/s/SBpph290DmIuQ02ZNmM7YQ) 
 - [学习交流小组精彩内容摘要 No.28](https://mp.weixin.qq.com/s/mcB7GhlQCbh90DZRwcnoOA) 
 - [学习交流小组精彩内容摘要 No.27](https://mp.weixin.qq.com/s/cchaL9rYnBC2xYWH8jYUfQ) 
 - [学习交流小组精彩内容摘要 No.26](https://mp.weixin.qq.com/s/38Z3UurANovtoaQ0epteeQ)
@@ -273,8 +275,9 @@
 
 
 ## 求职面试
-- [算法小白的学习路线（一）](https://mp.weixin.qq.com/s/tKYPTsRsSJU9w_DTYTGRDw)  
+- [算法小白的学习路线（二）](https://mp.weixin.qq.com/s/6nvQtMn7tyJzdeKLE1RQHA)
 
+- [算法小白的学习路线（一）](https://mp.weixin.qq.com/s/tKYPTsRsSJU9w_DTYTGRDw)  
 - [你见过最差的算法工程师能差到什么程度？](https://mp.weixin.qq.com/s/Z9Sczo3jYW7nJolt696slw)  
 - [我的求职经验总结](https://mp.weixin.qq.com/s/tcg2_UlP-hm29Rd5tgARLg) 
 - [求职面试 | 《剑指Offer》Python题解&常考题总结
