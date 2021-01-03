@@ -137,8 +137,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.30](https://mp.weixin.qq.com/s/GhFihsReXsiEA_5S8AxAYQ)
+- [学习交流小组精彩内容摘要 No.31](https://mp.weixin.qq.com/s/HPcKSjRs8uJQx6MtHvwamA)
 
+- [学习交流小组精彩内容摘要 No.30](https://mp.weixin.qq.com/s/GhFihsReXsiEA_5S8AxAYQ)
 - [学习交流小组精彩内容摘要 No.29](https://mp.weixin.qq.com/s/SBpph290DmIuQ02ZNmM7YQ) 
 - [学习交流小组精彩内容摘要 No.28](https://mp.weixin.qq.com/s/mcB7GhlQCbh90DZRwcnoOA) 
 - [学习交流小组精彩内容摘要 No.27](https://mp.weixin.qq.com/s/cchaL9rYnBC2xYWH8jYUfQ) 
@@ -199,12 +200,13 @@
 
 
 ## 计算广告
-- [阿里妈妈：品牌广告中的 NLP 算法实践](https://mp.weixin.qq.com/s/Kt70i7s7THU0s6zzALtBfQ)
+- [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/ZSR13P4hWaOIGOs8auv2XA)
 
 - [计算广告OCPC实践(三) ocpx效果到底怎么样？从ocpc与ocpm的区别说起](https://mp.weixin.qq.com/s/XPBc3fNXwtRnjBkPw2FrSA)
 - [Hulu：视频广告系统中的算法实践](https://mp.weixin.qq.com/s/CE7i-EHPt2W84C0HWNx12Q)
-- [计算广告OCPC算法实践 (二) ocpc智能出价PID控制中不同偏差函数特性对比](https://mp.weixin.qq.com/s/TebzhaVgsH1s9cIfCzAb7Q)  
+- [计算广告OCPC算法实践(二) ocpc智能出价PID控制中不同偏差函数特性对比](https://mp.weixin.qq.com/s/TebzhaVgsH1s9cIfCzAb7Q)  
 - [计算广告OCPC算法实践(一) 智能出价PID控制中的偏差与响应函数设计](https://mp.weixin.qq.com/s/xD4tlVXX8w-pMk_JJF-vTA) 
+- [阿里妈妈：品牌广告中的 NLP 算法实践](https://mp.weixin.qq.com/s/Kt70i7s7THU0s6zzALtBfQ)
 - [《计算广告》学习笔记](https://mp.weixin.qq.com/s/hUK0QN4UFonKJWWwZF-u-Q) 
 - [OCPC 广告算法在凤凰新媒体的实践探索](https://mp.weixin.qq.com/s/bD73FrOE9teRXMD_bIh-JQ)  
 - [计算广告发展历程——从CPC到oCPX](https://mp.weixin.qq.com/s/Sq9iAYi8mCqzFnXdar4aCg) 
