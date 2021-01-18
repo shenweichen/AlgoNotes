@@ -138,8 +138,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.32](https://mp.weixin.qq.com/s/RRdOfmDxDeliYNoXLJzVZQ) 
+- [学习交流小组精彩内容摘要 No.33](https://mp.weixin.qq.com/s/rzhXBGJsiHEbVmA-FwYNuw) 
 
+- [学习交流小组精彩内容摘要 No.32](https://mp.weixin.qq.com/s/RRdOfmDxDeliYNoXLJzVZQ) 
 - [学习交流小组精彩内容摘要 No.31](https://mp.weixin.qq.com/s/HPcKSjRs8uJQx6MtHvwamA)
 - [学习交流小组精彩内容摘要 No.30](https://mp.weixin.qq.com/s/GhFihsReXsiEA_5S8AxAYQ)
 - [学习交流小组精彩内容摘要 No.29](https://mp.weixin.qq.com/s/SBpph290DmIuQ02ZNmM7YQ) 
@@ -175,8 +176,9 @@
 ](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [推荐系统应该如何保障推荐的多样性？](https://mp.weixin.qq.com/s/6Zs0nM2HOZFBFsC0PUy_0A)  
+- [推荐生态中的bias和debias](https://mp.weixin.qq.com/s/4EY8E8LqUsfEGqC3xPSqeg) 
 
+- [推荐系统应该如何保障推荐的多样性？](https://mp.weixin.qq.com/s/6Zs0nM2HOZFBFsC0PUy_0A)  
 - [浅谈 UC 国际信息流推荐](https://mp.weixin.qq.com/s/ayN6t8buVqN6GLNyWky59A) 
 - [AutoML 在表数据中的研究与应用](https://mp.weixin.qq.com/s/RIoBHE8fopgMVZDYRBazGg)
 - [推荐系统：石器与青铜时代](https://mp.weixin.qq.com/s/TWEMQL07n7jMJoYecUojww)
@@ -202,8 +204,9 @@
 
 
 ## 计算广告
-- [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/ZSR13P4hWaOIGOs8auv2XA)
+- [爱奇艺效果广告的个性化探索与实践](https://mp.weixin.qq.com/s/cBZ_XC1dSdp540-Hr1izuw) 
 
+- [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/ZSR13P4hWaOIGOs8auv2XA)
 - [计算广告OCPC实践(三) ocpx效果到底怎么样？从ocpc与ocpm的区别说起](https://mp.weixin.qq.com/s/XPBc3fNXwtRnjBkPw2FrSA)
 - [Hulu：视频广告系统中的算法实践](https://mp.weixin.qq.com/s/CE7i-EHPt2W84C0HWNx12Q)
 - [计算广告OCPC算法实践(二) ocpc智能出价PID控制中不同偏差函数特性对比](https://mp.weixin.qq.com/s/TebzhaVgsH1s9cIfCzAb7Q)  
