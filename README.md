@@ -43,8 +43,10 @@
   
   
 ## 排序&CXR预估
-- [深度学习技术在美图个性化推荐的应用实践](https://mp.weixin.qq.com/s/w8kHpVFMJp9uS-txsRIiWQ)
+- [推荐系统中模型训练及使用流程的标准化](https://mp.weixin.qq.com/s/mFWhv6ykGFc6g40GGuzYOQ)
 
+- [增量学习在CTR模型训练中的实践](https://mp.weixin.qq.com/s/Fig--BPEu4BQWA29eJS8yQ)
+- [深度学习技术在美图个性化推荐的应用实践](https://mp.weixin.qq.com/s/w8kHpVFMJp9uS-txsRIiWQ)
 - [UC 信息流推荐模型在多目标和模型优化方面的进展](https://mp.weixin.qq.com/s/pcykXIVYw9-hvobpcDANyA)
 - [序列检索系统在淘宝首页信息流重排中的实践（文末下载重排经典论文合集）](https://mp.weixin.qq.com/s/jL6Cp31DG_3H9IK5xEjPQQ)
 - [大幅提升训练性能，字节提出新型分布式DNN训练架构](https://mp.weixin.qq.com/s/kNX0P5BSFNbxgzMZuI51AQ) 
@@ -94,8 +96,9 @@
 
 
 ## 召回匹配
-- [字节跳动Deep Retrieval召回模型笔记](https://mp.weixin.qq.com/s/u8-iUcrWWVG8uWR5o-Wugg)
+- [360展示广告召回系统的演进](https://mp.weixin.qq.com/s/s5HMqEmjhklMItpD-p0G8w)
 
+- [字节跳动Deep Retrieval召回模型笔记](https://mp.weixin.qq.com/s/u8-iUcrWWVG8uWR5o-Wugg)
 - [Embedding 技术在民宿推荐中的应用](https://mp.weixin.qq.com/s/yCugvGJw9-6-WLZumtJ-TA) 
 - [EMBEDDING 在大厂推荐场景中的工程化实践](https://mp.weixin.qq.com/s/8Mx8CznNBlJ6adlwXbcHXQ) 
 - [KDD18 | 阿里新一代召回系统TDM读后感](https://mp.weixin.qq.com/s/TgmVBA3SBmCvM8Z2jkjdrw) 
@@ -138,8 +141,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.33](https://mp.weixin.qq.com/s/rzhXBGJsiHEbVmA-FwYNuw) 
+- [学习交流小组精彩内容摘要 No.35](https://mp.weixin.qq.com/s/gfVb-dAcTDYio1OsCfWcug) 
 
+- [学习交流小组精彩内容摘要 No.34](https://mp.weixin.qq.com/s/2__kgvMgaNoLIUSp7m2u9w) 
+- [学习交流小组精彩内容摘要 No.33](https://mp.weixin.qq.com/s/rzhXBGJsiHEbVmA-FwYNuw) 
 - [学习交流小组精彩内容摘要 No.32](https://mp.weixin.qq.com/s/RRdOfmDxDeliYNoXLJzVZQ) 
 - [学习交流小组精彩内容摘要 No.31](https://mp.weixin.qq.com/s/HPcKSjRs8uJQx6MtHvwamA)
 - [学习交流小组精彩内容摘要 No.30](https://mp.weixin.qq.com/s/GhFihsReXsiEA_5S8AxAYQ)
@@ -282,8 +287,9 @@
 
 
 ## 求职面试
-- [北美亚麻的故事：金融数学转码农转Applied Scientist](https://mp.weixin.qq.com/s/Oe8KeIGGgTMTHsfhkKY0yA)
+- [美H1-B签证改革更有利IT公司从全球招聘——聊聊国内如何找美国算法岗工作](https://mp.weixin.qq.com/s/L3OP4ppcQ5w2MIk5x7SivA)
 
+- [北美亚麻的故事：金融数学转码农转Applied Scientist](https://mp.weixin.qq.com/s/Oe8KeIGGgTMTHsfhkKY0yA)
 - [算法小白的学习路线（二）](https://mp.weixin.qq.com/s/6nvQtMn7tyJzdeKLE1RQHA)
 - [算法小白的学习路线（一）](https://mp.weixin.qq.com/s/tKYPTsRsSJU9w_DTYTGRDw)  
 - [你见过最差的算法工程师能差到什么程度？](https://mp.weixin.qq.com/s/Z9Sczo3jYW7nJolt696slw)  
