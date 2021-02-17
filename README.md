@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [推荐系统中模型训练及使用流程的标准化](https://mp.weixin.qq.com/s/mFWhv6ykGFc6g40GGuzYOQ)
+- [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/gY3fIkCjuMOS4iEUlu2Cwg)  
 
+- [推荐系统中模型训练及使用流程的标准化](https://mp.weixin.qq.com/s/mFWhv6ykGFc6g40GGuzYOQ)
 - [增量学习在CTR模型训练中的实践](https://mp.weixin.qq.com/s/Fig--BPEu4BQWA29eJS8yQ)
 - [深度学习技术在美图个性化推荐的应用实践](https://mp.weixin.qq.com/s/w8kHpVFMJp9uS-txsRIiWQ)
 - [UC 信息流推荐模型在多目标和模型优化方面的进展](https://mp.weixin.qq.com/s/pcykXIVYw9-hvobpcDANyA)
@@ -141,8 +142,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.35](https://mp.weixin.qq.com/s/gfVb-dAcTDYio1OsCfWcug) 
+- [学习交流小组精彩内容摘要 No.36](https://mp.weixin.qq.com/s/iiRKtifgwm4XASDkNInXgw) 
 
+- [学习交流小组精彩内容摘要 No.35](https://mp.weixin.qq.com/s/gfVb-dAcTDYio1OsCfWcug) 
 - [学习交流小组精彩内容摘要 No.34](https://mp.weixin.qq.com/s/2__kgvMgaNoLIUSp7m2u9w) 
 - [学习交流小组精彩内容摘要 No.33](https://mp.weixin.qq.com/s/rzhXBGJsiHEbVmA-FwYNuw) 
 - [学习交流小组精彩内容摘要 No.32](https://mp.weixin.qq.com/s/RRdOfmDxDeliYNoXLJzVZQ) 
@@ -181,8 +183,10 @@
 ](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [推荐生态中的bias和debias](https://mp.weixin.qq.com/s/4EY8E8LqUsfEGqC3xPSqeg) 
+- [腾讯信息流内容理解技术实践](https://mp.weixin.qq.com/s/IVmwbFQvNjCz3D_c8qimwQ)  
 
+- [如何从 0 到 1 构建个性化推荐？](https://mp.weixin.qq.com/s/UjG0eEo9qk4ExO6VZodymA) 
+- [推荐生态中的bias和debias](https://mp.weixin.qq.com/s/4EY8E8LqUsfEGqC3xPSqeg) 
 - [推荐系统应该如何保障推荐的多样性？](https://mp.weixin.qq.com/s/6Zs0nM2HOZFBFsC0PUy_0A)  
 - [浅谈 UC 国际信息流推荐](https://mp.weixin.qq.com/s/ayN6t8buVqN6GLNyWky59A) 
 - [AutoML 在表数据中的研究与应用](https://mp.weixin.qq.com/s/RIoBHE8fopgMVZDYRBazGg)
