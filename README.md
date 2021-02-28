@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/gY3fIkCjuMOS4iEUlu2Cwg)  
+- [线上线下效果一致性杂谈](https://mp.weixin.qq.com/s/Lwnl5W2ZS3CjxrA46yMwyw)
 
+- [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/gY3fIkCjuMOS4iEUlu2Cwg)  
 - [推荐系统中模型训练及使用流程的标准化](https://mp.weixin.qq.com/s/mFWhv6ykGFc6g40GGuzYOQ)
 - [增量学习在CTR模型训练中的实践](https://mp.weixin.qq.com/s/Fig--BPEu4BQWA29eJS8yQ)
 - [深度学习技术在美图个性化推荐的应用实践](https://mp.weixin.qq.com/s/w8kHpVFMJp9uS-txsRIiWQ)
@@ -142,8 +143,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.36](https://mp.weixin.qq.com/s/iiRKtifgwm4XASDkNInXgw) 
+- [学习交流小组精彩内容摘要 No.38](https://mp.weixin.qq.com/s/QaZs3MrhpfvZhDg9xBTOYw) 
 
+- [学习交流小组精彩内容摘要 No.37](https://mp.weixin.qq.com/s/FbHH9HqPz9vJIG_rowmbtQ) 
+- [学习交流小组精彩内容摘要 No.36](https://mp.weixin.qq.com/s/iiRKtifgwm4XASDkNInXgw) 
 - [学习交流小组精彩内容摘要 No.35](https://mp.weixin.qq.com/s/gfVb-dAcTDYio1OsCfWcug) 
 - [学习交流小组精彩内容摘要 No.34](https://mp.weixin.qq.com/s/2__kgvMgaNoLIUSp7m2u9w) 
 - [学习交流小组精彩内容摘要 No.33](https://mp.weixin.qq.com/s/rzhXBGJsiHEbVmA-FwYNuw) 
@@ -270,8 +273,9 @@
 
 
 ## NLP&CV
-- [【论文串讲】从BERT和XLNet到MPNet](https://mp.weixin.qq.com/s/Lnid-DFMI54Tw_oOi37mjA) 
+- [这20个技巧让你的NN训练事半功倍](https://mp.weixin.qq.com/s/wcHdidbk0wZOujKKgh-gTA)
 
+- [【论文串讲】从BERT和XLNet到MPNet](https://mp.weixin.qq.com/s/Lnid-DFMI54Tw_oOi37mjA) 
 - [预训练模型系列-通用预训练MASS](https://mp.weixin.qq.com/s/noNrZK8DjQHy0FrSyEWuXA) 
 - [【论文串讲】从GPT和BERT到XLNet](https://mp.weixin.qq.com/s/weargDvogar3fTqSDIM7LQ)
 - [Transformer 超详细解读，一图胜千言](https://mp.weixin.qq.com/s/6RPxTdDcxJ050oAp34Ofdw)
@@ -291,8 +295,9 @@
 
 
 ## 求职面试
-- [美H1-B签证改革更有利IT公司从全球招聘——聊聊国内如何找美国算法岗工作](https://mp.weixin.qq.com/s/L3OP4ppcQ5w2MIk5x7SivA)
+- [谈一谈算法工程师的落地能力](https://mp.weixin.qq.com/s/1ivTBtnZGkpyyS0BowKxeA)
 
+- [美H1-B签证改革更有利IT公司从全球招聘——聊聊国内如何找美国算法岗工作](https://mp.weixin.qq.com/s/L3OP4ppcQ5w2MIk5x7SivA)
 - [北美亚麻的故事：金融数学转码农转Applied Scientist](https://mp.weixin.qq.com/s/Oe8KeIGGgTMTHsfhkKY0yA)
 - [算法小白的学习路线（二）](https://mp.weixin.qq.com/s/6nvQtMn7tyJzdeKLE1RQHA)
 - [算法小白的学习路线（一）](https://mp.weixin.qq.com/s/tKYPTsRsSJU9w_DTYTGRDw)  
