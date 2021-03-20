@@ -43,8 +43,11 @@
   
   
 ## 排序&CXR预估
-- [线上线下效果一致性杂谈](https://mp.weixin.qq.com/s/Lwnl5W2ZS3CjxrA46yMwyw)
+- [TensorFlow Estimator 模型从训练到部署](https://mp.weixin.qq.com/s/ZNs0eEOCSR-0HOd5lM3ekg)  
 
+- [多任务学习在推荐算法中的应用](https://mp.weixin.qq.com/s/4e7gwpP3XHBAMNX9M0nRgw)
+- [浅谈Learning to Rank中的RankNet和LambdaRank算法](https://mp.weixin.qq.com/s/AWXD21HU8gFSbX6F5fHmtQ)
+- [线上线下效果一致性杂谈](https://mp.weixin.qq.com/s/Lwnl5W2ZS3CjxrA46yMwyw)
 - [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/gY3fIkCjuMOS4iEUlu2Cwg)  
 - [推荐系统中模型训练及使用流程的标准化](https://mp.weixin.qq.com/s/mFWhv6ykGFc6g40GGuzYOQ)
 - [增量学习在CTR模型训练中的实践](https://mp.weixin.qq.com/s/Fig--BPEu4BQWA29eJS8yQ)
@@ -98,8 +101,9 @@
 
 
 ## 召回匹配
-- [360展示广告召回系统的演进](https://mp.weixin.qq.com/s/s5HMqEmjhklMItpD-p0G8w)
+- [推荐场景中召回模型的演化过程](https://mp.weixin.qq.com/s/MnH8aEhzFzbzfb4SajjRyg)  
 
+- [360展示广告召回系统的演进](https://mp.weixin.qq.com/s/s5HMqEmjhklMItpD-p0G8w)
 - [字节跳动Deep Retrieval召回模型笔记](https://mp.weixin.qq.com/s/u8-iUcrWWVG8uWR5o-Wugg)
 - [Embedding 技术在民宿推荐中的应用](https://mp.weixin.qq.com/s/yCugvGJw9-6-WLZumtJ-TA) 
 - [EMBEDDING 在大厂推荐场景中的工程化实践](https://mp.weixin.qq.com/s/8Mx8CznNBlJ6adlwXbcHXQ) 
@@ -143,8 +147,11 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.38](https://mp.weixin.qq.com/s/QaZs3MrhpfvZhDg9xBTOYw) 
+- [学习交流小组精彩内容摘要 No.41](https://mp.weixin.qq.com/s/Ip_gkjPYOSpGc9STFnZBEw)
 
+- [学习交流小组精彩内容摘要 No.40](https://mp.weixin.qq.com/s/YPUI1vZYZsavzwJ_rA9piQ)
+- [学习交流小组精彩内容摘要 No.39](https://mp.weixin.qq.com/s/C_BO0z185w2LY7IsIaNWHA)
+- [学习交流小组精彩内容摘要 No.38](https://mp.weixin.qq.com/s/QaZs3MrhpfvZhDg9xBTOYw) 
 - [学习交流小组精彩内容摘要 No.37](https://mp.weixin.qq.com/s/FbHH9HqPz9vJIG_rowmbtQ) 
 - [学习交流小组精彩内容摘要 No.36](https://mp.weixin.qq.com/s/iiRKtifgwm4XASDkNInXgw) 
 - [学习交流小组精彩内容摘要 No.35](https://mp.weixin.qq.com/s/gfVb-dAcTDYio1OsCfWcug) 
@@ -186,8 +193,9 @@
 ](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [腾讯信息流内容理解技术实践](https://mp.weixin.qq.com/s/IVmwbFQvNjCz3D_c8qimwQ)  
+- [Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/467B2scLH_SOgqByjeI1fQ)  
 
+- [腾讯信息流内容理解技术实践](https://mp.weixin.qq.com/s/IVmwbFQvNjCz3D_c8qimwQ)  
 - [如何从 0 到 1 构建个性化推荐？](https://mp.weixin.qq.com/s/UjG0eEo9qk4ExO6VZodymA) 
 - [推荐生态中的bias和debias](https://mp.weixin.qq.com/s/4EY8E8LqUsfEGqC3xPSqeg) 
 - [推荐系统应该如何保障推荐的多样性？](https://mp.weixin.qq.com/s/6Zs0nM2HOZFBFsC0PUy_0A)  
@@ -273,8 +281,9 @@
 
 
 ## NLP&CV
-- [这20个技巧让你的NN训练事半功倍](https://mp.weixin.qq.com/s/wcHdidbk0wZOujKKgh-gTA)
+- [Transformer的一家！](https://mp.weixin.qq.com/s/qncvDw83hoTCNNEA_soUkA). 
 
+- [这20个技巧让你的NN训练事半功倍](https://mp.weixin.qq.com/s/wcHdidbk0wZOujKKgh-gTA)
 - [【论文串讲】从BERT和XLNet到MPNet](https://mp.weixin.qq.com/s/Lnid-DFMI54Tw_oOi37mjA) 
 - [预训练模型系列-通用预训练MASS](https://mp.weixin.qq.com/s/noNrZK8DjQHy0FrSyEWuXA) 
 - [【论文串讲】从GPT和BERT到XLNet](https://mp.weixin.qq.com/s/weargDvogar3fTqSDIM7LQ)
