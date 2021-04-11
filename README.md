@@ -43,8 +43,12 @@
   
   
 ## 排序&CXR预估
-- [TensorFlow Estimator 模型从训练到部署](https://mp.weixin.qq.com/s/ZNs0eEOCSR-0HOd5lM3ekg)  
+- [深度学习多目标优化的多个loss应该如何权衡](https://mp.weixin.qq.com/s/RIxxtMqdb6yJKLorg_WjrA)  
 
+- [IJCAI2020 | 双重样本感知的因子分解机（附代码）](https://mp.weixin.qq.com/s/Erp3P2En_A0pLuWfpB-OaA)
+- [深度排序模型在淘宝直播的演进与应用](https://mp.weixin.qq.com/s/XcyePFhN1G1rpBrouxTvyQ)
+- [阿里粗排技术体系与最新进展](https://mp.weixin.qq.com/s/TVCgH_B_d5T0hWuXfgnRQA)
+- [TensorFlow Estimator 模型从训练到部署](https://mp.weixin.qq.com/s/ZNs0eEOCSR-0HOd5lM3ekg)  
 - [多任务学习在推荐算法中的应用](https://mp.weixin.qq.com/s/4e7gwpP3XHBAMNX9M0nRgw)
 - [浅谈Learning to Rank中的RankNet和LambdaRank算法](https://mp.weixin.qq.com/s/AWXD21HU8gFSbX6F5fHmtQ)
 - [线上线下效果一致性杂谈](https://mp.weixin.qq.com/s/Lwnl5W2ZS3CjxrA46yMwyw)
@@ -101,8 +105,10 @@
 
 
 ## 召回匹配
-- [推荐场景中召回模型的演化过程](https://mp.weixin.qq.com/s/MnH8aEhzFzbzfb4SajjRyg)  
+- [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/2qFFkBUwcS1SqqPxKDhZxQ) 
 
+- [RALM: 实时 Look-alike算法在微信看一看中的应用](https://mp.weixin.qq.com/s/doCEZLrGjcioVJvxIe7Lgw)
+- [推荐场景中召回模型的演化过程](https://mp.weixin.qq.com/s/MnH8aEhzFzbzfb4SajjRyg)  
 - [360展示广告召回系统的演进](https://mp.weixin.qq.com/s/s5HMqEmjhklMItpD-p0G8w)
 - [字节跳动Deep Retrieval召回模型笔记](https://mp.weixin.qq.com/s/u8-iUcrWWVG8uWR5o-Wugg)
 - [Embedding 技术在民宿推荐中的应用](https://mp.weixin.qq.com/s/yCugvGJw9-6-WLZumtJ-TA) 
@@ -147,8 +153,11 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.41](https://mp.weixin.qq.com/s/Ip_gkjPYOSpGc9STFnZBEw)
+- [学习交流小组精彩内容摘要 No.44](https://mp.weixin.qq.com/s/HkIFqKcfo8ZlHCw5FDX2bA) 
 
+- [学习交流小组精彩内容摘要 No.43](https://mp.weixin.qq.com/s/B3kowDCwy6x-0RQijSiHgQ) 
+- [学习交流小组精彩内容摘要 No.42](https://mp.weixin.qq.com/s/DykzQzuH1QTnX-jNylc0gQ) 
+- [学习交流小组精彩内容摘要 No.41](https://mp.weixin.qq.com/s/Ip_gkjPYOSpGc9STFnZBEw)
 - [学习交流小组精彩内容摘要 No.40](https://mp.weixin.qq.com/s/YPUI1vZYZsavzwJ_rA9piQ)
 - [学习交流小组精彩内容摘要 No.39](https://mp.weixin.qq.com/s/C_BO0z185w2LY7IsIaNWHA)
 - [学习交流小组精彩内容摘要 No.38](https://mp.weixin.qq.com/s/QaZs3MrhpfvZhDg9xBTOYw) 
