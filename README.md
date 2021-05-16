@@ -105,8 +105,9 @@
 
 
 ## 召回匹配
-- [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/2qFFkBUwcS1SqqPxKDhZxQ) 
+- [第四范式自动化推荐系统：搜索协同过滤中的交互函数](https://mp.weixin.qq.com/s/hIGxDMXV3OXOGuLtw38XnA)
 
+- [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/2qFFkBUwcS1SqqPxKDhZxQ) 
 - [RALM: 实时 Look-alike算法在微信看一看中的应用](https://mp.weixin.qq.com/s/doCEZLrGjcioVJvxIe7Lgw)
 - [推荐场景中召回模型的演化过程](https://mp.weixin.qq.com/s/MnH8aEhzFzbzfb4SajjRyg)  
 - [360展示广告召回系统的演进](https://mp.weixin.qq.com/s/s5HMqEmjhklMItpD-p0G8w)
@@ -153,8 +154,12 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.44](https://mp.weixin.qq.com/s/HkIFqKcfo8ZlHCw5FDX2bA) 
+- [学习交流小组精彩内容摘要 No.48](https://mp.weixin.qq.com/s/_7uwa5Y2BA1RYeaQIJDsdQ)
 
+- [学习交流小组精彩内容摘要 No.47](https://mp.weixin.qq.com/s/bp5ggrOG4ruWicQt9I6jIQ)
+- [学习交流小组精彩内容摘要 No.46](https://mp.weixin.qq.com/s/-Mx_RfBRQwTN80G0pQFBBw) 
+- [学习交流小组精彩内容摘要 No.44](https://mp.weixin.qq.com/s/HkIFqKcfo8ZlHCw5FDX2bA) 
+- [学习交流小组精彩内容摘要 No.45](https://mp.weixin.qq.com/s/-Mx_RfBRQwTN80G0pQFBBw) 
 - [学习交流小组精彩内容摘要 No.43](https://mp.weixin.qq.com/s/B3kowDCwy6x-0RQijSiHgQ) 
 - [学习交流小组精彩内容摘要 No.42](https://mp.weixin.qq.com/s/DykzQzuH1QTnX-jNylc0gQ) 
 - [学习交流小组精彩内容摘要 No.41](https://mp.weixin.qq.com/s/Ip_gkjPYOSpGc9STFnZBEw)
@@ -195,15 +200,15 @@
 - [学习交流小组精彩内容摘要(05.18-05.20)](https://mp.weixin.qq.com/s/yaimSlvmG6kseqSLY6hcXQ)
 - [学习交流小组精彩内容摘要(05.14-05.17)](https://mp.weixin.qq.com/s/dpugb2_3i4M31FWYuFcd5Q)
 - [学习交流小组精彩内容摘要(05.08-05.13)](https://mp.weixin.qq.com/s/SLafxvWm5izflGJX6qe7vA)
-- [学习交流小组精彩内容摘要(01.21-02.06)
-](https://mp.weixin.qq.com/s/mvFv907DiICFV8tTB_9EYA)
+- [学习交流小组精彩内容摘要(01.21-02.06)](https://mp.weixin.qq.com/s/mvFv907DiICFV8tTB_9EYA)
 - [学习交流小组精彩内容摘要(01.13-01.20)](https://mp.weixin.qq.com/s/WjzvyUmOissSSGITS34UZQ)
-- [学习交流小组精彩内容摘要(01.04-01.12)
-](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
+- [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/467B2scLH_SOgqByjeI1fQ)  
+- [汽车之家推荐系统排序算法迭代之路](https://mp.weixin.qq.com/s/WPZtHRTm2LbPJgpWkUnOOw)
 
+- [WWW21最新「深度学习推荐系统」教程，230页PPT阐述深度强化学习、自动机器学习和GNN在推荐系统应用进展](https://mp.weixin.qq.com/s/UDQlwCva1a4IN0E9s_0Y8Q)
+- [Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/467B2scLH_SOgqByjeI1fQ)  
 - [腾讯信息流内容理解技术实践](https://mp.weixin.qq.com/s/IVmwbFQvNjCz3D_c8qimwQ)  
 - [如何从 0 到 1 构建个性化推荐？](https://mp.weixin.qq.com/s/UjG0eEo9qk4ExO6VZodymA) 
 - [推荐生态中的bias和debias](https://mp.weixin.qq.com/s/4EY8E8LqUsfEGqC3xPSqeg) 
@@ -220,21 +225,19 @@
 - [KDD20 | 推荐系统论文一览](https://mp.weixin.qq.com/s/OIZm5UPv7f-I66vKBgyVEw)  
 - [搜索广告之自动化创意](https://mp.weixin.qq.com/s/ewb9IlqPmQgfXGEUSRNXwQ) 
 - [KDD CUP 2020之Debiasing赛道方案 (Rush)](https://mp.weixin.qq.com/s/Xz505pzM4U8k0vnQjkENrg) 
-- [推荐系统研究中常用的评价指标
-](https://mp.weixin.qq.com/s/6TDCk0zwE8v-DLwSbk05hQ) 
-- [推荐多样性重排算法之MMR
-](https://mp.weixin.qq.com/s/7V4b6dPPqBdTfFjDj1gDzw) 
-- [推荐系统技术演进趋势：从召回到排序再到重排
-](https://mp.weixin.qq.com/s/nHzQM_le5a1POaAtwHMJbw) 
-- [推荐系统的发展与简单回顾
-](https://mp.weixin.qq.com/s/E11Nm8LlsbKcLIJ82NgzUg) 
+- [推荐系统研究中常用的评价指标](https://mp.weixin.qq.com/s/6TDCk0zwE8v-DLwSbk05hQ) 
+- [推荐多样性重排算法之MMR](https://mp.weixin.qq.com/s/7V4b6dPPqBdTfFjDj1gDzw) 
+- [推荐系统技术演进趋势：从召回到排序再到重排](https://mp.weixin.qq.com/s/nHzQM_le5a1POaAtwHMJbw) 
+- [推荐系统的发展与简单回顾](https://mp.weixin.qq.com/s/E11Nm8LlsbKcLIJ82NgzUg) 
 - [万字长文！推荐系统岗面试经验&学习心得](https://mp.weixin.qq.com/s/zf7eRE57vsFxL_jGVdqV9g) 
 
 
 
 ## 计算广告
-- [爱奇艺效果广告的个性化探索与实践](https://mp.weixin.qq.com/s/cBZ_XC1dSdp540-Hr1izuw) 
+- [广告算法在阿里文娱用户增长中的实践](https://mp.weixin.qq.com/s/Vt1qwbU0Gsm144vzBxSG9A)
 
+- [阿里定向广告智能投放技术体系](https://mp.weixin.qq.com/s/uuLD3tQfDGD3fSsmLonQkA)
+- [爱奇艺效果广告的个性化探索与实践](https://mp.weixin.qq.com/s/cBZ_XC1dSdp540-Hr1izuw) 
 - [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/ZSR13P4hWaOIGOs8auv2XA)
 - [计算广告OCPC实践(三) ocpx效果到底怎么样？从ocpc与ocpm的区别说起](https://mp.weixin.qq.com/s/XPBc3fNXwtRnjBkPw2FrSA)
 - [Hulu：视频广告系统中的算法实践](https://mp.weixin.qq.com/s/CE7i-EHPt2W84C0HWNx12Q)
@@ -253,8 +256,10 @@
 ](https://mp.weixin.qq.com/s/vUwtVwdozsYBV0GI2wWtPg) 
 
 ## 大数据
-- [实时数据流计算引擎Flink和Spark剖析](https://mp.weixin.qq.com/s/FX7wFly3CpFEpwWLBlFQeQ)  
+- [贝壳一站式大数据开发平台实践](https://mp.weixin.qq.com/s/WPZtHRTm2LbPJgpWkUnOOw)
 
+- [Flink如何支持特征工程、在线学习、在线预测等AI场景？](https://mp.weixin.qq.com/s/1RddsscO515zhkJ1X9WBvQ)
+- [实时数据流计算引擎Flink和Spark剖析](https://mp.weixin.qq.com/s/FX7wFly3CpFEpwWLBlFQeQ)  
 - [Spark 的一些人生经验](https://mp.weixin.qq.com/s/rff5AAd9w85N-MFVxyNKbg) 
 - [大数据kafka理论实操面试题](https://mp.weixin.qq.com/s/847kcDXE-Iq8JXjG_-Fehg) 
 - [Kafka 应用实践与生态集成](https://mp.weixin.qq.com/s/YcLk_5kIoIc1ho6RB7FcpQ) 
@@ -262,9 +267,9 @@
 
 
 ## 图算法 
+- [图挖掘与多关系学习：工具与应用，亚马逊与CMU-WWW2021教程，附161页ppt](https://mp.weixin.qq.com/s/Fs62rIi5AoXVkM2sSTT7JQ)
 
 - [一文直击Graph Embedding图表示学习的原理及应用](https://mp.weixin.qq.com/s/F9zt7eyHxTX7Gp0zpvnfcg)
-
 - [【GraphEmbedding】DeepWalk算法原理，实现和应用
 ](https://mp.weixin.qq.com/s?__biz=MjM5MzY4NzE3MA==&mid=2247484661&amp;idx=1&amp;sn=360ed3d2f4bb9a0d11bbd821e7ede72e&source=41#wechat_redirect) 
 - [【GraphEmbedding】LINE：算法原理，实现和应用
@@ -313,8 +318,9 @@
 
 
 ## 求职面试
-- [谈一谈算法工程师的落地能力](https://mp.weixin.qq.com/s/1ivTBtnZGkpyyS0BowKxeA)
+- [一年级算法工程师的工作总结](https://mp.weixin.qq.com/s/7qH6iBa6TIpNdSn9npi_sw)
 
+- [谈一谈算法工程师的落地能力](https://mp.weixin.qq.com/s/1ivTBtnZGkpyyS0BowKxeA)
 - [美H1-B签证改革更有利IT公司从全球招聘——聊聊国内如何找美国算法岗工作](https://mp.weixin.qq.com/s/L3OP4ppcQ5w2MIk5x7SivA)
 - [北美亚麻的故事：金融数学转码农转Applied Scientist](https://mp.weixin.qq.com/s/Oe8KeIGGgTMTHsfhkKY0yA)
 - [算法小白的学习路线（二）](https://mp.weixin.qq.com/s/6nvQtMn7tyJzdeKLE1RQHA)
