@@ -43,8 +43,12 @@
   
   
 ## 排序&CXR预估
-- [深度学习多目标优化的多个loss应该如何权衡](https://mp.weixin.qq.com/s/RIxxtMqdb6yJKLorg_WjrA)  
+- [京东搜索在线学习探索实践](https://mp.weixin.qq.com/s/EI4_PQYHIb82Bu8HOhCL6g)
 
+- [阿里 at SIGIR’2021 | 粗排模型如何进行性能与效率的权衡](https://mp.weixin.qq.com/s/OlTy3OrHduL9yznQ8M_cXA)
+- [多目标排序在快手短视频推荐中的实践](https://mp.weixin.qq.com/s/t6jo5R2Q-PKdjJLeoqiGQA)
+- [深度学习在省钱快报推荐排序中的应用与实践](https://mp.weixin.qq.com/s/c-hbK9eRbK-lrNJNw7RMFw)
+- [深度学习多目标优化的多个loss应该如何权衡](https://mp.weixin.qq.com/s/RIxxtMqdb6yJKLorg_WjrA)  
 - [IJCAI2020 | 双重样本感知的因子分解机（附代码）](https://mp.weixin.qq.com/s/Erp3P2En_A0pLuWfpB-OaA)
 - [深度排序模型在淘宝直播的演进与应用](https://mp.weixin.qq.com/s/XcyePFhN1G1rpBrouxTvyQ)
 - [阿里粗排技术体系与最新进展](https://mp.weixin.qq.com/s/TVCgH_B_d5T0hWuXfgnRQA)
@@ -154,8 +158,12 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.48](https://mp.weixin.qq.com/s/_7uwa5Y2BA1RYeaQIJDsdQ)
+- [学习交流小组精彩内容摘要 No.52](https://mp.weixin.qq.com/s/mPGaPqyCGN9InkLrUfLfOA)
 
+- [学习交流小组精彩内容摘要 No.51](https://mp.weixin.qq.com/s/T89yvg7jY-8DqZaa7uIsOA)
+- [学习交流小组精彩内容摘要 No.50](https://mp.weixin.qq.com/s/HOHcG6wdBMa4Nk4q5f_Buw)
+- [学习交流小组精彩内容摘要 No.49](https://mp.weixin.qq.com/s/d_KK-NuBWqrZyVCN_UmXxw) 
+- [学习交流小组精彩内容摘要 No.48](https://mp.weixin.qq.com/s/_7uwa5Y2BA1RYeaQIJDsdQ)
 - [学习交流小组精彩内容摘要 No.47](https://mp.weixin.qq.com/s/bp5ggrOG4ruWicQt9I6jIQ)
 - [学习交流小组精彩内容摘要 No.46](https://mp.weixin.qq.com/s/-Mx_RfBRQwTN80G0pQFBBw) 
 - [学习交流小组精彩内容摘要 No.44](https://mp.weixin.qq.com/s/HkIFqKcfo8ZlHCw5FDX2bA) 
@@ -205,8 +213,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [汽车之家推荐系统排序算法迭代之路](https://mp.weixin.qq.com/s/WPZtHRTm2LbPJgpWkUnOOw)
+- [信息流推荐在凤凰新闻的业务实践](https://mp.weixin.qq.com/s/eXYkTzN0nvj15UsiiUPvbQ)
 
+- [汽车之家推荐系统排序算法迭代之路](https://mp.weixin.qq.com/s/WPZtHRTm2LbPJgpWkUnOOw)
 - [WWW21最新「深度学习推荐系统」教程，230页PPT阐述深度强化学习、自动机器学习和GNN在推荐系统应用进展](https://mp.weixin.qq.com/s/UDQlwCva1a4IN0E9s_0Y8Q)
 - [Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/467B2scLH_SOgqByjeI1fQ)  
 - [腾讯信息流内容理解技术实践](https://mp.weixin.qq.com/s/IVmwbFQvNjCz3D_c8qimwQ)  
