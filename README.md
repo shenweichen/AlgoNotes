@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [京东搜索在线学习探索实践](https://mp.weixin.qq.com/s/EI4_PQYHIb82Bu8HOhCL6g)
+- [腾讯音乐：全民K歌推荐系统架构及粗排设计](https://mp.weixin.qq.com/s/f61PVZ-2qlVcQE09aImpyg)
 
+- [京东搜索在线学习探索实践](https://mp.weixin.qq.com/s/EI4_PQYHIb82Bu8HOhCL6g)
 - [阿里 at SIGIR’2021 | 粗排模型如何进行性能与效率的权衡](https://mp.weixin.qq.com/s/OlTy3OrHduL9yznQ8M_cXA)
 - [多目标排序在快手短视频推荐中的实践](https://mp.weixin.qq.com/s/t6jo5R2Q-PKdjJLeoqiGQA)
 - [深度学习在省钱快报推荐排序中的应用与实践](https://mp.weixin.qq.com/s/c-hbK9eRbK-lrNJNw7RMFw)
@@ -158,8 +159,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.52](https://mp.weixin.qq.com/s/mPGaPqyCGN9InkLrUfLfOA)
+- [学习交流小组精彩内容摘要 No.54](https://mp.weixin.qq.com/s/1hU9BKI1jdKCoed4Kk_57w)
 
+- [学习交流小组精彩内容摘要 No.53](https://mp.weixin.qq.com/s/95gyuFUHUMF_XHwEJ8eoAg)
+- [学习交流小组精彩内容摘要 No.52](https://mp.weixin.qq.com/s/mPGaPqyCGN9InkLrUfLfOA)
 - [学习交流小组精彩内容摘要 No.51](https://mp.weixin.qq.com/s/T89yvg7jY-8DqZaa7uIsOA)
 - [学习交流小组精彩内容摘要 No.50](https://mp.weixin.qq.com/s/HOHcG6wdBMa4Nk4q5f_Buw)
 - [学习交流小组精彩内容摘要 No.49](https://mp.weixin.qq.com/s/d_KK-NuBWqrZyVCN_UmXxw) 
@@ -213,8 +216,10 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [信息流推荐在凤凰新闻的业务实践](https://mp.weixin.qq.com/s/eXYkTzN0nvj15UsiiUPvbQ)
+- [如何构建A/B测试系统，其核心功能有哪些？](https://mp.weixin.qq.com/s/68sMYxXu9toLAprG8S0Mmw)
+- [美图个性化推送的 AI 探索之路](https://mp.weixin.qq.com/s/i-5T_10t40UyYchw3VmZ1A)
 
+- [信息流推荐在凤凰新闻的业务实践](https://mp.weixin.qq.com/s/eXYkTzN0nvj15UsiiUPvbQ)
 - [汽车之家推荐系统排序算法迭代之路](https://mp.weixin.qq.com/s/WPZtHRTm2LbPJgpWkUnOOw)
 - [WWW21最新「深度学习推荐系统」教程，230页PPT阐述深度强化学习、自动机器学习和GNN在推荐系统应用进展](https://mp.weixin.qq.com/s/UDQlwCva1a4IN0E9s_0Y8Q)
 - [Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/467B2scLH_SOgqByjeI1fQ)  
@@ -304,8 +309,9 @@
 
 
 ## NLP&CV
-- [Transformer的一家！](https://mp.weixin.qq.com/s/qncvDw83hoTCNNEA_soUkA). 
+- [复旦邱锡鹏组最新综述：A Survey of Transformers！](https://mp.weixin.qq.com/s/Htq0dwWRp9PmtB5FSgIqHw)
 
+- [Transformer的一家！](https://mp.weixin.qq.com/s/qncvDw83hoTCNNEA_soUkA). 
 - [这20个技巧让你的NN训练事半功倍](https://mp.weixin.qq.com/s/wcHdidbk0wZOujKKgh-gTA)
 - [【论文串讲】从BERT和XLNet到MPNet](https://mp.weixin.qq.com/s/Lnid-DFMI54Tw_oOi37mjA) 
 - [预训练模型系列-通用预训练MASS](https://mp.weixin.qq.com/s/noNrZK8DjQHy0FrSyEWuXA) 
