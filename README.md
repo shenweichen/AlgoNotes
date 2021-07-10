@@ -43,8 +43,10 @@
   
   
 ## 排序&CXR预估
-- [腾讯音乐：全民K歌推荐系统架构及粗排设计](https://mp.weixin.qq.com/s/f61PVZ-2qlVcQE09aImpyg)
+- [CTR预估在动态样式建模和特征表达学习方面的进展](https://mp.weixin.qq.com/s/rD7xAWdT6Ui4cQiCABry4Q)
 
+- [[SIGIR2021] StackRec框架：加速训练100层序列推荐模型](https://mp.weixin.qq.com/s/gTInGsPeiqTgQoiK-UrSjA)
+- [腾讯音乐：全民K歌推荐系统架构及粗排设计](https://mp.weixin.qq.com/s/f61PVZ-2qlVcQE09aImpyg)
 - [京东搜索在线学习探索实践](https://mp.weixin.qq.com/s/EI4_PQYHIb82Bu8HOhCL6g)
 - [阿里 at SIGIR’2021 | 粗排模型如何进行性能与效率的权衡](https://mp.weixin.qq.com/s/OlTy3OrHduL9yznQ8M_cXA)
 - [多目标排序在快手短视频推荐中的实践](https://mp.weixin.qq.com/s/t6jo5R2Q-PKdjJLeoqiGQA)
@@ -159,8 +161,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.54](https://mp.weixin.qq.com/s/1hU9BKI1jdKCoed4Kk_57w)
+- [学习交流小组精彩内容摘要 No.56](https://mp.weixin.qq.com/s/A17wAVYro5GPMs3gTIuNgw)
 
+- [学习交流小组精彩内容摘要 No.55](https://mp.weixin.qq.com/s/vOUOV1WpezwYHd6Uom92Tw)
+- [学习交流小组精彩内容摘要 No.54](https://mp.weixin.qq.com/s/1hU9BKI1jdKCoed4Kk_57w)
 - [学习交流小组精彩内容摘要 No.53](https://mp.weixin.qq.com/s/95gyuFUHUMF_XHwEJ8eoAg)
 - [学习交流小组精彩内容摘要 No.52](https://mp.weixin.qq.com/s/mPGaPqyCGN9InkLrUfLfOA)
 - [学习交流小组精彩内容摘要 No.51](https://mp.weixin.qq.com/s/T89yvg7jY-8DqZaa7uIsOA)
@@ -216,9 +220,11 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [如何将知识图谱引入推荐系统？](https://mp.weixin.qq.com/s/knSgjT_aDZ7UMgNHdzcmtw)
+
+- [【微软】深度学习推理系统，45页ppt](https://mp.weixin.qq.com/s/8t6YcBj-bNUxPPVIig8-iw)
 - [如何构建A/B测试系统，其核心功能有哪些？](https://mp.weixin.qq.com/s/68sMYxXu9toLAprG8S0Mmw)
 - [美图个性化推送的 AI 探索之路](https://mp.weixin.qq.com/s/i-5T_10t40UyYchw3VmZ1A)
-
 - [信息流推荐在凤凰新闻的业务实践](https://mp.weixin.qq.com/s/eXYkTzN0nvj15UsiiUPvbQ)
 - [汽车之家推荐系统排序算法迭代之路](https://mp.weixin.qq.com/s/WPZtHRTm2LbPJgpWkUnOOw)
 - [WWW21最新「深度学习推荐系统」教程，230页PPT阐述深度强化学习、自动机器学习和GNN在推荐系统应用进展](https://mp.weixin.qq.com/s/UDQlwCva1a4IN0E9s_0Y8Q)
