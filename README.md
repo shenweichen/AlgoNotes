@@ -112,8 +112,9 @@
 
 
 ## 召回匹配
-- [第四范式自动化推荐系统：搜索协同过滤中的交互函数](https://mp.weixin.qq.com/s/hIGxDMXV3OXOGuLtw38XnA)
+- [模型化召回在陌陌社交推荐的应用和探索](https://mp.weixin.qq.com/s/TqKWhY-rr7l51h2WqG0CQw)
 
+- [第四范式自动化推荐系统：搜索协同过滤中的交互函数](https://mp.weixin.qq.com/s/hIGxDMXV3OXOGuLtw38XnA)
 - [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/2qFFkBUwcS1SqqPxKDhZxQ) 
 - [RALM: 实时 Look-alike算法在微信看一看中的应用](https://mp.weixin.qq.com/s/doCEZLrGjcioVJvxIe7Lgw)
 - [推荐场景中召回模型的演化过程](https://mp.weixin.qq.com/s/MnH8aEhzFzbzfb4SajjRyg)  
@@ -161,8 +162,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.56](https://mp.weixin.qq.com/s/A17wAVYro5GPMs3gTIuNgw)
+- [学习交流小组精彩内容摘要 No.58](https://mp.weixin.qq.com/s/67ZxmFQC6WXpyOeM3SUARQ)
 
+- [学习交流小组精彩内容摘要 No.57](https://mp.weixin.qq.com/s/8aSQ4FMkJmGrJOoWw6Kttg)
+- [学习交流小组精彩内容摘要 No.56](https://mp.weixin.qq.com/s/A17wAVYro5GPMs3gTIuNgw)
 - [学习交流小组精彩内容摘要 No.55](https://mp.weixin.qq.com/s/vOUOV1WpezwYHd6Uom92Tw)
 - [学习交流小组精彩内容摘要 No.54](https://mp.weixin.qq.com/s/1hU9BKI1jdKCoed4Kk_57w)
 - [学习交流小组精彩内容摘要 No.53](https://mp.weixin.qq.com/s/95gyuFUHUMF_XHwEJ8eoAg)
@@ -220,8 +223,11 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [如何将知识图谱引入推荐系统？](https://mp.weixin.qq.com/s/knSgjT_aDZ7UMgNHdzcmtw)
+- [阿里文娱搜索算法实践与思考](https://mp.weixin.qq.com/s/DjcI3vEflvfWs9cMDX-BkA)
 
+- [Bandit算法在携程推荐系统中的应用与实践](https://mp.weixin.qq.com/s/KFrSbRuY7k4fwulqg5go1Q)
+- [深度学习在阿里B2B电商推荐系统中的实践](https://mp.weixin.qq.com/s/j492S2zvhSTmXX4uYu9fyg)
+- [如何将知识图谱引入推荐系统？](https://mp.weixin.qq.com/s/knSgjT_aDZ7UMgNHdzcmtw)
 - [【微软】深度学习推理系统，45页ppt](https://mp.weixin.qq.com/s/8t6YcBj-bNUxPPVIig8-iw)
 - [如何构建A/B测试系统，其核心功能有哪些？](https://mp.weixin.qq.com/s/68sMYxXu9toLAprG8S0Mmw)
 - [美图个性化推送的 AI 探索之路](https://mp.weixin.qq.com/s/i-5T_10t40UyYchw3VmZ1A)
