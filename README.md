@@ -1,4 +1,4 @@
-# 浅梦的学习笔记 公众号文章汇总
+# 浅梦学习笔记 公众号文章汇总
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shenweichen.AlgoNotes)
 ## 目录
 -  [排序&CXR预估](#排序CXR预估)  
@@ -17,7 +17,7 @@
     <table style="margin-left: 20px; margin-right: auto;">
         <tr>
             <td>
-                公众号：<b>浅梦的学习笔记</b><br><br>
+                公众号：<b>浅梦学习笔记</b><br><br>
                 <a href="https://github.com/shenweichen">
   <img align="center" src="./code.png" />
 </a>
@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [CTR预估在动态样式建模和特征表达学习方面的进展](https://mp.weixin.qq.com/s/rD7xAWdT6Ui4cQiCABry4Q)
+- [阿里1688直播推荐算法实践](https://mp.weixin.qq.com/s/JmaN9FlJn0JZa-oT6KPShA)
 
+- [CTR预估在动态样式建模和特征表达学习方面的进展](https://mp.weixin.qq.com/s/rD7xAWdT6Ui4cQiCABry4Q)
 - [[SIGIR2021] StackRec框架：加速训练100层序列推荐模型](https://mp.weixin.qq.com/s/gTInGsPeiqTgQoiK-UrSjA)
 - [腾讯音乐：全民K歌推荐系统架构及粗排设计](https://mp.weixin.qq.com/s/f61PVZ-2qlVcQE09aImpyg)
 - [京东搜索在线学习探索实践](https://mp.weixin.qq.com/s/EI4_PQYHIb82Bu8HOhCL6g)
@@ -162,8 +163,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.58](https://mp.weixin.qq.com/s/67ZxmFQC6WXpyOeM3SUARQ)
+- [学习交流小组精彩内容摘要 No.60](https://mp.weixin.qq.com/s/Vs7zL5DCOmGGF-HRZCRS4A)
 
+- [学习交流小组精彩内容摘要 No.59](https://mp.weixin.qq.com/s/DrS4ky8p4d7SNlqFEUiRUA)
+- [学习交流小组精彩内容摘要 No.58](https://mp.weixin.qq.com/s/67ZxmFQC6WXpyOeM3SUARQ)
 - [学习交流小组精彩内容摘要 No.57](https://mp.weixin.qq.com/s/8aSQ4FMkJmGrJOoWw6Kttg)
 - [学习交流小组精彩内容摘要 No.56](https://mp.weixin.qq.com/s/A17wAVYro5GPMs3gTIuNgw)
 - [学习交流小组精彩内容摘要 No.55](https://mp.weixin.qq.com/s/vOUOV1WpezwYHd6Uom92Tw)
@@ -223,8 +226,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [阿里文娱搜索算法实践与思考](https://mp.weixin.qq.com/s/DjcI3vEflvfWs9cMDX-BkA)
+- [全民K歌推荐后台架构](https://mp.weixin.qq.com/s/gIg4c3Z6-nh2bIoSju2LPA)
 
+- [阿里文娱搜索算法实践与思考](https://mp.weixin.qq.com/s/DjcI3vEflvfWs9cMDX-BkA)
 - [Bandit算法在携程推荐系统中的应用与实践](https://mp.weixin.qq.com/s/KFrSbRuY7k4fwulqg5go1Q)
 - [深度学习在阿里B2B电商推荐系统中的实践](https://mp.weixin.qq.com/s/j492S2zvhSTmXX4uYu9fyg)
 - [如何将知识图谱引入推荐系统？](https://mp.weixin.qq.com/s/knSgjT_aDZ7UMgNHdzcmtw)
@@ -345,8 +349,9 @@
 
 
 ## 求职面试
-- [一年级算法工程师的工作总结](https://mp.weixin.qq.com/s/7qH6iBa6TIpNdSn9npi_sw)
+- [推荐/广告算法社招生存指南](https://mp.weixin.qq.com/s/opvxOldRG4Rhcy-Qvp6Ozw)
 
+- [一年级算法工程师的工作总结](https://mp.weixin.qq.com/s/7qH6iBa6TIpNdSn9npi_sw)
 - [谈一谈算法工程师的落地能力](https://mp.weixin.qq.com/s/1ivTBtnZGkpyyS0BowKxeA)
 - [美H1-B签证改革更有利IT公司从全球招聘——聊聊国内如何找美国算法岗工作](https://mp.weixin.qq.com/s/L3OP4ppcQ5w2MIk5x7SivA)
 - [北美亚麻的故事：金融数学转码农转Applied Scientist](https://mp.weixin.qq.com/s/Oe8KeIGGgTMTHsfhkKY0yA)
