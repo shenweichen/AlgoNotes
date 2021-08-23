@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [阿里1688直播推荐算法实践](https://mp.weixin.qq.com/s/JmaN9FlJn0JZa-oT6KPShA)
+- [Attention机制在深度学习推荐算法中的应用](https://mp.weixin.qq.com/s/nHeIxsW2SakZzFeY0aHtjQ)
 
+- [阿里1688直播推荐算法实践](https://mp.weixin.qq.com/s/JmaN9FlJn0JZa-oT6KPShA)
 - [CTR预估在动态样式建模和特征表达学习方面的进展](https://mp.weixin.qq.com/s/rD7xAWdT6Ui4cQiCABry4Q)
 - [[SIGIR2021] StackRec框架：加速训练100层序列推荐模型](https://mp.weixin.qq.com/s/gTInGsPeiqTgQoiK-UrSjA)
 - [腾讯音乐：全民K歌推荐系统架构及粗排设计](https://mp.weixin.qq.com/s/f61PVZ-2qlVcQE09aImpyg)
@@ -163,8 +164,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.60](https://mp.weixin.qq.com/s/Vs7zL5DCOmGGF-HRZCRS4A)
+- [学习交流小组精彩内容摘要 No.62](https://mp.weixin.qq.com/s/gky_BkWuhw2JC9-WCDUa_Q)
 
+- [学习交流小组精彩内容摘要 No.61](https://mp.weixin.qq.com/s/HKltOPkaEvi0zcxy4R9uvg)
+- [学习交流小组精彩内容摘要 No.60](https://mp.weixin.qq.com/s/Vs7zL5DCOmGGF-HRZCRS4A)
 - [学习交流小组精彩内容摘要 No.59](https://mp.weixin.qq.com/s/DrS4ky8p4d7SNlqFEUiRUA)
 - [学习交流小组精彩内容摘要 No.58](https://mp.weixin.qq.com/s/67ZxmFQC6WXpyOeM3SUARQ)
 - [学习交流小组精彩内容摘要 No.57](https://mp.weixin.qq.com/s/8aSQ4FMkJmGrJOoWw6Kttg)
@@ -226,8 +229,11 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [全民K歌推荐后台架构](https://mp.weixin.qq.com/s/gIg4c3Z6-nh2bIoSju2LPA)
+- [分布式机器学习框架与高维实时推荐系统](https://mp.weixin.qq.com/s/1szW1lc0ElRmw2CDIDafpQ)
 
+- [图推荐算法在E&E问题上的应用](https://mp.weixin.qq.com/s/xkvQ58mnmPZBOjLkg3OEGA)
+- [朱小强｜屠龙少年与龙：漫谈深度学习驱动的广告推荐技术发展周期](https://mp.weixin.qq.com/s/AcgGCD3Ye2LOYRQlv27Yzg)
+- [全民K歌推荐后台架构](https://mp.weixin.qq.com/s/gIg4c3Z6-nh2bIoSju2LPA)
 - [阿里文娱搜索算法实践与思考](https://mp.weixin.qq.com/s/DjcI3vEflvfWs9cMDX-BkA)
 - [Bandit算法在携程推荐系统中的应用与实践](https://mp.weixin.qq.com/s/KFrSbRuY7k4fwulqg5go1Q)
 - [深度学习在阿里B2B电商推荐系统中的实践](https://mp.weixin.qq.com/s/j492S2zvhSTmXX4uYu9fyg)
