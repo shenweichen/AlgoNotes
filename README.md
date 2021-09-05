@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [Attention机制在深度学习推荐算法中的应用](https://mp.weixin.qq.com/s/nHeIxsW2SakZzFeY0aHtjQ)
+- [深度时空网络、记忆网络与特征表达学习在 CTR 预估中的应用](https://mp.weixin.qq.com/s/tSm_6YUUkPkvsHdr_QjeFQ)
 
+- [Attention机制在深度学习推荐算法中的应用](https://mp.weixin.qq.com/s/nHeIxsW2SakZzFeY0aHtjQ)
 - [阿里1688直播推荐算法实践](https://mp.weixin.qq.com/s/JmaN9FlJn0JZa-oT6KPShA)
 - [CTR预估在动态样式建模和特征表达学习方面的进展](https://mp.weixin.qq.com/s/rD7xAWdT6Ui4cQiCABry4Q)
 - [[SIGIR2021] StackRec框架：加速训练100层序列推荐模型](https://mp.weixin.qq.com/s/gTInGsPeiqTgQoiK-UrSjA)
@@ -164,8 +165,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.62](https://mp.weixin.qq.com/s/gky_BkWuhw2JC9-WCDUa_Q)
+- [学习交流小组精彩内容摘要 No.64](https://mp.weixin.qq.com/s/FVOZ1D6fY0dEI-sKf57l5g)
 
+- [学习交流小组精彩内容摘要 No.63](https://mp.weixin.qq.com/s/kQKAiDYbI1R6W5WA6-LErg)
+- [学习交流小组精彩内容摘要 No.62](https://mp.weixin.qq.com/s/gky_BkWuhw2JC9-WCDUa_Q)
 - [学习交流小组精彩内容摘要 No.61](https://mp.weixin.qq.com/s/HKltOPkaEvi0zcxy4R9uvg)
 - [学习交流小组精彩内容摘要 No.60](https://mp.weixin.qq.com/s/Vs7zL5DCOmGGF-HRZCRS4A)
 - [学习交流小组精彩内容摘要 No.59](https://mp.weixin.qq.com/s/DrS4ky8p4d7SNlqFEUiRUA)
@@ -229,8 +232,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [分布式机器学习框架与高维实时推荐系统](https://mp.weixin.qq.com/s/1szW1lc0ElRmw2CDIDafpQ)
+- [京东电商搜索中的语义检索与商品排序](https://mp.weixin.qq.com/s/f8SsJO3L7cjlWAaFOklN3g)
 
+- [分布式机器学习框架与高维实时推荐系统](https://mp.weixin.qq.com/s/1szW1lc0ElRmw2CDIDafpQ)
 - [图推荐算法在E&E问题上的应用](https://mp.weixin.qq.com/s/xkvQ58mnmPZBOjLkg3OEGA)
 - [朱小强｜屠龙少年与龙：漫谈深度学习驱动的广告推荐技术发展周期](https://mp.weixin.qq.com/s/AcgGCD3Ye2LOYRQlv27Yzg)
 - [全民K歌推荐后台架构](https://mp.weixin.qq.com/s/gIg4c3Z6-nh2bIoSju2LPA)
@@ -270,8 +274,9 @@
 
 
 ## 计算广告
-- [广告算法在阿里文娱用户增长中的实践](https://mp.weixin.qq.com/s/Vt1qwbU0Gsm144vzBxSG9A)
+- [商业化广告策略解读](https://mp.weixin.qq.com/s/Le933YabTtG2Zh1B2prSBw)
 
+- [广告算法在阿里文娱用户增长中的实践](https://mp.weixin.qq.com/s/Vt1qwbU0Gsm144vzBxSG9A)
 - [阿里定向广告智能投放技术体系](https://mp.weixin.qq.com/s/uuLD3tQfDGD3fSsmLonQkA)
 - [爱奇艺效果广告的个性化探索与实践](https://mp.weixin.qq.com/s/cBZ_XC1dSdp540-Hr1izuw) 
 - [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/ZSR13P4hWaOIGOs8auv2XA)
@@ -355,8 +360,9 @@
 
 
 ## 求职面试
-- [推荐/广告算法社招生存指南](https://mp.weixin.qq.com/s/opvxOldRG4Rhcy-Qvp6Ozw)
+- [算法工程师也会遇到35岁这道坎么？](https://mp.weixin.qq.com/s/J13YyuvFfTNAmihW09fqNQ)
 
+- [推荐/广告算法社招生存指南](https://mp.weixin.qq.com/s/opvxOldRG4Rhcy-Qvp6Ozw)
 - [一年级算法工程师的工作总结](https://mp.weixin.qq.com/s/7qH6iBa6TIpNdSn9npi_sw)
 - [谈一谈算法工程师的落地能力](https://mp.weixin.qq.com/s/1ivTBtnZGkpyyS0BowKxeA)
 - [美H1-B签证改革更有利IT公司从全球招聘——聊聊国内如何找美国算法岗工作](https://mp.weixin.qq.com/s/L3OP4ppcQ5w2MIk5x7SivA)
