@@ -115,8 +115,10 @@
 
 
 ## 召回匹配
-- [模型化召回在陌陌社交推荐的应用和探索](https://mp.weixin.qq.com/s/TqKWhY-rr7l51h2WqG0CQw)
+- [深度召回在招聘推荐中的挑战和实践](https://mp.weixin.qq.com/s/pCIoyxJEgDniziG71Hg7lA)
 
+- [Embedding技术在房产推荐中的应用](https://mp.weixin.qq.com/s/ZXRBQpvcCM1_v68f36YmpQ)
+- [模型化召回在陌陌社交推荐的应用和探索](https://mp.weixin.qq.com/s/TqKWhY-rr7l51h2WqG0CQw)
 - [第四范式自动化推荐系统：搜索协同过滤中的交互函数](https://mp.weixin.qq.com/s/hIGxDMXV3OXOGuLtw38XnA)
 - [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/2qFFkBUwcS1SqqPxKDhZxQ) 
 - [RALM: 实时 Look-alike算法在微信看一看中的应用](https://mp.weixin.qq.com/s/doCEZLrGjcioVJvxIe7Lgw)
@@ -165,8 +167,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.64](https://mp.weixin.qq.com/s/FVOZ1D6fY0dEI-sKf57l5g)
+- [学习交流小组精彩内容摘要 No.66](https://mp.weixin.qq.com/s/DBkmQCb7ccE3FS8v7vVszw)
 
+- [学习交流小组精彩内容摘要 No.65](https://mp.weixin.qq.com/s/1tG_RhEAHhhne5-SVe8nWg)
+- [学习交流小组精彩内容摘要 No.64](https://mp.weixin.qq.com/s/FVOZ1D6fY0dEI-sKf57l5g)
 - [学习交流小组精彩内容摘要 No.63](https://mp.weixin.qq.com/s/kQKAiDYbI1R6W5WA6-LErg)
 - [学习交流小组精彩内容摘要 No.62](https://mp.weixin.qq.com/s/gky_BkWuhw2JC9-WCDUa_Q)
 - [学习交流小组精彩内容摘要 No.61](https://mp.weixin.qq.com/s/HKltOPkaEvi0zcxy4R9uvg)
@@ -232,8 +236,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [京东电商搜索中的语义检索与商品排序](https://mp.weixin.qq.com/s/f8SsJO3L7cjlWAaFOklN3g)
+- [跨域推荐技术在58部落内容社区的实践](https://mp.weixin.qq.com/s/yntPcavbDITUn-u-fjOcpA)
 
+- [京东电商搜索中的语义检索与商品排序](https://mp.weixin.qq.com/s/f8SsJO3L7cjlWAaFOklN3g)
 - [分布式机器学习框架与高维实时推荐系统](https://mp.weixin.qq.com/s/1szW1lc0ElRmw2CDIDafpQ)
 - [图推荐算法在E&E问题上的应用](https://mp.weixin.qq.com/s/xkvQ58mnmPZBOjLkg3OEGA)
 - [朱小强｜屠龙少年与龙：漫谈深度学习驱动的广告推荐技术发展周期](https://mp.weixin.qq.com/s/AcgGCD3Ye2LOYRQlv27Yzg)
@@ -308,8 +313,9 @@
 
 
 ## 图算法 
-- [图挖掘与多关系学习：工具与应用，亚马逊与CMU-WWW2021教程，附161页ppt](https://mp.weixin.qq.com/s/Fs62rIi5AoXVkM2sSTT7JQ)
+- [大规模图算法在京东广告的实践](https://mp.weixin.qq.com/s/-wivl-9K-znQ31qHXW5g4A)
 
+- [图挖掘与多关系学习：工具与应用，亚马逊与CMU-WWW2021教程，附161页ppt](https://mp.weixin.qq.com/s/Fs62rIi5AoXVkM2sSTT7JQ)
 - [一文直击Graph Embedding图表示学习的原理及应用](https://mp.weixin.qq.com/s/F9zt7eyHxTX7Gp0zpvnfcg)
 - [【GraphEmbedding】DeepWalk算法原理，实现和应用
 ](https://mp.weixin.qq.com/s?__biz=MjM5MzY4NzE3MA==&mid=2247484661&amp;idx=1&amp;sn=360ed3d2f4bb9a0d11bbd821e7ede72e&source=41#wechat_redirect) 
@@ -360,8 +366,9 @@
 
 
 ## 求职面试
-- [算法工程师也会遇到35岁这道坎么？](https://mp.weixin.qq.com/s/J13YyuvFfTNAmihW09fqNQ)
+- [算法工程师如何应对业务方和老板的灵魂拷问？](https://mp.weixin.qq.com/s/XgzRBGHt_cadcl6vK4t66w)
 
+- [算法工程师也会遇到35岁这道坎么？](https://mp.weixin.qq.com/s/J13YyuvFfTNAmihW09fqNQ)
 - [推荐/广告算法社招生存指南](https://mp.weixin.qq.com/s/opvxOldRG4Rhcy-Qvp6Ozw)
 - [一年级算法工程师的工作总结](https://mp.weixin.qq.com/s/7qH6iBa6TIpNdSn9npi_sw)
 - [谈一谈算法工程师的落地能力](https://mp.weixin.qq.com/s/1ivTBtnZGkpyyS0BowKxeA)
