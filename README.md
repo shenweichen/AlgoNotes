@@ -167,8 +167,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.66](https://mp.weixin.qq.com/s/DBkmQCb7ccE3FS8v7vVszw)
+- [学习交流小组精彩内容摘要 No.68](https://mp.weixin.qq.com/s/GtmXXcxycf4O4XdK4JFhzw)
 
+- [学习交流小组精彩内容摘要 No.67](https://mp.weixin.qq.com/s/ZOKSj4F37agYuVr6Dh-syA)
+- [学习交流小组精彩内容摘要 No.66](https://mp.weixin.qq.com/s/DBkmQCb7ccE3FS8v7vVszw)
 - [学习交流小组精彩内容摘要 No.65](https://mp.weixin.qq.com/s/1tG_RhEAHhhne5-SVe8nWg)
 - [学习交流小组精彩内容摘要 No.64](https://mp.weixin.qq.com/s/FVOZ1D6fY0dEI-sKf57l5g)
 - [学习交流小组精彩内容摘要 No.63](https://mp.weixin.qq.com/s/kQKAiDYbI1R6W5WA6-LErg)
@@ -236,8 +238,10 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [跨域推荐技术在58部落内容社区的实践](https://mp.weixin.qq.com/s/yntPcavbDITUn-u-fjOcpA)
+- [微博基于Flink的机器学习实践](https://mp.weixin.qq.com/s/Mu3tDDSjdlbASJWUf5dJJA)
 
+- [多业务融合推荐策略实践与思考](https://mp.weixin.qq.com/s/uMc61j7EH5kQWkKC9cORMw)
+- [跨域推荐技术在58部落内容社区的实践](https://mp.weixin.qq.com/s/yntPcavbDITUn-u-fjOcpA)
 - [京东电商搜索中的语义检索与商品排序](https://mp.weixin.qq.com/s/f8SsJO3L7cjlWAaFOklN3g)
 - [分布式机器学习框架与高维实时推荐系统](https://mp.weixin.qq.com/s/1szW1lc0ElRmw2CDIDafpQ)
 - [图推荐算法在E&E问题上的应用](https://mp.weixin.qq.com/s/xkvQ58mnmPZBOjLkg3OEGA)
