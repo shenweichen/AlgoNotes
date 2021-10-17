@@ -115,8 +115,9 @@
 
 
 ## 召回匹配
-- [深度召回在招聘推荐中的挑战和实践](https://mp.weixin.qq.com/s/pCIoyxJEgDniziG71Hg7lA)
+- [阿里飞猪个性化推荐：召回篇](https://mp.weixin.qq.com/s/XxgYlt_o7PSeollP1X_Kkw)
 
+- [深度召回在招聘推荐中的挑战和实践](https://mp.weixin.qq.com/s/pCIoyxJEgDniziG71Hg7lA)
 - [Embedding技术在房产推荐中的应用](https://mp.weixin.qq.com/s/ZXRBQpvcCM1_v68f36YmpQ)
 - [模型化召回在陌陌社交推荐的应用和探索](https://mp.weixin.qq.com/s/TqKWhY-rr7l51h2WqG0CQw)
 - [第四范式自动化推荐系统：搜索协同过滤中的交互函数](https://mp.weixin.qq.com/s/hIGxDMXV3OXOGuLtw38XnA)
@@ -167,8 +168,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.68](https://mp.weixin.qq.com/s/GtmXXcxycf4O4XdK4JFhzw)
+- [学习交流小组精彩内容摘要 No.69](https://mp.weixin.qq.com/s/XBsluA7HSNkBhE2i0dg_yQ)
 
+- [学习交流小组精彩内容摘要 No.68](https://mp.weixin.qq.com/s/GtmXXcxycf4O4XdK4JFhzw)
 - [学习交流小组精彩内容摘要 No.67](https://mp.weixin.qq.com/s/ZOKSj4F37agYuVr6Dh-syA)
 - [学习交流小组精彩内容摘要 No.66](https://mp.weixin.qq.com/s/DBkmQCb7ccE3FS8v7vVszw)
 - [学习交流小组精彩内容摘要 No.65](https://mp.weixin.qq.com/s/1tG_RhEAHhhne5-SVe8nWg)
@@ -238,8 +240,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [微博基于Flink的机器学习实践](https://mp.weixin.qq.com/s/Mu3tDDSjdlbASJWUf5dJJA)
+- [微博推荐算法实践与机器学习平台演进](https://mp.weixin.qq.com/s/kC-IXfMbSc-KY6qSUZjR7w)
 
+- [微博基于Flink的机器学习实践](https://mp.weixin.qq.com/s/Mu3tDDSjdlbASJWUf5dJJA)
 - [多业务融合推荐策略实践与思考](https://mp.weixin.qq.com/s/uMc61j7EH5kQWkKC9cORMw)
 - [跨域推荐技术在58部落内容社区的实践](https://mp.weixin.qq.com/s/yntPcavbDITUn-u-fjOcpA)
 - [京东电商搜索中的语义检索与商品排序](https://mp.weixin.qq.com/s/f8SsJO3L7cjlWAaFOklN3g)
