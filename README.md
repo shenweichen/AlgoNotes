@@ -43,8 +43,10 @@
   
   
 ## 排序&CXR预估
-- [深度时空网络、记忆网络与特征表达学习在 CTR 预估中的应用](https://mp.weixin.qq.com/s/tSm_6YUUkPkvsHdr_QjeFQ)
+- [CSCNN：新一代京东电商广告排序模型](https://mp.weixin.qq.com/s/pJRKE7ijtkvajN3erO3LOw)
 
+- [多目标排序在58同城房源推荐中的实践探索](https://mp.weixin.qq.com/s/O2VR9-Fi4DqO8lNXg2Cutg)
+- [深度时空网络、记忆网络与特征表达学习在 CTR 预估中的应用](https://mp.weixin.qq.com/s/tSm_6YUUkPkvsHdr_QjeFQ)
 - [Attention机制在深度学习推荐算法中的应用](https://mp.weixin.qq.com/s/nHeIxsW2SakZzFeY0aHtjQ)
 - [阿里1688直播推荐算法实践](https://mp.weixin.qq.com/s/JmaN9FlJn0JZa-oT6KPShA)
 - [CTR预估在动态样式建模和特征表达学习方面的进展](https://mp.weixin.qq.com/s/rD7xAWdT6Ui4cQiCABry4Q)
@@ -168,8 +170,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.69](https://mp.weixin.qq.com/s/XBsluA7HSNkBhE2i0dg_yQ)
+- [学习交流小组精彩内容摘要 No.70](https://mp.weixin.qq.com/s/2zKvtLd49SXalE0jUkwU1g)
 
+- [学习交流小组精彩内容摘要 No.69](https://mp.weixin.qq.com/s/XBsluA7HSNkBhE2i0dg_yQ)
 - [学习交流小组精彩内容摘要 No.68](https://mp.weixin.qq.com/s/GtmXXcxycf4O4XdK4JFhzw)
 - [学习交流小组精彩内容摘要 No.67](https://mp.weixin.qq.com/s/ZOKSj4F37agYuVr6Dh-syA)
 - [学习交流小组精彩内容摘要 No.66](https://mp.weixin.qq.com/s/DBkmQCb7ccE3FS8v7vVszw)
@@ -240,8 +243,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [微博推荐算法实践与机器学习平台演进](https://mp.weixin.qq.com/s/kC-IXfMbSc-KY6qSUZjR7w)
+- [张俊林：对比学习在微博内容表示的应用](https://mp.weixin.qq.com/s/vV4pzxI9tDDFm0QSVE74DA)
 
+- [微博推荐算法实践与机器学习平台演进](https://mp.weixin.qq.com/s/kC-IXfMbSc-KY6qSUZjR7w)
 - [微博基于Flink的机器学习实践](https://mp.weixin.qq.com/s/Mu3tDDSjdlbASJWUf5dJJA)
 - [多业务融合推荐策略实践与思考](https://mp.weixin.qq.com/s/uMc61j7EH5kQWkKC9cORMw)
 - [跨域推荐技术在58部落内容社区的实践](https://mp.weixin.qq.com/s/yntPcavbDITUn-u-fjOcpA)
