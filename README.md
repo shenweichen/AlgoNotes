@@ -173,8 +173,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.73](https://mp.weixin.qq.com/s/9AGxGE0_nJXElAY4-iX3fw)
+- [学习交流小组精彩内容摘要 No.74](https://mp.weixin.qq.com/s/mF5eTZpQSnwGlp-0FaAxlw)
 
+- [学习交流小组精彩内容摘要 No.73](https://mp.weixin.qq.com/s/9AGxGE0_nJXElAY4-iX3fw)
 - [学习交流小组精彩内容摘要 No.72](https://mp.weixin.qq.com/s/mzNfvCZuTGk3k0SqEarYmQ)
 - [学习交流小组精彩内容摘要 No.71](https://mp.weixin.qq.com/s/SWQCn8ZM1DeyLBSJLm4QUw)
 - [学习交流小组精彩内容摘要 No.70](https://mp.weixin.qq.com/s/2zKvtLd49SXalE0jUkwU1g)
@@ -249,8 +250,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [蜻蜓FM实时推荐系统的发展和演进](https://mp.weixin.qq.com/s/qK_KOICjQD0tCzxrLcSnAg)
+- [什么样的模型是好的模型？](https://mp.weixin.qq.com/s/g59j-9fZ2KI8MtBcnOiOCA)
 
+- [蜻蜓FM实时推荐系统的发展和演进](https://mp.weixin.qq.com/s/qK_KOICjQD0tCzxrLcSnAg)
 - [快手如何搭建一个好的数据指标体系？](https://mp.weixin.qq.com/s/_Z1HTot8nMwErDKkby29_g)  
 - [推荐系统架构治理](https://mp.weixin.qq.com/s/aKGx-R71T_bvJtyWNcZz_g)
 - [张俊林：对比学习在微博内容表示的应用](https://mp.weixin.qq.com/s/vV4pzxI9tDDFm0QSVE74DA)
