@@ -43,8 +43,9 @@
   
   
 ## 排序&CXR预估
-- [阿里新一代Rank技术](https://mp.weixin.qq.com/s/97sHUHv_6mC2VGj6tR9pxA)
+- [全新的深度模型在推荐系统中的应用](https://mp.weixin.qq.com/s/ov4scHpD-mKc7IcA9psd2A)
 
+- [阿里新一代Rank技术](https://mp.weixin.qq.com/s/97sHUHv_6mC2VGj6tR9pxA)
 - [广义多目标算法探索实践](https://mp.weixin.qq.com/s/9drnIr93QSE6hQl9KXRWhg)
 - [CSCNN：新一代京东电商广告排序模型](https://mp.weixin.qq.com/s/pJRKE7ijtkvajN3erO3LOw)
 - [多目标排序在58同城房源推荐中的实践探索](https://mp.weixin.qq.com/s/O2VR9-Fi4DqO8lNXg2Cutg)
@@ -119,8 +120,9 @@
 
 
 ## 召回匹配
-- [张俊林：从对比学习视角，重新审视推荐系统的召回粗排模型](https://mp.weixin.qq.com/s/lf3XT3FDDe4xyrmnMLQOnA)
+- ["全能选手"召回表征算法实践](https://mp.weixin.qq.com/s/rQSn7_LThzB8VT9ccHg3ww)
 
+- [张俊林：从对比学习视角，重新审视推荐系统的召回粗排模型](https://mp.weixin.qq.com/s/lf3XT3FDDe4xyrmnMLQOnA)
 - [阿里飞猪个性化推荐：召回篇](https://mp.weixin.qq.com/s/XxgYlt_o7PSeollP1X_Kkw)
 - [深度召回在招聘推荐中的挑战和实践](https://mp.weixin.qq.com/s/pCIoyxJEgDniziG71Hg7lA)
 - [Embedding技术在房产推荐中的应用](https://mp.weixin.qq.com/s/ZXRBQpvcCM1_v68f36YmpQ)
@@ -173,8 +175,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.74](https://mp.weixin.qq.com/s/mF5eTZpQSnwGlp-0FaAxlw)
+- [学习交流小组精彩内容摘要 No.75](https://mp.weixin.qq.com/s/DiEk_OhRIeEavvV7_5gMng)
 
+- [学习交流小组精彩内容摘要 No.74](https://mp.weixin.qq.com/s/mF5eTZpQSnwGlp-0FaAxlw)
 - [学习交流小组精彩内容摘要 No.73](https://mp.weixin.qq.com/s/9AGxGE0_nJXElAY4-iX3fw)
 - [学习交流小组精彩内容摘要 No.72](https://mp.weixin.qq.com/s/mzNfvCZuTGk3k0SqEarYmQ)
 - [学习交流小组精彩内容摘要 No.71](https://mp.weixin.qq.com/s/SWQCn8ZM1DeyLBSJLm4QUw)
@@ -250,8 +253,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [什么样的模型是好的模型？](https://mp.weixin.qq.com/s/g59j-9fZ2KI8MtBcnOiOCA)
+- [Angel：深度学习在腾讯广告推荐系统中的实践](https://mp.weixin.qq.com/s/iB3kuQl6wm-PdVicnLF2BQ)
 
+- [什么样的模型是好的模型？](https://mp.weixin.qq.com/s/g59j-9fZ2KI8MtBcnOiOCA)
 - [蜻蜓FM实时推荐系统的发展和演进](https://mp.weixin.qq.com/s/qK_KOICjQD0tCzxrLcSnAg)
 - [快手如何搭建一个好的数据指标体系？](https://mp.weixin.qq.com/s/_Z1HTot8nMwErDKkby29_g)  
 - [推荐系统架构治理](https://mp.weixin.qq.com/s/aKGx-R71T_bvJtyWNcZz_g)
