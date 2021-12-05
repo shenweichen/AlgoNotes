@@ -175,8 +175,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.75](https://mp.weixin.qq.com/s/DiEk_OhRIeEavvV7_5gMng)
+- [学习交流小组精彩内容摘要 No.76](https://mp.weixin.qq.com/s/rFgVVKcJNvT3v19F0swcBQ) 
 
+- [学习交流小组精彩内容摘要 No.75](https://mp.weixin.qq.com/s/DiEk_OhRIeEavvV7_5gMng)
 - [学习交流小组精彩内容摘要 No.74](https://mp.weixin.qq.com/s/mF5eTZpQSnwGlp-0FaAxlw)
 - [学习交流小组精彩内容摘要 No.73](https://mp.weixin.qq.com/s/9AGxGE0_nJXElAY4-iX3fw)
 - [学习交流小组精彩内容摘要 No.72](https://mp.weixin.qq.com/s/mzNfvCZuTGk3k0SqEarYmQ)
@@ -253,8 +254,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [Angel：深度学习在腾讯广告推荐系统中的实践](https://mp.weixin.qq.com/s/iB3kuQl6wm-PdVicnLF2BQ)
+- [做用户，绕不开画像！](https://mp.weixin.qq.com/s/bIsvK0WM6z6sgcNU3aoGoQ)
 
+- [Angel：深度学习在腾讯广告推荐系统中的实践](https://mp.weixin.qq.com/s/iB3kuQl6wm-PdVicnLF2BQ)
 - [什么样的模型是好的模型？](https://mp.weixin.qq.com/s/g59j-9fZ2KI8MtBcnOiOCA)
 - [蜻蜓FM实时推荐系统的发展和演进](https://mp.weixin.qq.com/s/qK_KOICjQD0tCzxrLcSnAg)
 - [快手如何搭建一个好的数据指标体系？](https://mp.weixin.qq.com/s/_Z1HTot8nMwErDKkby29_g)  
@@ -305,8 +307,9 @@
 
 
 ## 计算广告
-- [商业化广告策略解读](https://mp.weixin.qq.com/s/Le933YabTtG2Zh1B2prSBw)
+- [360展示广告智能化演进](https://mp.weixin.qq.com/s/YfTI-aj2n1Chi_mYmjcHiA)
 
+- [商业化广告策略解读](https://mp.weixin.qq.com/s/Le933YabTtG2Zh1B2prSBw)
 - [广告算法在阿里文娱用户增长中的实践](https://mp.weixin.qq.com/s/Vt1qwbU0Gsm144vzBxSG9A)
 - [阿里定向广告智能投放技术体系](https://mp.weixin.qq.com/s/uuLD3tQfDGD3fSsmLonQkA)
 - [爱奇艺效果广告的个性化探索与实践](https://mp.weixin.qq.com/s/cBZ_XC1dSdp540-Hr1izuw) 
