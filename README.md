@@ -175,8 +175,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.76](https://mp.weixin.qq.com/s/rFgVVKcJNvT3v19F0swcBQ) 
+- [学习交流小组精彩内容摘要 No.77](https://mp.weixin.qq.com/s/326R9182YvfpZq-PiLjIXA) 
 
+- [学习交流小组精彩内容摘要 No.76](https://mp.weixin.qq.com/s/rFgVVKcJNvT3v19F0swcBQ)
 - [学习交流小组精彩内容摘要 No.75](https://mp.weixin.qq.com/s/DiEk_OhRIeEavvV7_5gMng)
 - [学习交流小组精彩内容摘要 No.74](https://mp.weixin.qq.com/s/mF5eTZpQSnwGlp-0FaAxlw)
 - [学习交流小组精彩内容摘要 No.73](https://mp.weixin.qq.com/s/9AGxGE0_nJXElAY4-iX3fw)
@@ -254,8 +255,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [做用户，绕不开画像！](https://mp.weixin.qq.com/s/bIsvK0WM6z6sgcNU3aoGoQ)
+- [如何构建一个好的电商搜索引擎？](https://mp.weixin.qq.com/s/5FPtu0WC_e73mvM04kF69A) 
 
+- [做用户，绕不开画像！](https://mp.weixin.qq.com/s/bIsvK0WM6z6sgcNU3aoGoQ)
 - [Angel：深度学习在腾讯广告推荐系统中的实践](https://mp.weixin.qq.com/s/iB3kuQl6wm-PdVicnLF2BQ)
 - [什么样的模型是好的模型？](https://mp.weixin.qq.com/s/g59j-9fZ2KI8MtBcnOiOCA)
 - [蜻蜓FM实时推荐系统的发展和演进](https://mp.weixin.qq.com/s/qK_KOICjQD0tCzxrLcSnAg)
@@ -395,8 +397,9 @@
 
 
 ## 求职面试
-- [算法工程师如何应对业务方和老板的灵魂拷问？](https://mp.weixin.qq.com/s/XgzRBGHt_cadcl6vK4t66w)
+- [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/kBBvXGe33Bo-buHbCWSFCg) 
 
+- [算法工程师如何应对业务方和老板的灵魂拷问？](https://mp.weixin.qq.com/s/XgzRBGHt_cadcl6vK4t66w)
 - [算法工程师也会遇到35岁这道坎么？](https://mp.weixin.qq.com/s/J13YyuvFfTNAmihW09fqNQ)
 - [推荐/广告算法社招生存指南](https://mp.weixin.qq.com/s/opvxOldRG4Rhcy-Qvp6Ozw)
 - [一年级算法工程师的工作总结](https://mp.weixin.qq.com/s/7qH6iBa6TIpNdSn9npi_sw)
