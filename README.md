@@ -43,8 +43,10 @@
   
   
 ## 排序&CXR预估
-- [全新的深度模型在推荐系统中的应用](https://mp.weixin.qq.com/s/ov4scHpD-mKc7IcA9psd2A)
 
+- [网易云音乐推荐中的用户行为序列深度建模](https://mp.weixin.qq.com/s/Z8qFokp3O9W5pPuvDlovRA)
+
+- [全新的深度模型在推荐系统中的应用](https://mp.weixin.qq.com/s/ov4scHpD-mKc7IcA9psd2A)
 - [阿里新一代Rank技术](https://mp.weixin.qq.com/s/97sHUHv_6mC2VGj6tR9pxA)
 - [广义多目标算法探索实践](https://mp.weixin.qq.com/s/9drnIr93QSE6hQl9KXRWhg)
 - [CSCNN：新一代京东电商广告排序模型](https://mp.weixin.qq.com/s/pJRKE7ijtkvajN3erO3LOw)
@@ -175,8 +177,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.77](https://mp.weixin.qq.com/s/326R9182YvfpZq-PiLjIXA) 
 
+- [学习交流小组精彩内容摘要 No.78](https://mp.weixin.qq.com/s/X1ET6OucWo8wX95vJ4jUAA)
+
+- [学习交流小组精彩内容摘要 No.77](https://mp.weixin.qq.com/s/326R9182YvfpZq-PiLjIXA) 
 - [学习交流小组精彩内容摘要 No.76](https://mp.weixin.qq.com/s/rFgVVKcJNvT3v19F0swcBQ)
 - [学习交流小组精彩内容摘要 No.75](https://mp.weixin.qq.com/s/DiEk_OhRIeEavvV7_5gMng)
 - [学习交流小组精彩内容摘要 No.74](https://mp.weixin.qq.com/s/mF5eTZpQSnwGlp-0FaAxlw)
@@ -255,8 +259,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [如何构建一个好的电商搜索引擎？](https://mp.weixin.qq.com/s/5FPtu0WC_e73mvM04kF69A) 
+- [信息流推荐的用户增长机制](https://mp.weixin.qq.com/s/pOqyDtBa2HN_pVpCL0iYpA)
 
+- [如何构建一个好的电商搜索引擎？](https://mp.weixin.qq.com/s/5FPtu0WC_e73mvM04kF69A) 
 - [做用户，绕不开画像！](https://mp.weixin.qq.com/s/bIsvK0WM6z6sgcNU3aoGoQ)
 - [Angel：深度学习在腾讯广告推荐系统中的实践](https://mp.weixin.qq.com/s/iB3kuQl6wm-PdVicnLF2BQ)
 - [什么样的模型是好的模型？](https://mp.weixin.qq.com/s/g59j-9fZ2KI8MtBcnOiOCA)
