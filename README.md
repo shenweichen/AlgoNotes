@@ -167,9 +167,9 @@
 
 
 ## 用户画像&特征工程
+- [网易严选画像建设实践](https://mp.weixin.qq.com/s/8r3hoQlD6SG83irT0YHtCA) 
 
 - [⾼维特征的哈希技巧总结](https://mp.weixin.qq.com/s/mOTfkA_BIg0tx0p1S4hT1Q) 
-
 - [SIGIR20 | 超越用户embedding矩阵：用哈希对大型用户建模
 ](https://mp.weixin.qq.com/s/h0pK8b82rrerTwzDzOUW7A) 
 - [浅谈电商搜索推荐中ID类特征的统一建模：Hema Embedding解读](https://mp.weixin.qq.com/s/iMU2LPDadmVMgzUifw3-XA) 
@@ -259,8 +259,11 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [信息流推荐的用户增长机制](https://mp.weixin.qq.com/s/pOqyDtBa2HN_pVpCL0iYpA)
+- [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/0egID0-2HnU4nS6Sl_cotw)
 
+- [推荐系统解构](https://mp.weixin.qq.com/s/SlbznJpp6F0u5NCY8kVWeA)
+- [京东Flink优化与技术实践](https://mp.weixin.qq.com/s/Q23u3onaPl2JfLNLTbRfXg)
+- [信息流推荐的用户增长机制](https://mp.weixin.qq.com/s/pOqyDtBa2HN_pVpCL0iYpA)
 - [如何构建一个好的电商搜索引擎？](https://mp.weixin.qq.com/s/5FPtu0WC_e73mvM04kF69A) 
 - [做用户，绕不开画像！](https://mp.weixin.qq.com/s/bIsvK0WM6z6sgcNU3aoGoQ)
 - [Angel：深度学习在腾讯广告推荐系统中的实践](https://mp.weixin.qq.com/s/iB3kuQl6wm-PdVicnLF2BQ)
@@ -349,8 +352,10 @@
 
 
 ## 图算法 
-- [大规模图算法在京东广告的实践](https://mp.weixin.qq.com/s/-wivl-9K-znQ31qHXW5g4A)
+- [实现大规模图计算的算法思路](https://mp.weixin.qq.com/s/LZmmSvi8TsXb1Axl8IygoA)
 
+- [图算法在网络黑产挖掘中的思考](https://mp.weixin.qq.com/s/j19gTTuIt2agT0gybKW5LA)
+- [大规模图算法在京东广告的实践](https://mp.weixin.qq.com/s/-wivl-9K-znQ31qHXW5g4A)
 - [图挖掘与多关系学习：工具与应用，亚马逊与CMU-WWW2021教程，附161页ppt](https://mp.weixin.qq.com/s/Fs62rIi5AoXVkM2sSTT7JQ)
 - [一文直击Graph Embedding图表示学习的原理及应用](https://mp.weixin.qq.com/s/F9zt7eyHxTX7Gp0zpvnfcg)
 - [【GraphEmbedding】DeepWalk算法原理，实现和应用
