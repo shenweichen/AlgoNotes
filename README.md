@@ -44,8 +44,9 @@
   
 ## 排序&CXR预估
 
-- [网易云音乐推荐中的用户行为序列深度建模](https://mp.weixin.qq.com/s/Z8qFokp3O9W5pPuvDlovRA)
+- [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A) 
 
+- [网易云音乐推荐中的用户行为序列深度建模](https://mp.weixin.qq.com/s/Z8qFokp3O9W5pPuvDlovRA)
 - [全新的深度模型在推荐系统中的应用](https://mp.weixin.qq.com/s/ov4scHpD-mKc7IcA9psd2A)
 - [阿里新一代Rank技术](https://mp.weixin.qq.com/s/97sHUHv_6mC2VGj6tR9pxA)
 - [广义多目标算法探索实践](https://mp.weixin.qq.com/s/9drnIr93QSE6hQl9KXRWhg)
@@ -122,8 +123,9 @@
 
 
 ## 召回匹配
-- ["全能选手"召回表征算法实践](https://mp.weixin.qq.com/s/rQSn7_LThzB8VT9ccHg3ww)
+- [Hulu在Content Embedding的探索与实践](https://mp.weixin.qq.com/s/fbHJ2hHBpeEsCyPUNRirxQ)
 
+- ["全能选手"召回表征算法实践](https://mp.weixin.qq.com/s/rQSn7_LThzB8VT9ccHg3ww)
 - [张俊林：从对比学习视角，重新审视推荐系统的召回粗排模型](https://mp.weixin.qq.com/s/lf3XT3FDDe4xyrmnMLQOnA)
 - [阿里飞猪个性化推荐：召回篇](https://mp.weixin.qq.com/s/XxgYlt_o7PSeollP1X_Kkw)
 - [深度召回在招聘推荐中的挑战和实践](https://mp.weixin.qq.com/s/pCIoyxJEgDniziG71Hg7lA)
@@ -178,8 +180,10 @@
 
 ## 精彩讨论&知识沉淀
 
-- [学习交流小组精彩内容摘要 No.78](https://mp.weixin.qq.com/s/X1ET6OucWo8wX95vJ4jUAA)
+- [学习交流小组精彩内容摘要 No.80](https://mp.weixin.qq.com/s/7hJ-eq5n_z-BKyX1pZZjMg)
 
+- [学习交流小组精彩内容摘要 No.79](https://mp.weixin.qq.com/s/kGLe3s9GWLA6Ad4oK-DfOQ)
+- [学习交流小组精彩内容摘要 No.78](https://mp.weixin.qq.com/s/X1ET6OucWo8wX95vJ4jUAA)
 - [学习交流小组精彩内容摘要 No.77](https://mp.weixin.qq.com/s/326R9182YvfpZq-PiLjIXA) 
 - [学习交流小组精彩内容摘要 No.76](https://mp.weixin.qq.com/s/rFgVVKcJNvT3v19F0swcBQ)
 - [学习交流小组精彩内容摘要 No.75](https://mp.weixin.qq.com/s/DiEk_OhRIeEavvV7_5gMng)
