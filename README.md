@@ -44,8 +44,9 @@
   
 ## 排序&CXR预估
 
-- [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A) 
+- [主流推荐与垂类推荐技术的发展与延伸](https://mp.weixin.qq.com/s/LTBGQBg69Huk1rvEY3y2VQ)
 
+- [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A) 
 - [网易云音乐推荐中的用户行为序列深度建模](https://mp.weixin.qq.com/s/Z8qFokp3O9W5pPuvDlovRA)
 - [全新的深度模型在推荐系统中的应用](https://mp.weixin.qq.com/s/ov4scHpD-mKc7IcA9psd2A)
 - [阿里新一代Rank技术](https://mp.weixin.qq.com/s/97sHUHv_6mC2VGj6tR9pxA)
@@ -180,8 +181,9 @@
 
 ## 精彩讨论&知识沉淀
 
-- [学习交流小组精彩内容摘要 No.80](https://mp.weixin.qq.com/s/7hJ-eq5n_z-BKyX1pZZjMg)
+- [学习交流小组精彩内容摘要 No.81](https://mp.weixin.qq.com/s/Bu9Jt0iE3vacSXpY52dQOQ)
 
+- [学习交流小组精彩内容摘要 No.80](https://mp.weixin.qq.com/s/7hJ-eq5n_z-BKyX1pZZjMg)
 - [学习交流小组精彩内容摘要 No.79](https://mp.weixin.qq.com/s/kGLe3s9GWLA6Ad4oK-DfOQ)
 - [学习交流小组精彩内容摘要 No.78](https://mp.weixin.qq.com/s/X1ET6OucWo8wX95vJ4jUAA)
 - [学习交流小组精彩内容摘要 No.77](https://mp.weixin.qq.com/s/326R9182YvfpZq-PiLjIXA) 
@@ -263,8 +265,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/0egID0-2HnU4nS6Sl_cotw)
+- [深度学习在 Airbnb 中的探索与应用](https://mp.weixin.qq.com/s/gCyOT-Fv4an_pkqvmWlIfg)
 
+- [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/0egID0-2HnU4nS6Sl_cotw)
 - [推荐系统解构](https://mp.weixin.qq.com/s/SlbznJpp6F0u5NCY8kVWeA)
 - [京东Flink优化与技术实践](https://mp.weixin.qq.com/s/Q23u3onaPl2JfLNLTbRfXg)
 - [信息流推荐的用户增长机制](https://mp.weixin.qq.com/s/pOqyDtBa2HN_pVpCL0iYpA)
@@ -321,8 +324,9 @@
 
 
 ## 计算广告
-- [360展示广告智能化演进](https://mp.weixin.qq.com/s/YfTI-aj2n1Chi_mYmjcHiA)
+- [腾讯用户增长技术：广告智能投放](https://mp.weixin.qq.com/s/N1DdXUwDEEMK5rm2uwai5Q)
 
+- [360展示广告智能化演进](https://mp.weixin.qq.com/s/YfTI-aj2n1Chi_mYmjcHiA)
 - [商业化广告策略解读](https://mp.weixin.qq.com/s/Le933YabTtG2Zh1B2prSBw)
 - [广告算法在阿里文娱用户增长中的实践](https://mp.weixin.qq.com/s/Vt1qwbU0Gsm144vzBxSG9A)
 - [阿里定向广告智能投放技术体系](https://mp.weixin.qq.com/s/uuLD3tQfDGD3fSsmLonQkA)
