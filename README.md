@@ -181,8 +181,9 @@
 
 ## 精彩讨论&知识沉淀
 
-- [学习交流小组精彩内容摘要 No.81](https://mp.weixin.qq.com/s/Bu9Jt0iE3vacSXpY52dQOQ)
+- [学习交流小组精彩内容摘要 No.82](https://mp.weixin.qq.com/s/OnAjhXdYJiX971PHGYi-XQ)
 
+- [学习交流小组精彩内容摘要 No.81](https://mp.weixin.qq.com/s/Bu9Jt0iE3vacSXpY52dQOQ)
 - [学习交流小组精彩内容摘要 No.80](https://mp.weixin.qq.com/s/7hJ-eq5n_z-BKyX1pZZjMg)
 - [学习交流小组精彩内容摘要 No.79](https://mp.weixin.qq.com/s/kGLe3s9GWLA6Ad4oK-DfOQ)
 - [学习交流小组精彩内容摘要 No.78](https://mp.weixin.qq.com/s/X1ET6OucWo8wX95vJ4jUAA)
@@ -265,8 +266,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [深度学习在 Airbnb 中的探索与应用](https://mp.weixin.qq.com/s/gCyOT-Fv4an_pkqvmWlIfg)
+- [阿里零售通智能导购推荐技术实践](https://mp.weixin.qq.com/s/STxYG930mKBXIeTZhzAZXQ)
 
+- [深度学习在 Airbnb 中的探索与应用](https://mp.weixin.qq.com/s/gCyOT-Fv4an_pkqvmWlIfg)
 - [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/0egID0-2HnU4nS6Sl_cotw)
 - [推荐系统解构](https://mp.weixin.qq.com/s/SlbznJpp6F0u5NCY8kVWeA)
 - [京东Flink优化与技术实践](https://mp.weixin.qq.com/s/Q23u3onaPl2JfLNLTbRfXg)
@@ -349,8 +351,9 @@
 ](https://mp.weixin.qq.com/s/vUwtVwdozsYBV0GI2wWtPg) 
 
 ## 大数据
-- [贝壳一站式大数据开发平台实践](https://mp.weixin.qq.com/s/WPZtHRTm2LbPJgpWkUnOOw)
+- [ClickHouse在手淘流量分析业务实践](https://mp.weixin.qq.com/s/PdSzg2BKXaUdhYyGtiCU0g)
 
+- [贝壳一站式大数据开发平台实践](https://mp.weixin.qq.com/s/WPZtHRTm2LbPJgpWkUnOOw)
 - [Flink如何支持特征工程、在线学习、在线预测等AI场景？](https://mp.weixin.qq.com/s/1RddsscO515zhkJ1X9WBvQ)
 - [实时数据流计算引擎Flink和Spark剖析](https://mp.weixin.qq.com/s/FX7wFly3CpFEpwWLBlFQeQ)  
 - [Spark 的一些人生经验](https://mp.weixin.qq.com/s/rff5AAd9w85N-MFVxyNKbg) 
@@ -391,8 +394,9 @@
 
 
 ## NLP&CV
-- [复旦邱锡鹏组最新综述：A Survey of Transformers！](https://mp.weixin.qq.com/s/Htq0dwWRp9PmtB5FSgIqHw)
+- [小米在预训练模型的探索与优化](https://mp.weixin.qq.com/s/b4Odemx3qSJmWBVxKueOHg)
 
+- [复旦邱锡鹏组最新综述：A Survey of Transformers！](https://mp.weixin.qq.com/s/Htq0dwWRp9PmtB5FSgIqHw)
 - [Transformer的一家！](https://mp.weixin.qq.com/s/qncvDw83hoTCNNEA_soUkA). 
 - [这20个技巧让你的NN训练事半功倍](https://mp.weixin.qq.com/s/wcHdidbk0wZOujKKgh-gTA)
 - [【论文串讲】从BERT和XLNet到MPNet](https://mp.weixin.qq.com/s/Lnid-DFMI54Tw_oOi37mjA) 
