@@ -170,8 +170,11 @@
 
 
 ## 用户画像&特征工程
-- [网易严选画像建设实践](https://mp.weixin.qq.com/s/8r3hoQlD6SG83irT0YHtCA) 
+- [网易大数据用户画像实践](https://mp.weixin.qq.com/s/Nr-suyRQQdjywqjJ5YXBvg)
 
+- [用户画像在阅文的探索与实践](https://mp.weixin.qq.com/s/SvKUTV0N7KHV3__c--KPGw)
+- [美团实时特征平台建设实践](https://mp.weixin.qq.com/s/3ri726hKD4024z3d0zgrXg)
+- [网易严选画像建设实践](https://mp.weixin.qq.com/s/8r3hoQlD6SG83irT0YHtCA) 
 - [⾼维特征的哈希技巧总结](https://mp.weixin.qq.com/s/mOTfkA_BIg0tx0p1S4hT1Q) 
 - [SIGIR20 | 超越用户embedding矩阵：用哈希对大型用户建模
 ](https://mp.weixin.qq.com/s/h0pK8b82rrerTwzDzOUW7A) 
@@ -181,8 +184,9 @@
 
 ## 精彩讨论&知识沉淀
 
-- [学习交流小组精彩内容摘要 No.82](https://mp.weixin.qq.com/s/OnAjhXdYJiX971PHGYi-XQ)
+- [学习交流小组精彩内容摘要 No.83](https://mp.weixin.qq.com/s/7SMhWFnJE4IrqLvPb-Vnrg)
 
+- [学习交流小组精彩内容摘要 No.82](https://mp.weixin.qq.com/s/OnAjhXdYJiX971PHGYi-XQ)
 - [学习交流小组精彩内容摘要 No.81](https://mp.weixin.qq.com/s/Bu9Jt0iE3vacSXpY52dQOQ)
 - [学习交流小组精彩内容摘要 No.80](https://mp.weixin.qq.com/s/7hJ-eq5n_z-BKyX1pZZjMg)
 - [学习交流小组精彩内容摘要 No.79](https://mp.weixin.qq.com/s/kGLe3s9GWLA6Ad4oK-DfOQ)
@@ -326,8 +330,9 @@
 
 
 ## 计算广告
-- [腾讯用户增长技术：广告智能投放](https://mp.weixin.qq.com/s/N1DdXUwDEEMK5rm2uwai5Q)
+- [阿里妈妈：基于动态背包的多场景广告序列投放算法](https://mp.weixin.qq.com/s/qOXdD4IvQZy3xt3Z0gZplg)
 
+- [腾讯用户增长技术：广告智能投放](https://mp.weixin.qq.com/s/N1DdXUwDEEMK5rm2uwai5Q)
 - [360展示广告智能化演进](https://mp.weixin.qq.com/s/YfTI-aj2n1Chi_mYmjcHiA)
 - [商业化广告策略解读](https://mp.weixin.qq.com/s/Le933YabTtG2Zh1B2prSBw)
 - [广告算法在阿里文娱用户增长中的实践](https://mp.weixin.qq.com/s/Vt1qwbU0Gsm144vzBxSG9A)
