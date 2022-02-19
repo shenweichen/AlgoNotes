@@ -44,8 +44,9 @@
   
 ## 排序&CXR预估
 
-- [主流推荐与垂类推荐技术的发展与延伸](https://mp.weixin.qq.com/s/LTBGQBg69Huk1rvEY3y2VQ)
+- [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/UEmLUHFF6CkmUaxl3lNIzw)
 
+- [主流推荐与垂类推荐技术的发展与延伸](https://mp.weixin.qq.com/s/LTBGQBg69Huk1rvEY3y2VQ)
 - [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A) 
 - [网易云音乐推荐中的用户行为序列深度建模](https://mp.weixin.qq.com/s/Z8qFokp3O9W5pPuvDlovRA)
 - [全新的深度模型在推荐系统中的应用](https://mp.weixin.qq.com/s/ov4scHpD-mKc7IcA9psd2A)
@@ -124,8 +125,9 @@
 
 
 ## 召回匹配
-- [Hulu在Content Embedding的探索与实践](https://mp.weixin.qq.com/s/fbHJ2hHBpeEsCyPUNRirxQ)
+- [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/q05W-eGm67po0rTdEv3Bfg)
 
+- [Hulu在Content Embedding的探索与实践](https://mp.weixin.qq.com/s/fbHJ2hHBpeEsCyPUNRirxQ)
 - ["全能选手"召回表征算法实践](https://mp.weixin.qq.com/s/rQSn7_LThzB8VT9ccHg3ww)
 - [张俊林：从对比学习视角，重新审视推荐系统的召回粗排模型](https://mp.weixin.qq.com/s/lf3XT3FDDe4xyrmnMLQOnA)
 - [阿里飞猪个性化推荐：召回篇](https://mp.weixin.qq.com/s/XxgYlt_o7PSeollP1X_Kkw)
@@ -184,8 +186,10 @@
 
 ## 精彩讨论&知识沉淀
 
-- [学习交流小组精彩内容摘要 No.83](https://mp.weixin.qq.com/s/7SMhWFnJE4IrqLvPb-Vnrg)
+- [学习交流小组精彩内容摘要 No.85](https://mp.weixin.qq.com/s/Ch6rXIw01bS5sozPgZJvyw)
 
+- [学习交流小组精彩内容摘要 No.84](https://mp.weixin.qq.com/s/XbJxhQQjwvpxfSvO3drcQA)
+- [学习交流小组精彩内容摘要 No.83](https://mp.weixin.qq.com/s/7SMhWFnJE4IrqLvPb-Vnrg)
 - [学习交流小组精彩内容摘要 No.82](https://mp.weixin.qq.com/s/OnAjhXdYJiX971PHGYi-XQ)
 - [学习交流小组精彩内容摘要 No.81](https://mp.weixin.qq.com/s/Bu9Jt0iE3vacSXpY52dQOQ)
 - [学习交流小组精彩内容摘要 No.80](https://mp.weixin.qq.com/s/7hJ-eq5n_z-BKyX1pZZjMg)
@@ -270,8 +274,11 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [阿里零售通智能导购推荐技术实践](https://mp.weixin.qq.com/s/STxYG930mKBXIeTZhzAZXQ)
+- [EdgeRec：边缘计算在淘宝推荐系统中的应用](https://mp.weixin.qq.com/s/dz8rklSVEXzdUV8ArTtp6Q)
 
+- [多媒体内容理解在美图社区的应用实践](https://mp.weixin.qq.com/s/x9bvMmaknQx-oWau_wBYqw)
+- [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
+- [阿里零售通智能导购推荐技术实践](https://mp.weixin.qq.com/s/STxYG930mKBXIeTZhzAZXQ)
 - [深度学习在 Airbnb 中的探索与应用](https://mp.weixin.qq.com/s/gCyOT-Fv4an_pkqvmWlIfg)
 - [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/0egID0-2HnU4nS6Sl_cotw)
 - [推荐系统解构](https://mp.weixin.qq.com/s/SlbznJpp6F0u5NCY8kVWeA)
