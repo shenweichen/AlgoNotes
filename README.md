@@ -186,8 +186,10 @@
 
 ## 精彩讨论&知识沉淀
 
-- [学习交流小组精彩内容摘要 No.85](https://mp.weixin.qq.com/s/Ch6rXIw01bS5sozPgZJvyw)
+- [学习交流小组精彩内容摘要 No.87](https://mp.weixin.qq.com/s/lsoLxYlY8cs9Nt_AmfXXbw)
 
+- [学习交流小组精彩内容摘要 No.86](https://mp.weixin.qq.com/s/xck-8-wx2e-GD9u6Z9oajw)
+- [学习交流小组精彩内容摘要 No.85](https://mp.weixin.qq.com/s/Ch6rXIw01bS5sozPgZJvyw)
 - [学习交流小组精彩内容摘要 No.84](https://mp.weixin.qq.com/s/XbJxhQQjwvpxfSvO3drcQA)
 - [学习交流小组精彩内容摘要 No.83](https://mp.weixin.qq.com/s/7SMhWFnJE4IrqLvPb-Vnrg)
 - [学习交流小组精彩内容摘要 No.82](https://mp.weixin.qq.com/s/OnAjhXdYJiX971PHGYi-XQ)
@@ -406,8 +408,9 @@
 
 
 ## NLP&CV
-- [小米在预训练模型的探索与优化](https://mp.weixin.qq.com/s/b4Odemx3qSJmWBVxKueOHg)
+- [火山翻译：工业级应用与研究](https://mp.weixin.qq.com/s/9fcQbumfCT2evERVcPb8eA)
 
+- [小米在预训练模型的探索与优化](https://mp.weixin.qq.com/s/b4Odemx3qSJmWBVxKueOHg)
 - [复旦邱锡鹏组最新综述：A Survey of Transformers！](https://mp.weixin.qq.com/s/Htq0dwWRp9PmtB5FSgIqHw)
 - [Transformer的一家！](https://mp.weixin.qq.com/s/qncvDw83hoTCNNEA_soUkA). 
 - [这20个技巧让你的NN训练事半功倍](https://mp.weixin.qq.com/s/wcHdidbk0wZOujKKgh-gTA)
