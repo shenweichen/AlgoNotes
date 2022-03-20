@@ -186,8 +186,10 @@
 
 ## 精彩讨论&知识沉淀
 
-- [学习交流小组精彩内容摘要 No.87](https://mp.weixin.qq.com/s/lsoLxYlY8cs9Nt_AmfXXbw)
+- [学习交流小组精彩内容摘要 No.89](https://mp.weixin.qq.com/s/pZWDUumkA7Ujb5vpYiaByw)
 
+- [学习交流小组精彩内容摘要 No.88](https://mp.weixin.qq.com/s/opHhJ4n3q7SBu9Y2I_IYbw)
+- [学习交流小组精彩内容摘要 No.87](https://mp.weixin.qq.com/s/lsoLxYlY8cs9Nt_AmfXXbw)
 - [学习交流小组精彩内容摘要 No.86](https://mp.weixin.qq.com/s/xck-8-wx2e-GD9u6Z9oajw)
 - [学习交流小组精彩内容摘要 No.85](https://mp.weixin.qq.com/s/Ch6rXIw01bS5sozPgZJvyw)
 - [学习交流小组精彩内容摘要 No.84](https://mp.weixin.qq.com/s/XbJxhQQjwvpxfSvO3drcQA)
@@ -276,8 +278,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [EdgeRec：边缘计算在淘宝推荐系统中的应用](https://mp.weixin.qq.com/s/dz8rklSVEXzdUV8ArTtp6Q)
+- [模型可解释性在风控安全中的实践](https://mp.weixin.qq.com/s/x-hfcUcbAFMlg0HJezfabw)
 
+- [EdgeRec：边缘计算在淘宝推荐系统中的应用](https://mp.weixin.qq.com/s/dz8rklSVEXzdUV8ArTtp6Q)
 - [多媒体内容理解在美图社区的应用实践](https://mp.weixin.qq.com/s/x9bvMmaknQx-oWau_wBYqw)
 - [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
 - [阿里零售通智能导购推荐技术实践](https://mp.weixin.qq.com/s/STxYG930mKBXIeTZhzAZXQ)
@@ -434,8 +437,9 @@
 
 
 ## 求职面试
-- [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/kBBvXGe33Bo-buHbCWSFCg) 
+- [2022年，算法工程师必备的能力是什么？](https://mp.weixin.qq.com/s/AppkIr3_BT_d5Zifo_ProQ)
 
+- [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/kBBvXGe33Bo-buHbCWSFCg) 
 - [算法工程师如何应对业务方和老板的灵魂拷问？](https://mp.weixin.qq.com/s/XgzRBGHt_cadcl6vK4t66w)
 - [算法工程师也会遇到35岁这道坎么？](https://mp.weixin.qq.com/s/J13YyuvFfTNAmihW09fqNQ)
 - [推荐/广告算法社招生存指南](https://mp.weixin.qq.com/s/opvxOldRG4Rhcy-Qvp6Ozw)
