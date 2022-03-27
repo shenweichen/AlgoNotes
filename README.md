@@ -125,8 +125,9 @@
 
 
 ## 召回匹配
-- [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/q05W-eGm67po0rTdEv3Bfg)
+- [全民K歌内容挖掘与召回](https://mp.weixin.qq.com/s/j6kAImadVaCFfynYAT4PCA)
 
+- [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/q05W-eGm67po0rTdEv3Bfg)
 - [Hulu在Content Embedding的探索与实践](https://mp.weixin.qq.com/s/fbHJ2hHBpeEsCyPUNRirxQ)
 - ["全能选手"召回表征算法实践](https://mp.weixin.qq.com/s/rQSn7_LThzB8VT9ccHg3ww)
 - [张俊林：从对比学习视角，重新审视推荐系统的召回粗排模型](https://mp.weixin.qq.com/s/lf3XT3FDDe4xyrmnMLQOnA)
@@ -185,9 +186,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组精彩内容摘要 No.90](https://mp.weixin.qq.com/s/pXg9yHsyb-2P_2RtwSpAPw) 
 
 - [学习交流小组精彩内容摘要 No.89](https://mp.weixin.qq.com/s/pZWDUumkA7Ujb5vpYiaByw)
-
 - [学习交流小组精彩内容摘要 No.88](https://mp.weixin.qq.com/s/opHhJ4n3q7SBu9Y2I_IYbw)
 - [学习交流小组精彩内容摘要 No.87](https://mp.weixin.qq.com/s/lsoLxYlY8cs9Nt_AmfXXbw)
 - [学习交流小组精彩内容摘要 No.86](https://mp.weixin.qq.com/s/xck-8-wx2e-GD9u6Z9oajw)
@@ -380,8 +381,9 @@
 
 
 ## 图算法 
-- [实现大规模图计算的算法思路](https://mp.weixin.qq.com/s/LZmmSvi8TsXb1Axl8IygoA)
+- [GNN在下拉推荐的应用](https://mp.weixin.qq.com/s/wNnFwiOehZCeFLN7eNuh8w)
 
+- [实现大规模图计算的算法思路](https://mp.weixin.qq.com/s/LZmmSvi8TsXb1Axl8IygoA)
 - [图算法在网络黑产挖掘中的思考](https://mp.weixin.qq.com/s/j19gTTuIt2agT0gybKW5LA)
 - [大规模图算法在京东广告的实践](https://mp.weixin.qq.com/s/-wivl-9K-znQ31qHXW5g4A)
 - [图挖掘与多关系学习：工具与应用，亚马逊与CMU-WWW2021教程，附161页ppt](https://mp.weixin.qq.com/s/Fs62rIi5AoXVkM2sSTT7JQ)
@@ -411,8 +413,9 @@
 
 
 ## NLP&CV
-- [火山翻译：工业级应用与研究](https://mp.weixin.qq.com/s/9fcQbumfCT2evERVcPb8eA)
+- [MSRA自监督学习与注意力建模研究实践](https://mp.weixin.qq.com/s/d8f4-HG3hgtyp1N5ZeLsMQ)
 
+- [火山翻译：工业级应用与研究](https://mp.weixin.qq.com/s/9fcQbumfCT2evERVcPb8eA)
 - [小米在预训练模型的探索与优化](https://mp.weixin.qq.com/s/b4Odemx3qSJmWBVxKueOHg)
 - [复旦邱锡鹏组最新综述：A Survey of Transformers！](https://mp.weixin.qq.com/s/Htq0dwWRp9PmtB5FSgIqHw)
 - [Transformer的一家！](https://mp.weixin.qq.com/s/qncvDw83hoTCNNEA_soUkA). 
