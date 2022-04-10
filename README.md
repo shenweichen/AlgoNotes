@@ -125,8 +125,9 @@
 
 
 ## 召回匹配
-- [全民K歌内容挖掘与召回](https://mp.weixin.qq.com/s/j6kAImadVaCFfynYAT4PCA)
+- [淘宝逛逛召回算法实践总结](https://mp.weixin.qq.com/s/fN9s5Ml4GjGK2xLOeAUN4w)
 
+- [全民K歌内容挖掘与召回](https://mp.weixin.qq.com/s/j6kAImadVaCFfynYAT4PCA)
 - [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/q05W-eGm67po0rTdEv3Bfg)
 - [Hulu在Content Embedding的探索与实践](https://mp.weixin.qq.com/s/fbHJ2hHBpeEsCyPUNRirxQ)
 - ["全能选手"召回表征算法实践](https://mp.weixin.qq.com/s/rQSn7_LThzB8VT9ccHg3ww)
@@ -186,8 +187,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.90](https://mp.weixin.qq.com/s/pXg9yHsyb-2P_2RtwSpAPw) 
+- [学习交流小组精彩内容摘要 No.91](https://mp.weixin.qq.com/s/gLu52jt4JDeRXoHVxQAbqw)
 
+- [学习交流小组精彩内容摘要 No.90](https://mp.weixin.qq.com/s/pXg9yHsyb-2P_2RtwSpAPw) 
 - [学习交流小组精彩内容摘要 No.89](https://mp.weixin.qq.com/s/pZWDUumkA7Ujb5vpYiaByw)
 - [学习交流小组精彩内容摘要 No.88](https://mp.weixin.qq.com/s/opHhJ4n3q7SBu9Y2I_IYbw)
 - [学习交流小组精彩内容摘要 No.87](https://mp.weixin.qq.com/s/lsoLxYlY8cs9Nt_AmfXXbw)
@@ -440,8 +442,9 @@
 
 
 ## 求职面试
-- [2022年，算法工程师必备的能力是什么？](https://mp.weixin.qq.com/s/AppkIr3_BT_d5Zifo_ProQ)
+- [Google 十年](https://mp.weixin.qq.com/s/ACrLiOVz13xjNBD3tnbo2Q)
 
+- [2022年，算法工程师必备的能力是什么？](https://mp.weixin.qq.com/s/AppkIr3_BT_d5Zifo_ProQ)
 - [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/kBBvXGe33Bo-buHbCWSFCg) 
 - [算法工程师如何应对业务方和老板的灵魂拷问？](https://mp.weixin.qq.com/s/XgzRBGHt_cadcl6vK4t66w)
 - [算法工程师也会遇到35岁这道坎么？](https://mp.weixin.qq.com/s/J13YyuvFfTNAmihW09fqNQ)
