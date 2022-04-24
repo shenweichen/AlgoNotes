@@ -44,8 +44,9 @@
   
 ## 排序&CXR预估
 
-- [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/UEmLUHFF6CkmUaxl3lNIzw)
+- [深度粗排模型的GMV优化实践：基于全空间-子空间联合建模的蒸馏校准模型](https://mp.weixin.qq.com/s/W9aftBRU0yDHflQSAUzLGw)
 
+- [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/UEmLUHFF6CkmUaxl3lNIzw)
 - [主流推荐与垂类推荐技术的发展与延伸](https://mp.weixin.qq.com/s/LTBGQBg69Huk1rvEY3y2VQ)
 - [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A) 
 - [网易云音乐推荐中的用户行为序列深度建模](https://mp.weixin.qq.com/s/Z8qFokp3O9W5pPuvDlovRA)
@@ -187,8 +188,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.91](https://mp.weixin.qq.com/s/gLu52jt4JDeRXoHVxQAbqw)
+- [学习交流小组精彩内容摘要 No.92](https://mp.weixin.qq.com/s/vlTP4e2VtLUWWZ89YYauBQ)
 
+- [学习交流小组精彩内容摘要 No.91](https://mp.weixin.qq.com/s/gLu52jt4JDeRXoHVxQAbqw)
 - [学习交流小组精彩内容摘要 No.90](https://mp.weixin.qq.com/s/pXg9yHsyb-2P_2RtwSpAPw) 
 - [学习交流小组精彩内容摘要 No.89](https://mp.weixin.qq.com/s/pZWDUumkA7Ujb5vpYiaByw)
 - [学习交流小组精彩内容摘要 No.88](https://mp.weixin.qq.com/s/opHhJ4n3q7SBu9Y2I_IYbw)
@@ -281,8 +283,10 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [模型可解释性在风控安全中的实践](https://mp.weixin.qq.com/s/x-hfcUcbAFMlg0HJezfabw)
+- [阿里巴巴开源稀疏模型训练引擎DeepRec](https://mp.weixin.qq.com/s/zx4BInlQtlGwDPqS5LFcGw)
 
+- [Query理解在美团搜索中的应用](https://mp.weixin.qq.com/s/k-d6AoqqA6_O6xX9s49tyw)
+- [模型可解释性在风控安全中的实践](https://mp.weixin.qq.com/s/x-hfcUcbAFMlg0HJezfabw)
 - [EdgeRec：边缘计算在淘宝推荐系统中的应用](https://mp.weixin.qq.com/s/dz8rklSVEXzdUV8ArTtp6Q)
 - [多媒体内容理解在美图社区的应用实践](https://mp.weixin.qq.com/s/x9bvMmaknQx-oWau_wBYqw)
 - [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
@@ -345,8 +349,9 @@
 
 
 ## 计算广告
-- [阿里妈妈：基于动态背包的多场景广告序列投放算法](https://mp.weixin.qq.com/s/qOXdD4IvQZy3xt3Z0gZplg)
+- [因果推断在阿里飞猪广告算法中的实践](https://mp.weixin.qq.com/s/C0Ndp7LbZCMOEZYJhLvCSA)
 
+- [阿里妈妈：基于动态背包的多场景广告序列投放算法](https://mp.weixin.qq.com/s/qOXdD4IvQZy3xt3Z0gZplg)
 - [腾讯用户增长技术：广告智能投放](https://mp.weixin.qq.com/s/N1DdXUwDEEMK5rm2uwai5Q)
 - [360展示广告智能化演进](https://mp.weixin.qq.com/s/YfTI-aj2n1Chi_mYmjcHiA)
 - [商业化广告策略解读](https://mp.weixin.qq.com/s/Le933YabTtG2Zh1B2prSBw)
