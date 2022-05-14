@@ -44,8 +44,9 @@
   
 ## 排序&CXR预估
 
-- [深度粗排模型的GMV优化实践：基于全空间-子空间联合建模的蒸馏校准模型](https://mp.weixin.qq.com/s/W9aftBRU0yDHflQSAUzLGw)
+- [京东推荐算法精排技术实践](https://mp.weixin.qq.com/s/-F4xpMbRRNH6IDVYRvCL3Q)
 
+- [深度粗排模型的GMV优化实践：基于全空间-子空间联合建模的蒸馏校准模型](https://mp.weixin.qq.com/s/W9aftBRU0yDHflQSAUzLGw)
 - [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/UEmLUHFF6CkmUaxl3lNIzw)
 - [主流推荐与垂类推荐技术的发展与延伸](https://mp.weixin.qq.com/s/LTBGQBg69Huk1rvEY3y2VQ)
 - [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A) 
@@ -126,8 +127,10 @@
 
 
 ## 召回匹配
-- [淘宝逛逛召回算法实践总结](https://mp.weixin.qq.com/s/fN9s5Ml4GjGK2xLOeAUN4w)
+- [多序列融合召回在新用户冷启动上的应用](https://mp.weixin.qq.com/s/6RC6XZNRvuV68h0lfDemqQ)
 
+- [内容推荐场景下多模态语义召回的若干实践](https://mp.weixin.qq.com/s/Sj7N7JSRu1cN4o9Cmo0aXQ)
+- [淘宝逛逛召回算法实践总结](https://mp.weixin.qq.com/s/fN9s5Ml4GjGK2xLOeAUN4w)
 - [全民K歌内容挖掘与召回](https://mp.weixin.qq.com/s/j6kAImadVaCFfynYAT4PCA)
 - [阿里深度树匹配召回体系演进](https://mp.weixin.qq.com/s/q05W-eGm67po0rTdEv3Bfg)
 - [Hulu在Content Embedding的探索与实践](https://mp.weixin.qq.com/s/fbHJ2hHBpeEsCyPUNRirxQ)
@@ -188,8 +191,11 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
-- [学习交流小组精彩内容摘要 No.92](https://mp.weixin.qq.com/s/vlTP4e2VtLUWWZ89YYauBQ)
+- [学习交流小组精彩内容摘要 No.95](https://mp.weixin.qq.com/s/u0Xk-pA_a2UKoRoWCjKTeA)
 
+- [学习交流小组精彩内容摘要 No.94](https://mp.weixin.qq.com/s/yBhyuxX_dFRONPZr1mkejA)
+- [学习交流小组精彩内容摘要 No.93](https://mp.weixin.qq.com/s/WsnOC064LjKyEZim7oODuA)
+- [学习交流小组精彩内容摘要 No.92](https://mp.weixin.qq.com/s/vlTP4e2VtLUWWZ89YYauBQ)
 - [学习交流小组精彩内容摘要 No.91](https://mp.weixin.qq.com/s/gLu52jt4JDeRXoHVxQAbqw)
 - [学习交流小组精彩内容摘要 No.90](https://mp.weixin.qq.com/s/pXg9yHsyb-2P_2RtwSpAPw) 
 - [学习交流小组精彩内容摘要 No.89](https://mp.weixin.qq.com/s/pZWDUumkA7Ujb5vpYiaByw)
@@ -283,8 +289,9 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
-- [阿里巴巴开源稀疏模型训练引擎DeepRec](https://mp.weixin.qq.com/s/zx4BInlQtlGwDPqS5LFcGw)
+- [蜻蜓FM信息流推荐探索与实践](https://mp.weixin.qq.com/s/HsVbsqzbvquohC7XSLduKw)
 
+- [阿里巴巴开源稀疏模型训练引擎DeepRec](https://mp.weixin.qq.com/s/zx4BInlQtlGwDPqS5LFcGw)
 - [Query理解在美团搜索中的应用](https://mp.weixin.qq.com/s/k-d6AoqqA6_O6xX9s49tyw)
 - [模型可解释性在风控安全中的实践](https://mp.weixin.qq.com/s/x-hfcUcbAFMlg0HJezfabw)
 - [EdgeRec：边缘计算在淘宝推荐系统中的应用](https://mp.weixin.qq.com/s/dz8rklSVEXzdUV8ArTtp6Q)
@@ -349,8 +356,9 @@
 
 
 ## 计算广告
-- [因果推断在阿里飞猪广告算法中的实践](https://mp.weixin.qq.com/s/C0Ndp7LbZCMOEZYJhLvCSA)
+- [广告主视角的信息流投放模型问题思考](https://mp.weixin.qq.com/s/5BPP2qAH4zBe11EL0k4hog)
 
+- [因果推断在阿里飞猪广告算法中的实践](https://mp.weixin.qq.com/s/C0Ndp7LbZCMOEZYJhLvCSA)
 - [阿里妈妈：基于动态背包的多场景广告序列投放算法](https://mp.weixin.qq.com/s/qOXdD4IvQZy3xt3Z0gZplg)
 - [腾讯用户增长技术：广告智能投放](https://mp.weixin.qq.com/s/N1DdXUwDEEMK5rm2uwai5Q)
 - [360展示广告智能化演进](https://mp.weixin.qq.com/s/YfTI-aj2n1Chi_mYmjcHiA)
@@ -388,8 +396,9 @@
 
 
 ## 图算法 
-- [GNN在下拉推荐的应用](https://mp.weixin.qq.com/s/wNnFwiOehZCeFLN7eNuh8w)
+- [图神经网络算法在推荐场景下的实践](https://mp.weixin.qq.com/s/syJUhZmGCdCoHc5bBgTzTQ)
 
+- [GNN在下拉推荐的应用](https://mp.weixin.qq.com/s/wNnFwiOehZCeFLN7eNuh8w)
 - [实现大规模图计算的算法思路](https://mp.weixin.qq.com/s/LZmmSvi8TsXb1Axl8IygoA)
 - [图算法在网络黑产挖掘中的思考](https://mp.weixin.qq.com/s/j19gTTuIt2agT0gybKW5LA)
 - [大规模图算法在京东广告的实践](https://mp.weixin.qq.com/s/-wivl-9K-znQ31qHXW5g4A)
