@@ -44,8 +44,8 @@
   
 ## 排序&CXR预估
 
+- [快手牛亚男：基于多Domain多任务学习框架和Transformer，搭建快手精排模型](https://mp.weixin.qq.com/s/q4Gp1cKjkOaxVRliwRL5Dg)
 - [阿里飞猪个性化搜索排序探索实践](https://mp.weixin.qq.com/s/RSdANV3OHgGu8RXmetRZZQ)
-
 - [京东推荐算法精排技术实践](https://mp.weixin.qq.com/s/-F4xpMbRRNH6IDVYRvCL3Q)
 - [深度粗排模型的GMV优化实践：基于全空间-子空间联合建模的蒸馏校准模型](https://mp.weixin.qq.com/s/W9aftBRU0yDHflQSAUzLGw)
 - [多目标推荐场景下的深度学习实践](https://mp.weixin.qq.com/s/UEmLUHFF6CkmUaxl3lNIzw)
@@ -192,8 +192,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组精彩内容摘要 No.98](https://mp.weixin.qq.com/s/OlmbsHfbT7Pd6qFkq3R6JQ)
+- [学习交流小组精彩内容摘要 No.97](https://mp.weixin.qq.com/s/og9HLgLPMu6lyDKw-Ew3Tw)
 - [学习交流小组精彩内容摘要 No.96](https://mp.weixin.qq.com/s/N5SjIQNQQmEVwhB4wKyw6Q)
-
 - [学习交流小组精彩内容摘要 No.95](https://mp.weixin.qq.com/s/u0Xk-pA_a2UKoRoWCjKTeA)
 - [学习交流小组精彩内容摘要 No.94](https://mp.weixin.qq.com/s/yBhyuxX_dFRONPZr1mkejA)
 - [学习交流小组精彩内容摘要 No.93](https://mp.weixin.qq.com/s/WsnOC064LjKyEZim7oODuA)
@@ -291,8 +292,8 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [推荐算法在商业化场景中的探索实践](https://mp.weixin.qq.com/s/MHsSOtamEpvV-NyAkqX3Qg)
 - [主题与交互式推荐技术在飞猪个性化分发中的实践](https://mp.weixin.qq.com/s/mXpCNmNKbf3TFdNr1oopSw)
-
 - [蜻蜓FM信息流推荐探索与实践](https://mp.weixin.qq.com/s/HsVbsqzbvquohC7XSLduKw)
 - [阿里巴巴开源稀疏模型训练引擎DeepRec](https://mp.weixin.qq.com/s/zx4BInlQtlGwDPqS5LFcGw)
 - [Query理解在美团搜索中的应用](https://mp.weixin.qq.com/s/k-d6AoqqA6_O6xX9s49tyw)
@@ -399,8 +400,9 @@
 
 
 ## 图算法 
+- [图算法在流量反作弊中的实践](https://mp.weixin.qq.com/s/rpttLQCe1lrpcRO97hv4nw)
+- [梳理总结211篇论文，首篇基于图神经网络的推荐系统综述](https://mp.weixin.qq.com/s/sI6pyJ9ULJHcT5_jHSXWaA)
 - [图对比学习的最新进展](https://mp.weixin.qq.com/s/NGb-IE3cVmv-rcgZtbxB4A)
-
 - [图神经网络算法在推荐场景下的实践](https://mp.weixin.qq.com/s/syJUhZmGCdCoHc5bBgTzTQ)
 - [GNN在下拉推荐的应用](https://mp.weixin.qq.com/s/wNnFwiOehZCeFLN7eNuh8w)
 - [实现大规模图计算的算法思路](https://mp.weixin.qq.com/s/LZmmSvi8TsXb1Axl8IygoA)
@@ -458,10 +460,14 @@
 ](https://mp.weixin.qq.com/s/zLyoNQLLLHx8Y_EuDcMwWA) 
 - [快速掌握TensorFlow中张量运算的广播机制](https://mp.weixin.qq.com/s?__biz=MjM5MzY4NzE3MA==&mid=2247484662&amp;idx=1&amp;sn=cc69e90edca39539fd4cf17aeea39617&source=41#wechat_redirect) 
 
+## 算法基础
+- [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
+
 
 ## 求职面试
+- [随记：加入微软三个月后](https://mp.weixin.qq.com/s/qWs8_qHYYbvjXPiOJXHlrg)
+- [内卷？谈谈AI算法人才职业发展](https://mp.weixin.qq.com/s/AYwkkdFYVccf4QlWNP_v-g)
 - [Google 十年](https://mp.weixin.qq.com/s/ACrLiOVz13xjNBD3tnbo2Q)
-
 - [2022年，算法工程师必备的能力是什么？](https://mp.weixin.qq.com/s/AppkIr3_BT_d5Zifo_ProQ)
 - [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/kBBvXGe33Bo-buHbCWSFCg) 
 - [算法工程师如何应对业务方和老板的灵魂拷问？](https://mp.weixin.qq.com/s/XgzRBGHt_cadcl6vK4t66w)
