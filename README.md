@@ -44,6 +44,7 @@
   
 ## 排序&CXR预估
 
+- [[阿里]对抗过滤建模用户长期行为序列](https://mp.weixin.qq.com/s/If4FByZLQ7s4yJlre7CYSg)
 - [快手牛亚男：基于多Domain多任务学习框架和Transformer，搭建快手精排模型](https://mp.weixin.qq.com/s/q4Gp1cKjkOaxVRliwRL5Dg)
 - [阿里飞猪个性化搜索排序探索实践](https://mp.weixin.qq.com/s/RSdANV3OHgGu8RXmetRZZQ)
 - [京东推荐算法精排技术实践](https://mp.weixin.qq.com/s/-F4xpMbRRNH6IDVYRvCL3Q)
@@ -192,6 +193,7 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组精彩内容摘要 No.99](https://mp.weixin.qq.com/s/wMjx8qpmW4ArCUKrfMOEzA)
 - [学习交流小组精彩内容摘要 No.98](https://mp.weixin.qq.com/s/OlmbsHfbT7Pd6qFkq3R6JQ)
 - [学习交流小组精彩内容摘要 No.97](https://mp.weixin.qq.com/s/og9HLgLPMu6lyDKw-Ew3Tw)
 - [学习交流小组精彩内容摘要 No.96](https://mp.weixin.qq.com/s/N5SjIQNQQmEVwhB4wKyw6Q)
@@ -292,6 +294,7 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [小米在知识表示学习的探索与实践](https://mp.weixin.qq.com/s/IwVpoLA1DmoDm5_Ey8rOIA)
 - [推荐算法在商业化场景中的探索实践](https://mp.weixin.qq.com/s/MHsSOtamEpvV-NyAkqX3Qg)
 - [主题与交互式推荐技术在飞猪个性化分发中的实践](https://mp.weixin.qq.com/s/mXpCNmNKbf3TFdNr1oopSw)
 - [蜻蜓FM信息流推荐探索与实践](https://mp.weixin.qq.com/s/HsVbsqzbvquohC7XSLduKw)
@@ -463,6 +466,9 @@
 ## 算法基础
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
+## 心得感悟
+- [读博，我想好了！](https://mp.weixin.qq.com/s/LBmeG-jymFK1PqRpu7Eh_g)
+- [大规模裁员后，计算机会成为下一个土木吗？](https://mp.weixin.qq.com/s/y0L9Aad_U18_wdNaQyv7CQ)
 
 ## 求职面试
 - [随记：加入微软三个月后](https://mp.weixin.qq.com/s/qWs8_qHYYbvjXPiOJXHlrg)
