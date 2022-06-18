@@ -193,6 +193,7 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.100](https://mp.weixin.qq.com/s/gUwLt7eglOoeFZ29MurDzQ)
 - [学习交流小组精彩内容摘要 No.99](https://mp.weixin.qq.com/s/wMjx8qpmW4ArCUKrfMOEzA)
 - [学习交流小组精彩内容摘要 No.98](https://mp.weixin.qq.com/s/OlmbsHfbT7Pd6qFkq3R6JQ)
 - [学习交流小组精彩内容摘要 No.97](https://mp.weixin.qq.com/s/og9HLgLPMu6lyDKw-Ew3Tw)
@@ -464,6 +465,7 @@
 - [快速掌握TensorFlow中张量运算的广播机制](https://mp.weixin.qq.com/s?__biz=MjM5MzY4NzE3MA==&mid=2247484662&amp;idx=1&amp;sn=cc69e90edca39539fd4cf17aeea39617&source=41#wechat_redirect) 
 
 ## 算法基础
+- [深度学习的综述的综述](https://mp.weixin.qq.com/s/4Aaa4qa8nU7mXreTimTv3g)
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
