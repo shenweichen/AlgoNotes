@@ -193,6 +193,7 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.101](https://mp.weixin.qq.com/s/TE9nIkir2uqVrvscvrskjg)
 - [学习交流小组每周主题摘要 No.100](https://mp.weixin.qq.com/s/gUwLt7eglOoeFZ29MurDzQ)
 - [学习交流小组精彩内容摘要 No.99](https://mp.weixin.qq.com/s/wMjx8qpmW4ArCUKrfMOEzA)
 - [学习交流小组精彩内容摘要 No.98](https://mp.weixin.qq.com/s/OlmbsHfbT7Pd6qFkq3R6JQ)
@@ -295,6 +296,7 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [直播推荐算法在腾讯音乐的应用实践](https://mp.weixin.qq.com/s/Gb7BwU16bhAIUCPV3Lu7wQ)
 - [小米在知识表示学习的探索与实践](https://mp.weixin.qq.com/s/IwVpoLA1DmoDm5_Ey8rOIA)
 - [推荐算法在商业化场景中的探索实践](https://mp.weixin.qq.com/s/MHsSOtamEpvV-NyAkqX3Qg)
 - [主题与交互式推荐技术在飞猪个性化分发中的实践](https://mp.weixin.qq.com/s/mXpCNmNKbf3TFdNr1oopSw)
@@ -469,10 +471,12 @@
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
+- [三十而立，我决定从字节裸辞](https://mp.weixin.qq.com/s/G6tnhSnqCW-0IaUYoGPTow)
 - [读博，我想好了！](https://mp.weixin.qq.com/s/LBmeG-jymFK1PqRpu7Eh_g)
 - [大规模裁员后，计算机会成为下一个土木吗？](https://mp.weixin.qq.com/s/y0L9Aad_U18_wdNaQyv7CQ)
 
 ## 求职面试
+- [算法实习指南](https://mp.weixin.qq.com/s/a2yE9r34sg7ADQVnmXb89w)
 - [随记：加入微软三个月后](https://mp.weixin.qq.com/s/qWs8_qHYYbvjXPiOJXHlrg)
 - [内卷？谈谈AI算法人才职业发展](https://mp.weixin.qq.com/s/AYwkkdFYVccf4QlWNP_v-g)
 - [Google 十年](https://mp.weixin.qq.com/s/ACrLiOVz13xjNBD3tnbo2Q)
