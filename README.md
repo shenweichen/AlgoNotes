@@ -43,7 +43,8 @@
   
   
 ## 排序&CXR预估
-
+- [揭秘京东广告精排百分位AUC提升技术方案](https://mp.weixin.qq.com/s/T7o5LbbMHrUhEyFlg2fLBA)
+- [[美团]基于强化学习的信息流广告分配方法CrossDQN](https://mp.weixin.qq.com/s/3bc8VyVCr2wcaic26621-A)
 - [[阿里]对抗过滤建模用户长期行为序列](https://mp.weixin.qq.com/s/If4FByZLQ7s4yJlre7CYSg)
 - [快手牛亚男：基于多Domain多任务学习框架和Transformer，搭建快手精排模型](https://mp.weixin.qq.com/s/q4Gp1cKjkOaxVRliwRL5Dg)
 - [阿里飞猪个性化搜索排序探索实践](https://mp.weixin.qq.com/s/RSdANV3OHgGu8RXmetRZZQ)
@@ -193,6 +194,7 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.102](https://mp.weixin.qq.com/s/u2_eeurrhHY0eOwQs1xIyw)
 - [学习交流小组每周主题摘要 No.101](https://mp.weixin.qq.com/s/TE9nIkir2uqVrvscvrskjg)
 - [学习交流小组每周主题摘要 No.100](https://mp.weixin.qq.com/s/gUwLt7eglOoeFZ29MurDzQ)
 - [学习交流小组精彩内容摘要 No.99](https://mp.weixin.qq.com/s/wMjx8qpmW4ArCUKrfMOEzA)
@@ -467,10 +469,13 @@
 - [快速掌握TensorFlow中张量运算的广播机制](https://mp.weixin.qq.com/s?__biz=MjM5MzY4NzE3MA==&mid=2247484662&amp;idx=1&amp;sn=cc69e90edca39539fd4cf17aeea39617&source=41#wechat_redirect) 
 
 ## 算法基础
+- [那些年踩过的Tensorflow的坑（一） 实现FM 10x加速](https://mp.weixin.qq.com/s/EyRv9KfA0rsVLQhA03eCzQ)
 - [深度学习的综述的综述](https://mp.weixin.qq.com/s/4Aaa4qa8nU7mXreTimTv3g)
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
+- [一位博士在华为的22年](https://mp.weixin.qq.com/s/IbpH_ctt9h7vQ0wV6zVVyw)
+- [太卷了，要跑路吗？](https://mp.weixin.qq.com/s/Ms-rmbefIdtvpVLHefvpXg)
 - [三十而立，我决定从字节裸辞](https://mp.weixin.qq.com/s/G6tnhSnqCW-0IaUYoGPTow)
 - [读博，我想好了！](https://mp.weixin.qq.com/s/LBmeG-jymFK1PqRpu7Eh_g)
 - [大规模裁员后，计算机会成为下一个土木吗？](https://mp.weixin.qq.com/s/y0L9Aad_U18_wdNaQyv7CQ)
