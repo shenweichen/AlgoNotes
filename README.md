@@ -43,6 +43,7 @@
   
   
 ## 排序&CXR预估
+- [从顶会论文看2022年推荐系统序列建模的趋势](https://mp.weixin.qq.com/s/m-r7VFL4ynyYggZ7XAzXRg)
 - [揭秘京东广告精排百分位AUC提升技术方案](https://mp.weixin.qq.com/s/T7o5LbbMHrUhEyFlg2fLBA)
 - [[美团]基于强化学习的信息流广告分配方法CrossDQN](https://mp.weixin.qq.com/s/3bc8VyVCr2wcaic26621-A)
 - [[阿里]对抗过滤建模用户长期行为序列](https://mp.weixin.qq.com/s/If4FByZLQ7s4yJlre7CYSg)
@@ -194,6 +195,7 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.103](https://mp.weixin.qq.com/s/bw5uYZpFJxgrRUyzUXbu_w)
 - [学习交流小组每周主题摘要 No.102](https://mp.weixin.qq.com/s/u2_eeurrhHY0eOwQs1xIyw)
 - [学习交流小组每周主题摘要 No.101](https://mp.weixin.qq.com/s/TE9nIkir2uqVrvscvrskjg)
 - [学习交流小组每周主题摘要 No.100](https://mp.weixin.qq.com/s/gUwLt7eglOoeFZ29MurDzQ)
@@ -443,8 +445,8 @@
 
 
 ## NLP&CV
+- [美团商品知识图谱的构建及应用](https://mp.weixin.qq.com/s/i6kzpWXrIbKIjmq-hLnxng)
 - [MSRA自监督学习与注意力建模研究实践](https://mp.weixin.qq.com/s/d8f4-HG3hgtyp1N5ZeLsMQ)
-
 - [火山翻译：工业级应用与研究](https://mp.weixin.qq.com/s/9fcQbumfCT2evERVcPb8eA)
 - [小米在预训练模型的探索与优化](https://mp.weixin.qq.com/s/b4Odemx3qSJmWBVxKueOHg)
 - [复旦邱锡鹏组最新综述：A Survey of Transformers！](https://mp.weixin.qq.com/s/Htq0dwWRp9PmtB5FSgIqHw)
@@ -469,6 +471,7 @@
 - [快速掌握TensorFlow中张量运算的广播机制](https://mp.weixin.qq.com/s?__biz=MjM5MzY4NzE3MA==&mid=2247484662&amp;idx=1&amp;sn=cc69e90edca39539fd4cf17aeea39617&source=41#wechat_redirect) 
 
 ## 算法基础
+- [那些年踩过的Tensorflow的坑（二） 实现FM 10x加速](https://mp.weixin.qq.com/s/0hEvyAg0h-ZPldMLgF307A)
 - [那些年踩过的Tensorflow的坑（一） 实现FM 10x加速](https://mp.weixin.qq.com/s/EyRv9KfA0rsVLQhA03eCzQ)
 - [深度学习的综述的综述](https://mp.weixin.qq.com/s/4Aaa4qa8nU7mXreTimTv3g)
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
