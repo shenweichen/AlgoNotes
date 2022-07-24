@@ -195,6 +195,8 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.105](https://mp.weixin.qq.com/s/3MVjU7USRstE67SYO_YCnw)
+- [学习交流小组每周主题摘要 No.104](https://mp.weixin.qq.com/s/GRjyOMhuY-Z2OONoX5GraQ)
 - [学习交流小组每周主题摘要 No.103](https://mp.weixin.qq.com/s/bw5uYZpFJxgrRUyzUXbu_w)
 - [学习交流小组每周主题摘要 No.102](https://mp.weixin.qq.com/s/u2_eeurrhHY0eOwQs1xIyw)
 - [学习交流小组每周主题摘要 No.101](https://mp.weixin.qq.com/s/TE9nIkir2uqVrvscvrskjg)
@@ -300,6 +302,7 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [无量深度学习系统在腾讯推荐类业务的应用](https://mp.weixin.qq.com/s/xWp3-eVQWQVKnpCInsQc0Q)
 - [直播推荐算法在腾讯音乐的应用实践](https://mp.weixin.qq.com/s/Gb7BwU16bhAIUCPV3Lu7wQ)
 - [小米在知识表示学习的探索与实践](https://mp.weixin.qq.com/s/IwVpoLA1DmoDm5_Ey8rOIA)
 - [推荐算法在商业化场景中的探索实践](https://mp.weixin.qq.com/s/MHsSOtamEpvV-NyAkqX3Qg)
@@ -370,8 +373,8 @@
 
 
 ## 计算广告
+- [基于因果推断技术的广告投后归因](https://mp.weixin.qq.com/s/OGw5aYdaRj2d9nQU4e5dbw)
 - [广告主视角的信息流投放模型问题思考](https://mp.weixin.qq.com/s/5BPP2qAH4zBe11EL0k4hog)
-
 - [因果推断在阿里飞猪广告算法中的实践](https://mp.weixin.qq.com/s/C0Ndp7LbZCMOEZYJhLvCSA)
 - [阿里妈妈：基于动态背包的多场景广告序列投放算法](https://mp.weixin.qq.com/s/qOXdD4IvQZy3xt3Z0gZplg)
 - [腾讯用户增长技术：广告智能投放](https://mp.weixin.qq.com/s/N1DdXUwDEEMK5rm2uwai5Q)
@@ -477,6 +480,9 @@
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
+- [雷军做程序员时写的文章，太牛了！](https://mp.weixin.qq.com/s/bPZJ_TCHFnD4XBsNED6BhA)
+- [清华姚班教授劝退文：​我见过太多PhD，精神崩溃、心态失衡、身体垮掉、一事无成](https://mp.weixin.qq.com/s/NBXmSVUCTwjU_ypcMsUm-A)
+- [字节遭遇离职潮](https://mp.weixin.qq.com/s/fzAQY89P1W9MtE38tYMKlw)
 - [一位博士在华为的22年](https://mp.weixin.qq.com/s/IbpH_ctt9h7vQ0wV6zVVyw)
 - [太卷了，要跑路吗？](https://mp.weixin.qq.com/s/Ms-rmbefIdtvpVLHefvpXg)
 - [三十而立，我决定从字节裸辞](https://mp.weixin.qq.com/s/G6tnhSnqCW-0IaUYoGPTow)
