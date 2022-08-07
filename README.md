@@ -43,6 +43,7 @@
   
   
 ## 排序&CXR预估
+- [KDD 2022 | 快手提出基于因果消偏的观看时长预估模型D2Q，解决短视频推荐视频时长bias难题](https://mp.weixin.qq.com/s/Jg0YvlQTwVMJJPvgBP_RLg)
 - [从顶会论文看2022年推荐系统序列建模的趋势](https://mp.weixin.qq.com/s/m-r7VFL4ynyYggZ7XAzXRg)
 - [揭秘京东广告精排百分位AUC提升技术方案](https://mp.weixin.qq.com/s/T7o5LbbMHrUhEyFlg2fLBA)
 - [[美团]基于强化学习的信息流广告分配方法CrossDQN](https://mp.weixin.qq.com/s/3bc8VyVCr2wcaic26621-A)
@@ -195,6 +196,8 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.107](https://mp.weixin.qq.com/s/UT867QeCVVEkOOeyN9-bZg)
+- [学习交流小组每周主题摘要 No.106](https://mp.weixin.qq.com/s/MF6QZan81yealedskWke3g)
 - [学习交流小组每周主题摘要 No.105](https://mp.weixin.qq.com/s/3MVjU7USRstE67SYO_YCnw)
 - [学习交流小组每周主题摘要 No.104](https://mp.weixin.qq.com/s/GRjyOMhuY-Z2OONoX5GraQ)
 - [学习交流小组每周主题摘要 No.103](https://mp.weixin.qq.com/s/bw5uYZpFJxgrRUyzUXbu_w)
@@ -302,6 +305,7 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [多类目MoE模型在京东电商搜索中的应用](https://mp.weixin.qq.com/s/dcpc4xLG7Idf2_WsWOVvzQ)
 - [无量深度学习系统在腾讯推荐类业务的应用](https://mp.weixin.qq.com/s/xWp3-eVQWQVKnpCInsQc0Q)
 - [直播推荐算法在腾讯音乐的应用实践](https://mp.weixin.qq.com/s/Gb7BwU16bhAIUCPV3Lu7wQ)
 - [小米在知识表示学习的探索与实践](https://mp.weixin.qq.com/s/IwVpoLA1DmoDm5_Ey8rOIA)
@@ -373,6 +377,7 @@
 
 
 ## 计算广告
+- [阿里妈妈展示广告预估校准技术演进之路](https://mp.weixin.qq.com/s/EosRoVwxTI3mtB_7-02cWg)
 - [基于因果推断技术的广告投后归因](https://mp.weixin.qq.com/s/OGw5aYdaRj2d9nQU4e5dbw)
 - [广告主视角的信息流投放模型问题思考](https://mp.weixin.qq.com/s/5BPP2qAH4zBe11EL0k4hog)
 - [因果推断在阿里飞猪广告算法中的实践](https://mp.weixin.qq.com/s/C0Ndp7LbZCMOEZYJhLvCSA)
@@ -480,6 +485,10 @@
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
+- [润了！大龄码农从北京到荷兰的躺平生活](https://mp.weixin.qq.com/s/lssjqbRrzZ-yBYsFVBtTRQ)
+- [一个算法工程师在技术方面的反思！](https://mp.weixin.qq.com/s/SoWSTKGccaDliq5q8BKSjQ)
+- [CMU AI PhD 第一年总结](https://mp.weixin.qq.com/s/Ww7kzNTdBlZggZ6usRuAXA)
+- [计算所与北大往事回顾](https://mp.weixin.qq.com/s/gq4w3DPCWXu4_wWFZqo9XA)
 - [雷军做程序员时写的文章，太牛了！](https://mp.weixin.qq.com/s/bPZJ_TCHFnD4XBsNED6BhA)
 - [清华姚班教授劝退文：​我见过太多PhD，精神崩溃、心态失衡、身体垮掉、一事无成](https://mp.weixin.qq.com/s/NBXmSVUCTwjU_ypcMsUm-A)
 - [字节遭遇离职潮](https://mp.weixin.qq.com/s/fzAQY89P1W9MtE38tYMKlw)
