@@ -196,6 +196,8 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.109](https://mp.weixin.qq.com/s/7iRXLaoy4-ApnDVuxmlTmQ)
+- [学习交流小组每周主题摘要 No.108](https://mp.weixin.qq.com/s/GPnPKYmeRDWY3dHIaI69Vw)
 - [学习交流小组每周主题摘要 No.107](https://mp.weixin.qq.com/s/UT867QeCVVEkOOeyN9-bZg)
 - [学习交流小组每周主题摘要 No.106](https://mp.weixin.qq.com/s/MF6QZan81yealedskWke3g)
 - [学习交流小组每周主题摘要 No.105](https://mp.weixin.qq.com/s/3MVjU7USRstE67SYO_YCnw)
@@ -485,6 +487,9 @@
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
+- [施一公：清华70%的高考状元都去哪了？](https://mp.weixin.qq.com/s/92CutbhGMTN5udage-esdA)
+- [89岁，他拿下人生第三个博士学位](https://mp.weixin.qq.com/s/Ej8wnnlyC1BW_5uRYwbUfw)
+- [你是什么时候对深度学习失去信心的？](https://mp.weixin.qq.com/s/AgoQCeYP8sxai8EJCT1Zxg)
 - [润了！大龄码农从北京到荷兰的躺平生活](https://mp.weixin.qq.com/s/lssjqbRrzZ-yBYsFVBtTRQ)
 - [一个算法工程师在技术方面的反思！](https://mp.weixin.qq.com/s/SoWSTKGccaDliq5q8BKSjQ)
 - [CMU AI PhD 第一年总结](https://mp.weixin.qq.com/s/Ww7kzNTdBlZggZ6usRuAXA)
