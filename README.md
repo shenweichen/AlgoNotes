@@ -43,6 +43,8 @@
   
   
 ## 排序&CXR预估
+- [张俊林：推荐系统排序环节特征 Embedding 建模](https://mp.weixin.qq.com/s/nWAsRbND859ygPP8etKbMA)
+- [美团搜索排序实践](https://mp.weixin.qq.com/s/OmLWAkwBvIwwJDVswcpyjg)
 - [KDD 2022 | 快手提出基于因果消偏的观看时长预估模型D2Q，解决短视频推荐视频时长bias难题](https://mp.weixin.qq.com/s/Jg0YvlQTwVMJJPvgBP_RLg)
 - [从顶会论文看2022年推荐系统序列建模的趋势](https://mp.weixin.qq.com/s/m-r7VFL4ynyYggZ7XAzXRg)
 - [揭秘京东广告精排百分位AUC提升技术方案](https://mp.weixin.qq.com/s/T7o5LbbMHrUhEyFlg2fLBA)
@@ -132,8 +134,8 @@
 
 
 ## 召回匹配
+- [字节跳动高伟豪：训练目标不一致？损失无法学习？深度召回解难题！](https://mp.weixin.qq.com/s/lZQ8GL483K-vXRE0ErH_-w)
 - [多序列融合召回在新用户冷启动上的应用](https://mp.weixin.qq.com/s/6RC6XZNRvuV68h0lfDemqQ)
-
 - [内容推荐场景下多模态语义召回的若干实践](https://mp.weixin.qq.com/s/Sj7N7JSRu1cN4o9Cmo0aXQ)
 - [淘宝逛逛召回算法实践总结](https://mp.weixin.qq.com/s/fN9s5Ml4GjGK2xLOeAUN4w)
 - [全民K歌内容挖掘与召回](https://mp.weixin.qq.com/s/j6kAImadVaCFfynYAT4PCA)
@@ -183,8 +185,8 @@
 
 
 ## 用户画像&特征工程
+- [推荐算法中的特征工程](https://mp.weixin.qq.com/s/W0cIU0JZArA2Jwuaf5sI8w)
 - [网易大数据用户画像实践](https://mp.weixin.qq.com/s/Nr-suyRQQdjywqjJ5YXBvg)
-
 - [用户画像在阅文的探索与实践](https://mp.weixin.qq.com/s/SvKUTV0N7KHV3__c--KPGw)
 - [美团实时特征平台建设实践](https://mp.weixin.qq.com/s/3ri726hKD4024z3d0zgrXg)
 - [网易严选画像建设实践](https://mp.weixin.qq.com/s/8r3hoQlD6SG83irT0YHtCA) 
@@ -196,6 +198,12 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.115](https://mp.weixin.qq.com/s/RPU19p2QFX4jCTQHG4Cfig)
+- [学习交流小组每周主题摘要 No.114](https://mp.weixin.qq.com/s/oZ3Id25XA31KR4IrJiqUAQ)
+- [学习交流小组每周主题摘要 No.113](https://mp.weixin.qq.com/s/lpdZYIwVQHj8Xpz1jAYdbg)
+- [学习交流小组每周主题摘要 No.112](https://mp.weixin.qq.com/s/6qj9AnaDL_xZVRgy-fuk6Q)
+- [学习交流小组每周主题摘要 No.111](https://mp.weixin.qq.com/s/bK4m1yfVVOPwqAxKKAvvDQ)
+- [学习交流小组每周主题摘要 No.110](https://mp.weixin.qq.com/s/OezRCtdOVxSmiVwGk30QUw)
 - [学习交流小组每周主题摘要 No.109](https://mp.weixin.qq.com/s/7iRXLaoy4-ApnDVuxmlTmQ)
 - [学习交流小组每周主题摘要 No.108](https://mp.weixin.qq.com/s/GPnPKYmeRDWY3dHIaI69Vw)
 - [学习交流小组每周主题摘要 No.107](https://mp.weixin.qq.com/s/UT867QeCVVEkOOeyN9-bZg)
@@ -307,6 +315,7 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [强化学习在推荐冷启动优化中的实践探索！](https://mp.weixin.qq.com/s/-5Qxf_7dghFQXQNv8UlSQw)
 - [多类目MoE模型在京东电商搜索中的应用](https://mp.weixin.qq.com/s/dcpc4xLG7Idf2_WsWOVvzQ)
 - [无量深度学习系统在腾讯推荐类业务的应用](https://mp.weixin.qq.com/s/xWp3-eVQWQVKnpCInsQc0Q)
 - [直播推荐算法在腾讯音乐的应用实践](https://mp.weixin.qq.com/s/Gb7BwU16bhAIUCPV3Lu7wQ)
@@ -420,6 +429,8 @@
 
 
 ## 图算法 
+- [华为图神经网络在推荐系统中的应用](https://mp.weixin.qq.com/s/g6blln7cps74Z8a-fQ-cyA)
+- [什么样的图神经网络更具表达能力？](https://mp.weixin.qq.com/s/Q6g98Mrsc9FRljC_f4hk9w)
 - [图算法在流量反作弊中的实践](https://mp.weixin.qq.com/s/rpttLQCe1lrpcRO97hv4nw)
 - [梳理总结211篇论文，首篇基于图神经网络的推荐系统综述](https://mp.weixin.qq.com/s/sI6pyJ9ULJHcT5_jHSXWaA)
 - [图对比学习的最新进展](https://mp.weixin.qq.com/s/NGb-IE3cVmv-rcgZtbxB4A)
@@ -487,6 +498,13 @@
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
+- [43岁读NLP博士，无关年龄 ，一位70后大哥的励志人生](https://mp.weixin.qq.com/s/pnJWuRUMn0yQQSmiqFZUaA)
+- [从《一个NLP算法人的困境与破局》说起](https://mp.weixin.qq.com/s/gJOtUOvy0GhkNDh62tBE2Q)
+- [县城再无清华北大](https://mp.weixin.qq.com/s/WwgiyTqEeTUMiO46WqRjzQ)
+- [Shopee要抛弃算法了吗？人在新加坡，刚下飞机，就被裁了。](https://mp.weixin.qq.com/s/M-EM_2U1_WGII72MgUFoNw)
+- [从浙大计算机到字节算法岗！](https://mp.weixin.qq.com/s/iBbI2bvKhGtHfIg9GvuElQ)
+- [跑路了！在东北国企当程序员一个月的感触](https://mp.weixin.qq.com/s/SdZs69MjcV-01c0_sm4pdw)
+- [2023秋招算法岗进入地狱模式：竞争堪比考公？](https://mp.weixin.qq.com/s/qgpcCzZ66zwgYv-sQ-gZHw)
 - [施一公：清华70%的高考状元都去哪了？](https://mp.weixin.qq.com/s/92CutbhGMTN5udage-esdA)
 - [89岁，他拿下人生第三个博士学位](https://mp.weixin.qq.com/s/Ej8wnnlyC1BW_5uRYwbUfw)
 - [你是什么时候对深度学习失去信心的？](https://mp.weixin.qq.com/s/AgoQCeYP8sxai8EJCT1Zxg)
