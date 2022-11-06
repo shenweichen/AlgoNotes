@@ -43,6 +43,7 @@
   
   
 ## 排序&CXR预估
+- [重排序在快手短视频推荐系统中的演进](https://mp.weixin.qq.com/s/6uyJ9yM8lauaI3BFnXnWhw)
 - [张俊林：推荐系统排序环节特征 Embedding 建模](https://mp.weixin.qq.com/s/nWAsRbND859ygPP8etKbMA)
 - [美团搜索排序实践](https://mp.weixin.qq.com/s/OmLWAkwBvIwwJDVswcpyjg)
 - [KDD 2022 | 快手提出基于因果消偏的观看时长预估模型D2Q，解决短视频推荐视频时长bias难题](https://mp.weixin.qq.com/s/Jg0YvlQTwVMJJPvgBP_RLg)
@@ -134,6 +135,7 @@
 
 
 ## 召回匹配
+- [Embedding技术在商业搜索与推荐场景的实践](https://mp.weixin.qq.com/s/_JYnyZ2ZDrfy2BUTwyg9bw)
 - [字节跳动高伟豪：训练目标不一致？损失无法学习？深度召回解难题！](https://mp.weixin.qq.com/s/lZQ8GL483K-vXRE0ErH_-w)
 - [多序列融合召回在新用户冷启动上的应用](https://mp.weixin.qq.com/s/6RC6XZNRvuV68h0lfDemqQ)
 - [内容推荐场景下多模态语义召回的若干实践](https://mp.weixin.qq.com/s/Sj7N7JSRu1cN4o9Cmo0aXQ)
@@ -185,6 +187,7 @@
 
 
 ## 用户画像&特征工程
+- [王志杰：如何构建好的用户画像？](https://mp.weixin.qq.com/s/GJLZQ2TxdVyfnnQdtpzBdA)
 - [推荐算法中的特征工程](https://mp.weixin.qq.com/s/W0cIU0JZArA2Jwuaf5sI8w)
 - [网易大数据用户画像实践](https://mp.weixin.qq.com/s/Nr-suyRQQdjywqjJ5YXBvg)
 - [用户画像在阅文的探索与实践](https://mp.weixin.qq.com/s/SvKUTV0N7KHV3__c--KPGw)
@@ -198,6 +201,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.118](https://mp.weixin.qq.com/s/g_VB8R5SgbG7ezoYEelcMA)
+- [学习交流小组每周主题摘要 No.117](https://mp.weixin.qq.com/s/fHdMlvYLjs7QcTam8xaRWg)
+- [学习交流小组每周主题摘要 No.116](https://mp.weixin.qq.com/s/XSqddw9-d9U0PmFXE9Jg2g)
 - [学习交流小组每周主题摘要 No.115](https://mp.weixin.qq.com/s/RPU19p2QFX4jCTQHG4Cfig)
 - [学习交流小组每周主题摘要 No.114](https://mp.weixin.qq.com/s/oZ3Id25XA31KR4IrJiqUAQ)
 - [学习交流小组每周主题摘要 No.113](https://mp.weixin.qq.com/s/lpdZYIwVQHj8Xpz1jAYdbg)
@@ -429,6 +435,7 @@
 
 
 ## 图算法 
+- [郭沛东：图模型在信息流推荐的原理和实践](https://mp.weixin.qq.com/s/0xH9b1DB4hPK23waY-Dx1A)
 - [华为图神经网络在推荐系统中的应用](https://mp.weixin.qq.com/s/g6blln7cps74Z8a-fQ-cyA)
 - [什么样的图神经网络更具表达能力？](https://mp.weixin.qq.com/s/Q6g98Mrsc9FRljC_f4hk9w)
 - [图算法在流量反作弊中的实践](https://mp.weixin.qq.com/s/rpttLQCe1lrpcRO97hv4nw)
@@ -498,6 +505,7 @@
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
+- [应届NLPer入职华为OD一个半月，治好了我的精神内耗](https://mp.weixin.qq.com/s/HpEbQC4Ja3Zkz9qBDwvAOw)
 - [43岁读NLP博士，无关年龄 ，一位70后大哥的励志人生](https://mp.weixin.qq.com/s/pnJWuRUMn0yQQSmiqFZUaA)
 - [从《一个NLP算法人的困境与破局》说起](https://mp.weixin.qq.com/s/gJOtUOvy0GhkNDh62tBE2Q)
 - [县城再无清华北大](https://mp.weixin.qq.com/s/WwgiyTqEeTUMiO46WqRjzQ)
@@ -522,6 +530,7 @@
 - [大规模裁员后，计算机会成为下一个土木吗？](https://mp.weixin.qq.com/s/y0L9Aad_U18_wdNaQyv7CQ)
 
 ## 求职面试
+- [万字长文：给算法校招同学的一些建议！](https://mp.weixin.qq.com/s/hXLZTkVRfd1YsBzx1lL9Qg)
 - [算法实习指南](https://mp.weixin.qq.com/s/a2yE9r34sg7ADQVnmXb89w)
 - [随记：加入微软三个月后](https://mp.weixin.qq.com/s/qWs8_qHYYbvjXPiOJXHlrg)
 - [内卷？谈谈AI算法人才职业发展](https://mp.weixin.qq.com/s/AYwkkdFYVccf4QlWNP_v-g)
