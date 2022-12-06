@@ -43,6 +43,9 @@
   
   
 ## 排序&CXR预估
+- [贝壳CVR转化率预估模型实践](https://mp.weixin.qq.com/s/Ozks-qEAWa6df01pSZEI4A)
+- [强化学习在京东广告序列推荐中的应用](https://mp.weixin.qq.com/s/SR989rBgeEbHzdw1rwsyIA)
+- [QQ音乐排序模型优化](https://mp.weixin.qq.com/s/b1DCPuO-yzR4oZpzx3xVfg)
 - [重排序在快手短视频推荐系统中的演进](https://mp.weixin.qq.com/s/6uyJ9yM8lauaI3BFnXnWhw)
 - [张俊林：推荐系统排序环节特征 Embedding 建模](https://mp.weixin.qq.com/s/nWAsRbND859ygPP8etKbMA)
 - [美团搜索排序实践](https://mp.weixin.qq.com/s/OmLWAkwBvIwwJDVswcpyjg)
@@ -135,6 +138,7 @@
 
 
 ## 召回匹配
+- [深度学习下的京东搜索召回技术](https://mp.weixin.qq.com/s/JM9o7p61xM3-fQbGFkMm5Q)
 - [Embedding技术在商业搜索与推荐场景的实践](https://mp.weixin.qq.com/s/_JYnyZ2ZDrfy2BUTwyg9bw)
 - [字节跳动高伟豪：训练目标不一致？损失无法学习？深度召回解难题！](https://mp.weixin.qq.com/s/lZQ8GL483K-vXRE0ErH_-w)
 - [多序列融合召回在新用户冷启动上的应用](https://mp.weixin.qq.com/s/6RC6XZNRvuV68h0lfDemqQ)
@@ -201,6 +205,10 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.122](https://mp.weixin.qq.com/s/ba8EoliNJnwNCAvs8mSApw)
+- [学习交流小组每周主题摘要 No.121](https://mp.weixin.qq.com/s/EfmiH6mw2NhPpqHSWe0yxw)
+- [学习交流小组每周主题摘要 No.120](https://mp.weixin.qq.com/s/OZuPvZZfmsxreLaszRDm6Q)
+- [学习交流小组每周主题摘要 No.119](https://mp.weixin.qq.com/s/cgZMML37hWDM_VufzWGT1w)
 - [学习交流小组每周主题摘要 No.118](https://mp.weixin.qq.com/s/g_VB8R5SgbG7ezoYEelcMA)
 - [学习交流小组每周主题摘要 No.117](https://mp.weixin.qq.com/s/fHdMlvYLjs7QcTam8xaRWg)
 - [学习交流小组每周主题摘要 No.116](https://mp.weixin.qq.com/s/XSqddw9-d9U0PmFXE9Jg2g)
@@ -321,6 +329,7 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [因果推断在快手推荐场景的应用探索](https://mp.weixin.qq.com/s/RsggF6ayuRS5ocxbcytKkA)
 - [强化学习在推荐冷启动优化中的实践探索！](https://mp.weixin.qq.com/s/-5Qxf_7dghFQXQNv8UlSQw)
 - [多类目MoE模型在京东电商搜索中的应用](https://mp.weixin.qq.com/s/dcpc4xLG7Idf2_WsWOVvzQ)
 - [无量深度学习系统在腾讯推荐类业务的应用](https://mp.weixin.qq.com/s/xWp3-eVQWQVKnpCInsQc0Q)
@@ -505,6 +514,7 @@
 - [l2 regularization 和 weight decay的不同](https://mp.weixin.qq.com/s/aXe1QTZSzUCicJ-_SKuGlQ)
 
 ## 心得感悟
+- [农业银行工作两个月，聊聊现状](https://mp.weixin.qq.com/s/0GnNDxdmygaBGuRW9ML8JQ)
 - [应届NLPer入职华为OD一个半月，治好了我的精神内耗](https://mp.weixin.qq.com/s/HpEbQC4Ja3Zkz9qBDwvAOw)
 - [43岁读NLP博士，无关年龄 ，一位70后大哥的励志人生](https://mp.weixin.qq.com/s/pnJWuRUMn0yQQSmiqFZUaA)
 - [从《一个NLP算法人的困境与破局》说起](https://mp.weixin.qq.com/s/gJOtUOvy0GhkNDh62tBE2Q)
@@ -530,6 +540,7 @@
 - [大规模裁员后，计算机会成为下一个土木吗？](https://mp.weixin.qq.com/s/y0L9Aad_U18_wdNaQyv7CQ)
 
 ## 求职面试
+- [互联网最值得加入的173家国企汇总](https://mp.weixin.qq.com/s/HP3wjDjd6VNWNcY4nkntTg)
 - [万字长文：给算法校招同学的一些建议！](https://mp.weixin.qq.com/s/hXLZTkVRfd1YsBzx1lL9Qg)
 - [算法实习指南](https://mp.weixin.qq.com/s/a2yE9r34sg7ADQVnmXb89w)
 - [随记：加入微软三个月后](https://mp.weixin.qq.com/s/qWs8_qHYYbvjXPiOJXHlrg)
