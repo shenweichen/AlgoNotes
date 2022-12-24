@@ -43,6 +43,7 @@
   
   
 ## 排序&CXR预估
+- [京东推荐算法精排技术实践](https://mp.weixin.qq.com/s/fBsDPiU1y78XLbvxrPs6xQ)
 - [贝壳CVR转化率预估模型实践](https://mp.weixin.qq.com/s/Ozks-qEAWa6df01pSZEI4A)
 - [强化学习在京东广告序列推荐中的应用](https://mp.weixin.qq.com/s/SR989rBgeEbHzdw1rwsyIA)
 - [QQ音乐排序模型优化](https://mp.weixin.qq.com/s/b1DCPuO-yzR4oZpzx3xVfg)
@@ -138,6 +139,7 @@
 
 
 ## 召回匹配
+- [图神经网络在快手推荐召回中的应用和挑战](https://mp.weixin.qq.com/s/9nWFMR2LMdzLQATY5oHpBQ)
 - [深度学习下的京东搜索召回技术](https://mp.weixin.qq.com/s/JM9o7p61xM3-fQbGFkMm5Q)
 - [Embedding技术在商业搜索与推荐场景的实践](https://mp.weixin.qq.com/s/_JYnyZ2ZDrfy2BUTwyg9bw)
 - [字节跳动高伟豪：训练目标不一致？损失无法学习？深度召回解难题！](https://mp.weixin.qq.com/s/lZQ8GL483K-vXRE0ErH_-w)
@@ -205,6 +207,9 @@
 ](https://mp.weixin.qq.com/s/orT91nj1Xz3Lxe22--PqCw) 
 
 ## 精彩讨论&知识沉淀
+- [学习交流小组每周主题摘要 No.125](https://mp.weixin.qq.com/s/1ZJAEB3XW_bbQb-o34N84Q)
+- [学习交流小组每周主题摘要 No.124](https://mp.weixin.qq.com/s/sNsKYcgkT4kxyR5MQHQ2Pw)
+- [学习交流小组每周主题摘要 No.123](https://mp.weixin.qq.com/s/8r5w47cxu2zuzkTskyw6NA)
 - [学习交流小组每周主题摘要 No.122](https://mp.weixin.qq.com/s/ba8EoliNJnwNCAvs8mSApw)
 - [学习交流小组每周主题摘要 No.121](https://mp.weixin.qq.com/s/EfmiH6mw2NhPpqHSWe0yxw)
 - [学习交流小组每周主题摘要 No.120](https://mp.weixin.qq.com/s/OZuPvZZfmsxreLaszRDm6Q)
@@ -329,6 +334,7 @@
 - [学习交流小组精彩内容摘要(01.04-01.12)](https://mp.weixin.qq.com/s/m3Az_8aE9KYbYH5CcOuoyA)
 
 ## 推荐搜索综合
+- [QQ音乐推荐系统算法架构实践](https://mp.weixin.qq.com/s/NFGOPQwKZ9vI35KXwmT2hw)
 - [因果推断在快手推荐场景的应用探索](https://mp.weixin.qq.com/s/RsggF6ayuRS5ocxbcytKkA)
 - [强化学习在推荐冷启动优化中的实践探索！](https://mp.weixin.qq.com/s/-5Qxf_7dghFQXQNv8UlSQw)
 - [多类目MoE模型在京东电商搜索中的应用](https://mp.weixin.qq.com/s/dcpc4xLG7Idf2_WsWOVvzQ)
@@ -403,6 +409,7 @@
 
 
 ## 计算广告
+- [网易云音乐广告算法实践](https://mp.weixin.qq.com/s/MIwveAoRZYDTNM-RubdQ4A)
 - [阿里妈妈展示广告预估校准技术演进之路](https://mp.weixin.qq.com/s/EosRoVwxTI3mtB_7-02cWg)
 - [基于因果推断技术的广告投后归因](https://mp.weixin.qq.com/s/OGw5aYdaRj2d9nQU4e5dbw)
 - [广告主视角的信息流投放模型问题思考](https://mp.weixin.qq.com/s/5BPP2qAH4zBe11EL0k4hog)
@@ -482,6 +489,8 @@
 
 
 ## NLP&CV
+- [张俊林：ChatGPT会取代搜索引擎吗？](https://mp.weixin.qq.com/s/VqZh8eKOR7u5kPq0JymTzg)
+- [如何评价OpenAI的超级对话模型ChatGPT？](https://mp.weixin.qq.com/s/_GDlGDOCxMJsP0nIw_yO-Q)
 - [美团商品知识图谱的构建及应用](https://mp.weixin.qq.com/s/i6kzpWXrIbKIjmq-hLnxng)
 - [MSRA自监督学习与注意力建模研究实践](https://mp.weixin.qq.com/s/d8f4-HG3hgtyp1N5ZeLsMQ)
 - [火山翻译：工业级应用与研究](https://mp.weixin.qq.com/s/9fcQbumfCT2evERVcPb8eA)
